@@ -11,6 +11,8 @@ Instead, they can be made available to a shared file store (R: drive) to which a
 
 Members of the DAT can make packages available to be installed to a VRE from this repository instead of CRAN.
 
+A copy of these instructions has been made available from within LASER VREs at **R:\Instructions**.
+
 ### Installing packages
 Once a package has been made available to R: drive it can be installed to a library within a VRE.
 
