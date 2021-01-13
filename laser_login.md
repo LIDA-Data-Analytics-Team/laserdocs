@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Connect to LASER
-nav_order: 1.1
+nav_order: 2
 ---
 
 ## How to connect to a Virtual Research Environment
 
 ### Prerequisites
-You will need 
+You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
   - Citrix Workspace is available through Software Centre on UoL managed devices.
 - Duo two factor authentication enabled.
