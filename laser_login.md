@@ -16,7 +16,8 @@ You will need:
 ### Log in to the Storefront
 - Navigate to the StoreFront here: [https://laser.leeds.ac.uk/](https://laser.leeds.ac.uk/).
 - Sign in using your University of Leeds credentials.
-- When prompted, choose an authentication method and accept the login request/enter the passcode.
+- When prompted, choose an authentication method and accept the login request/enter the passcode.  
+![duo_auth_prompt.png](./images/duo_auth_prompt.png)
 - You may be asked if Citrix Receiver is installed:
   - Click to detect installation.
   - Allow browser to 'Open Citrix Workspace Launcher'.
