@@ -9,7 +9,7 @@ VREs within LASER lack internet connectivity by design, so R packages cannot be 
 
 Instead, they can be made available to a shared file store (R: drive) to which all VREs/researchers will have read access to.
 
-Members of the DAT can make packages available to be installed to a VRE from this repository instead of CRAN. LASER miniCRAN (for DAT)
+Members of the DAT can make packages available to be installed to a VRE from this repository instead of CRAN.
 
 ### Installing packages
 Once a package has been made available to R: drive it can be installed to a library within a VRE.
