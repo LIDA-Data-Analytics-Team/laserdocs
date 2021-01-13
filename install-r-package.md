@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Installing R Packages"
-nav_order: 1
+nav_order: 2
 ---
 ## Installing R Packages
 
