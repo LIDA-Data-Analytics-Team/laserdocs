@@ -23,7 +23,9 @@ You will need:
   - If not detected but installation is present click 'Already installed'.
 - You are now presented with all of the VRE desktops you have access to.
 - Click on the image of the monitor or expand the optinos and click 'Open' to connect.
-  - You may be asked to download a *.ica launcher file. 
-	![citrix_launch_file.png](./images/citrix_launch_file.png)
+  - You may be asked to download a *.ica launcher file.
+  /
+  ![citrix_launch_file.png](./images/citrix_launch_file.png)
+  /
   - Save and open this file, it will be deleted when your session ends.
 - Citrix Workspace will launch and connect to your chosen VRE desktop.
