@@ -28,3 +28,4 @@ pth <- "file:///R:/miniCRAN"
 install.packages(pkg, repos = pth)
 ```
 
+If a required package is not currently available please contact a member of the DAT at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk)
