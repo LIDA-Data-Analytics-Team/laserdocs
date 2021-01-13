@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Installing R Packages"
-nav_order: 2
+nav_order: 3
 ---
 ## R Packages in LASER
 
@@ -19,7 +19,7 @@ All researchers should have read access to R: drive from all VREs.
 The method is the same as usual, we just need to point to the miniCRAN repository on R: drive.
 
 Add package name(s) to pkg and run to install package(s) and dependencies from the LASER miniCRAN repository:
-```markdown
+```r
 # Set variable values
 pkg <- c()
 pth <- "file:///R:/miniCRAN"
