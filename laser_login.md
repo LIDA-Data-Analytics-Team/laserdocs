@@ -2,9 +2,21 @@
 layout: default
 title: Connect to LASER
 nav_order: 2
+video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7adbf4b6861d"
+video_description: Logging into your LASER VRE
 ---
 
 ## How to connect to a Virtual Research Environment
+
+<div class="t60">
+    <div class="medium-4 columns">
+        <iframe src="{{ video_src }}" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="auto" allowfullscreen="allowfullscreen" style="display:block;">
+        </iframe>
+        <p> 
+            {{ video_description }}
+        </p>
+    </div>
+</div>
 
 ### Prerequisites
 You will need:
