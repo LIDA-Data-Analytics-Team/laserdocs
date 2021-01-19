@@ -17,6 +17,8 @@ Research is conducted by connecting to a virtual machine (VM) within a VRE. The 
 
 ![LASER.png](./images/laser_smol.png)
 
+More complex and involved VREs can be designed; please discuss your project requirements with a member of the Data Analytics Team as early as possible to explore what might be suitable.
+
 **The LASER Platform has been designed with and for researchers and includes the following capabilities:**
 - Fully fexible and scalable to enable researchers to align spend to research requirements.
 - Agile and quick to provision, to support a range of research user cases.
