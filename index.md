@@ -8,11 +8,21 @@ nav_order: 0
 
 LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the fexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and effciency of time for researchers.
 
+### What is a Virtual Research Environment? 
+LASER is the platform upon which we can build and host Virtual Research Environments (VREs). 
+
+In their simplest form a VRE is a virtualised environment consisting of virtual machines and shared storage where data flow is strictly controlled. Taking a 'walled garden' approach there is _no access to the internet_ or other networks from inside a VRE. 
+
+Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to and run directly on the VMs. 
+
+![LASER.png](./images/laser_smol.png)
+
 **The LASER Platform has been designed with and for researchers and includes the following capabilities:**
 - Fully fexible and scalable to enable researchers to align spend to research requirements.
 - Agile and quick to provision, to support a range of research user cases.
 - Access to the latest tools and capabilities such as machine learning to support researchers. 
 
+### Standards & Specifications
 **The system has been specifed and is maintained to ensure the highest standards of data security:**
 - Resilience levels and backups provided by one of the most cyber-aware and heavily invested companies in the world. 
 - Regularly patched with the latest software and operating system updates.
