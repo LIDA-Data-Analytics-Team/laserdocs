@@ -1,4 +1,16 @@
-remote_theme: pmarsceill/just-the-docs
+### Basic details
 title: LASER Help Docs
+author: LIDA Data Analytics Team (DAT)
+email: ircdst@leeds.ac.uk
 description: Collection of guides on how to conduct research within LASER 
-# logo: https://lida.leeds.ac.uk/wp-content/uploads/2016/04/LIDA-logo.png
+
+### Site build settings
+theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+ 
+### License config
+license: GNU GPLv3
+license_url: https://www.gnu.org/licenses/gpl-3.0.html
+
+### Site content
+#logo: https://lida.leeds.ac.uk/wp-content/uploads/2016/04/LIDA-logo.png
