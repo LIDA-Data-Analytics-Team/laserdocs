@@ -5,8 +5,8 @@ email: ircdst@leeds.ac.uk
 description: Collection of guides on how to conduct research within LASER 
 
 ### Site build settings
-theme: just-the-docs
-#remote_theme: pmarsceill/just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
  
 ### License config
 license: GNU GPLv3
