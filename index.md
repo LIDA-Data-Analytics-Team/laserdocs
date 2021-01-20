@@ -15,7 +15,7 @@ In their simplest form a VRE is a virtualised environment consisting of virtual 
 
 Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to and run directly on the VMs. 
 
-![LASER.png](./images/laser_smol.png)
+![LASER.png](./images/index/laser_smol.png)
 
 More complex and involved VREs can be designed; please discuss your project requirements with a member of the Data Analytics Team as early as possible to explore what might be suitable.
 
