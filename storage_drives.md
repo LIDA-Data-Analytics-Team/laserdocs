@@ -21,3 +21,5 @@ The C: drive is the operating system storage and does not benefit from the same 
 M: drive is similarly existant on the virtual machine only and should be avoided.
 
 R: and P: drives relate to package repositories that you will only have read access to.
+
+'staging' is used for data transfers to and from the VRE.
