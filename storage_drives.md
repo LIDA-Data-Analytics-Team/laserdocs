@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Storage
+title: Project Storage
 nav_order: 3
 ---
 
