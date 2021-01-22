@@ -5,6 +5,7 @@ nav_order: 999
 ---
 
 ## Troubleshooting
+Here are the answers to some common issues. If you have a problem not covered here please get in touch with the Data Analytics Team at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk).
 
 [My desktop won't start](./troubleshoot.html#my-desktop-wont-start) 
 
