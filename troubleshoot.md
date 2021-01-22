@@ -17,7 +17,7 @@ Here are the answers to some common issues. If you have a problem not covered he
 
 ![cannot_start_desktop.png](./images/troubleshoot/cannot_start_desktop.png)
 
-Chances are good that another member of your team is currently logged in to that specific virtual machine.
+Chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
 
 A VM will remain 'occupied' even if the user has disconnected. 
 
