@@ -16,6 +16,7 @@ We recommend saving all of your documents to the N: drive so that they benefit f
 
 ![N: drive](./images/storage_drives/laser_drives_shared_highlight.png)
 
+### Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.
 
 M: drive is similarly existant on the virtual machine only and should be avoided.
