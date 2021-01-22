@@ -5,8 +5,10 @@ nav_order: 999
 ---
 
 ## Troubleshooting
-[My desktop won't start](./troubleshoot.html#My-desktop-won't-start)
-[I cannot see R: drive](./troubleshoot.html#I-cannot-see-R:-drive)
+
+[My desktop won't start](./troubleshoot.html#my-desktop-wont-start) 
+
+[I cannot see R: drive](./troubleshoot.html#i-cannot-see-r-drive) 
 
 
 ### My desktop won't start
