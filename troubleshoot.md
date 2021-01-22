@@ -28,7 +28,7 @@ You may need to manually map the R: drive to your machine.
 	![network_context_menu.png](./images/troubleshoot/network_context_menu.png)
 - Select 'Map network drive'
 - Drive = R: 
-- Folder = \\azlrdprepos.file.core.windows.net\r-repo
+- Folder = \\\azlrdprepos.file.core.windows.net\r-repo
 	![map_r_drive.png](./images/troubleshoot/map_r_drive.png)
 - Click finish 
 
