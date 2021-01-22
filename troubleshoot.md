@@ -11,8 +11,10 @@ Here are the answers to some common issues. If you have a problem not covered he
 [My desktop won't start](./troubleshoot.html#my-desktop-wont-start) 
 
 [I cannot see R: drive](./troubleshoot.html#i-cannot-see-r-drive) 
-
-
+ 
+ 
+ 
+ 
 #### My desktop won't start
 
 ![cannot_start_desktop.png](./images/troubleshoot/cannot_start_desktop.png)
