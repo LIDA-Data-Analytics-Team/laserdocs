@@ -19,7 +19,7 @@ Chances are good that another member of your team is currently logged in to that
 
 A VM will remain 'occupied' even if the user has disconnected. 
 
-Simply closing the window ('X'ing out) will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
+Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
 ### I cannot see R: drive
 
