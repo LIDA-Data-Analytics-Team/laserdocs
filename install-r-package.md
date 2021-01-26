@@ -20,7 +20,7 @@ All researchers should have read access to R: drive from all VREs.
 
 The method is the same as usual, we just need to point to the miniCRAN repository on R: drive.
 
-Add package name(s) to pkg and run to install package(s) and dependencies from the LASER miniCRAN repository:
+Add package name(s) to pkg (eg. `pkg <- c("rJava", "seriation")`) and run to install package(s) and dependencies from the LASER miniCRAN repository:
 ```r
 # Set variable values
 pkg <- c()
