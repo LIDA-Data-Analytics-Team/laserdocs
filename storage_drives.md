@@ -14,6 +14,10 @@ N: drive is shared across all VMs in your VRE.
 
 We recommend saving all of your documents to the N: drive so that they benefit from the higher level backup schedule and remain available to the rest of your team. 
 
+Permissions to the N: drive will be set up according to your project requirements; the default position is that all project members have read/write access to all areas of the N: drive.
+
+Please note that file deletions are permanent. There is no 'Recycle Bin'.
+
 ![N: drive](./images/storage_drives/laser_drives_shared_highlight_2.png)
 
 ### Other drives 
