@@ -19,8 +19,8 @@ We recommend saving all of your documents to the N: drive so that they benefit f
 ### Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.
 
-M: drive contains the user directories. It is similarly existant on the virtual machine only and _we recommend using M: be avoided_. 
-Files saved to M: (Documents, Downloads etc.) will not be available across the VRE, only on the VM you are currently connected to. They also do not benefit from the same backup retention schedule as project storage on N: drive.
+M: drive contains the user directories that contain the default _'Quick access'_ folders. It is similarly existant on the virtual machine only and we recommend the use of **M: (incl. Documents, Downloads, etc.) is avoided**.  
+Files saved to user directories on M: (Documents, Downloads etc.) will not be available across the VRE, only on the VM you are currently connected to. They also do not benefit from the same backup retention schedule as project storage on N: drive.
 
 R: and P: drives relate to package repositories that you will only have read access to.
 
