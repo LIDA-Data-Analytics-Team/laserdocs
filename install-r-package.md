@@ -28,6 +28,8 @@ pth <- "file:///R:/miniCRAN"
 
 # Install package(s) from LASER miniCRAN
 install.packages(pkg, repos = pth)
-```
+```  
+  
+When installing packages you may see a warning message about Rtools not being installed. You can ignore this warning. Rtools is installed and the required package will have installed properly.
 
 If a required package is not currently available please contact a member of the DAT at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk)
