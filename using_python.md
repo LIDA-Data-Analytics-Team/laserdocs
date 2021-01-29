@@ -18,7 +18,7 @@ Details follow on how to use conda environments in various ways.
 
 - Open Anaconda Prompt (cmd) from the Start menu by typing anaconda in the search bar and selecting it from the results.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/01_open_conda.png" width=600px alt="01_open_conda.png">
+    <img src="/images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
 </div>
 
 - Activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
@@ -26,7 +26,7 @@ Details follow on how to use conda environments in various ways.
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
 - You can check that the environment contains the software you need by running `conda list`.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/03_list_env.png" width=600px alt="03_list_env.png">
+    <img src="/images/using_python/03_list_env.PNG" width=600px alt="03_list_env.PNG">
 </div>
 
 - Run Python code in the command line using the `python` command, like you normally would.
@@ -48,8 +48,8 @@ Details follow on how to use conda environments in various ways.
 
 - Activate your conda environment at the command line.
 - The first time you want use your environment in a jupyter book, you'll first need to install an ipython kernel by running
-`ipython kernel install --user --name=<env-name>`
-Where <env-name> can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for environment at P:\_demo\demo_env name your ipython kernel demo_env).
+<br>`ipython kernel install --user --name=<env-name>`<br>
+Where `<env-name>` can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for environment at P:\_demo\demo_env name your ipython kernel demo_env).
 - You won't need to install a new kernel in future
 - Type `jupyter notebook` to load Jupyter using your environment.
 - Jupyter Notebook will open.
@@ -62,5 +62,5 @@ Where <env-name> can be replaced with a name of your choice. We recommend you us
 - A new notebook will open, which will have access to all the software in your environment.
 - Check your notebook is using the right kernel by looking at the kernel name in the top right.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/06_jupyter_kernel_confirmed.png" width=600px alt="06_jupyter_kernel_confirmed.png">
+    <img src="/images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
 </div>
