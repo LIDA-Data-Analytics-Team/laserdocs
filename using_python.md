@@ -17,13 +17,18 @@ Details follow on how to use conda environments in various ways.
 ### Using conda at the command line
 
 - Open Anaconda Prompt (cmd) from the Start menu by typing anaconda in the search bar and selecting it from the results.
-![01_open_conda.png](images/using_python/01_open_conda.png)
+<div style="width:600px; margin:0 auto;">
+    <img src="/images/using_python/01_open_conda.png" width=600px alt="01_open_conda.png">
+</div>
+
 - Activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
 `conda activate P:\_demo\demo_env`
-![02_activate_env.png](images/using_python/02_activate_env.png)
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
 - You can check that the environment contains the software you need by running `conda list`.
-![03_list_env.png](images/using_python/03_list_env.png)
+<div style="width:600px; margin:0 auto;">
+    <img src="/images/using_python/03_list_env.png" width=600px alt="03_list_env.png">
+</div>
+
 - Run Python code in the command line using the `python` command, like you normally would.
 - Use this environment as you would use any other. Instructions on how to use your environment in various Python IDEs are below.
 - To deactivate the environment, type:
@@ -35,7 +40,9 @@ Details follow on how to use conda environments in various ways.
 - Type `spyder` to load Spyder using your environment.
 - Spyder will then have access to all the modules and dependencies for your project. Create Spyder projects and use as you normally would.
 - To check Spyder is correctly using your environment, hover over the name of the active Python interpreter in the bottom status bar and the file path that appears should show the python.exe within your environment
-![04_spyder_confirm_env.png](images/using_python/04_spyder_confirm_env.png)
+<div style="width:600px; margin:0 auto;">
+    <img src="/images/using_python/04_spyder_confirm_env.png" width=600px alt="04_spyder_confirm_env.png">
+</div>
 
 ### Using conda in Jupyter Notebook
 
@@ -48,7 +55,12 @@ Where <env-name> can be replaced with a name of your choice. We recommend you us
 - Jupyter Notebook will open.
 - Navigate to a folder where you want to create a new notebook
 - Click New and then select your environment's kernel from the dropdown.
-![05_jupyter_kernel.png](images/using_python/05_jupyter_kernel.png)
+<div style="width:600px; margin:0 auto;">
+    <img src="/images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
+</div>
+
 - A new notebook will open, which will have access to all the software in your environment.
 - Check your notebook is using the right kernel by looking at the kernel name in the top right.
-![06_jupyter_kernel_confirmed.png](images/using_python/06_jupyter_kernel_confirmed.png)
+<div style="width:600px; margin:0 auto;">
+    <img src="/images/using_python/06_jupyter_kernel_confirmed.png" width=600px alt="06_jupyter_kernel_confirmed.png">
+</div>
