@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Using Python
+nav_order: 5
 ---
 
 ## Using Python in LASER
