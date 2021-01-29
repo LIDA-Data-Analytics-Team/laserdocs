@@ -27,7 +27,7 @@ Details follow on how to use conda environments in various ways.
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
 - You can check that the environment contains the software you need by running `conda list`.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/03_list_env.PNG" width=600px alt="03_list_env.PNG">
+    <img src="./images/using_python/03_list_env.PNG" width=600px alt="03_list_env.PNG">
 </div>
 
 - Run Python code in the command line using the `python` command, like you normally would.
@@ -42,7 +42,7 @@ Details follow on how to use conda environments in various ways.
 - Spyder will then have access to all the modules and dependencies for your project. Create Spyder projects and use as you normally would.
 - To check Spyder is correctly using your environment, hover over the name of the active Python interpreter in the bottom status bar and the file path that appears should show the python.exe within your environment
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/04_spyder_confirm_env.png" width=600px alt="04_spyder_confirm_env.png">
+    <img src="./images/using_python/04_spyder_confirm_env.png" width=600px alt="04_spyder_confirm_env.png">
 </div>
 
 ### Using conda in Jupyter Notebook
@@ -57,11 +57,11 @@ Where `<env-name>` can be replaced with a name of your choice. We recommend you 
 - Navigate to a folder where you want to create a new notebook
 - Click New and then select your environment's kernel from the dropdown.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
+    <img src="./images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
 </div>
 
 - A new notebook will open, which will have access to all the software in your environment.
 - Check your notebook is using the right kernel by looking at the kernel name in the top right.
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
+    <img src="./images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
 </div>
