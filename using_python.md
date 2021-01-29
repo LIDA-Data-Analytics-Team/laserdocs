@@ -17,8 +17,9 @@ Details follow on how to use conda environments in various ways.
 ### Using conda at the command line
 
 - Open Anaconda Prompt (cmd) from the Start menu by typing anaconda in the search bar and selecting it from the results.
+
 <div style="width:600px; margin:0 auto;">
-    <img src="/images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
+    <img src="./images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
 </div>
 
 - Activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
