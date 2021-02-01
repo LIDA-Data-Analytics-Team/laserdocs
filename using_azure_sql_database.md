@@ -21,13 +21,17 @@ Change 'Connect to database' from \<default> to the name of your database.
 
 Click 'Connect' and your database will appear in the Object Explorer.
 
-## Connect to database via research software
+## Connect to database via ODBC
 
-Your connection string will need to include at least the server name, database name, driver name and authentication type. 
+Your connection string will need to include at least 
+- Server name
+- Database name
+- Driver name 
+- Authentication type
 
 Azure SQL Database server names take the form `<ServerName>.database.windows.net`.
 
-LASER uses 'Azure Active Directory - Integrated' authentication to enable Contained Users to connect to Azure SQL Databases.
+LASER uses _'Azure Active Directory - Integrated'_ authentication to enable Contained Users to connect to Azure SQL Databases.
 
 Few ODBC drivers currently support 'Azure Active Directory - Integrated' authentication, including 'SQL Server Native Client 11.0'. A driver that does support it is '**ODBC Driver 17 For SQL Server**', so this must be specified in your connection string.
 
