@@ -23,7 +23,7 @@ Click 'Connect' and your database will appear in the Object Explorer.
 
 ## Connect to database via ODBC
 
-Your connection string will need to include at least 
+Your connection string will need to include at least:  
 - Server name
 - Database name
 - Driver name 
