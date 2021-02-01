@@ -54,6 +54,7 @@ Details follow on how to use conda environments in various ways.
 <br>`ipython kernel install --user --name=<env-name>`<br>
 Where `<env-name>` can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for environment at P:\_demo\demo_env name your ipython kernel demo_env).
 - You won't need to install a new kernel in future
+- If you want to change Jupyter Notebook's home directory, work through [instructions below](./using_python.html#change-jupyter-home-directory) before moving to next step.
 - Type `jupyter notebook` to load Jupyter using your environment.
 - Jupyter Notebook will open.
 - Navigate to a folder where you want to create a new notebook
@@ -67,3 +68,28 @@ Where `<env-name>` can be replaced with a name of your choice. We recommend you 
 <div style="width:600px; margin:0 auto;">
     <img src="./images/using_python/06_jupyter_kernel_confirmed.PNG" width=600px alt="06_jupyter_kernel_confirmed.PNG">
 </div>
+
+#### Change Jupyter Home Directory
+
+- By default, Jupyter Notebook will start up with `C:\` as its home directory. Only files within `C:\` will be accessible using the Notebook Dashboard.
+- You most probably will want to store your notebooks in your VRE's shared storage (`N:\`), where your data will also be stored.
+- To view `N:\` in the Notebook Dashboard, you can simply change directory to `N:\` before starting `jupyter notebook`:
+    - Open Anaconda Prompt and activate your conda environment using instructions above.
+    - Change directory to your VRE's shared storage by typing `N:` and hitting the enter key.
+    - Your prompt should change to `N:\>`.
+    - Type `jupyter notebook` in Anaconda Prompt and hit enter to open Jupyter Notebook.
+- The instructions above are simple but will not persist, meaning you must change directory to `N:\` every time.
+- To permanently make jupyter notebook open showing `N:\` as your home directory, perform the following steps:
+    - Open Anaconda Prompt and activate your conda environment.
+    - Run `jupyter notebook --generate-config`.
+    - This writes a file to `C:\Users\<username>\.jupyter\jupyter_notebook_config.py`.
+<div style="width:600px; margin:0 auto;">
+    <img src="./images/using_python/06-1_jupyter_set_home_dir.png" width=600px alt="06-1_jupyter_set_home_dir.png">
+</div>
+    - Open this file in an editor and search for the `c.NotebookApp.notebook_dir` config setting.
+    - Put the file path for your desired home directory in the empty string, using forward slashes. E.g., `N:/`
+    - Uncomment the setting by removing the hash (#).
+    - Where the line previously was `#c.NotebookApp.notebook_dir = ''` will now be `c.NotebookApp.notebook_dir = 'N:\'` or similar.
+    - Save the change and close the file.
+    - Run `jupyter notebook` in Anaconda Prompt, while your environment is active, and the Notebook Dashboard should appear showing your chosen home directory in the Dashboard file manager.
+    - This setting will apply for your user only, on that VM only. Another user, or the same user in a different VM in the same VRE will need to repeat these steps. The setting may apply to all conda environments.
