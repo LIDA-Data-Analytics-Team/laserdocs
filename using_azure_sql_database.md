@@ -19,6 +19,8 @@ Click 'Options >>' and go to the second tab 'Connection Properties'.
 
 Change 'Connect to database' from \<default> to the name of your database.
 
+Click 'Connect' and your database will appear in the Object Explorer.
+
 ## Connect to database via research software
 
 Your connection string will need to include at least the server name, database name, driver name and authentication type. 
