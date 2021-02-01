@@ -10,14 +10,14 @@ When SSMS opens you will be prompted for the connection details.
 	![ssms_connect_to_server_1.png](./images/using_azure_sql_database/ssms_connect_to_server_1.png)
 
 Enter the following:
-- Server type = Database Engine
-- Server name = <ServerName>.database.windows.net
-- Authentication = Azure Active Directory - Integrated
+- Server type = `Database Engine`
+- Server name = `<ServerName>.database.windows.net`
+- Authentication = `Azure Active Directory - Integrated`
 
 Click 'Options >>' and go to the second tab 'Connection Properties'.  			!		
 	![ssms_connect_to_server_2.png](./images/using_azure_sql_database/ssms_connect_to_server_2.png)
 
-Connect to database = <database name>
+Change 'Connect to database' from \<default> to `<database name>`.
 
 ## Connect to database via research software
 
@@ -29,7 +29,4 @@ LASER uses 'Azure Active Directory - Integrated' authentication to enable Contai
 
 Few ODBC drivers currently support 'Azure Active Directory - Integrated' authentication, including 'SQL Server Native Client 11.0'. A driver that does support it is '**ODBC Driver 17 For SQL Server**', so this must be specified in your connection string.
 
-Example connection string:
-```PYTHON
-con = "DRIVER={ODBC Driver 17 for SQL Server}; SERVER=tcp:<Server Name>.database.windows.net; DATABASE=<Database Name>; AUTHENTICATION=ActiveDirectoryIntegrated"
-```
+Example connection string: `con = "DRIVER={ODBC Driver 17 for SQL Server}; SERVER=tcp:<Server Name>.database.windows.net; DATABASE=<Database Name>; AUTHENTICATION=ActiveDirectoryIntegrated"`
