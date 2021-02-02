@@ -6,16 +6,16 @@ nav_order: 6
 
 ## Connect to database via SSMS
 
-When SSMS opens you will be prompted for the connection details.  
-	![ssms_connect_to_server_1.png](./images/using_azure_sql_database/ssms_connect_to_server_1.png)
+When SSMS opens you will be prompted for the connection details.   
+![ssms_connect_to_server_1.png](./images/using_azure_sql_database/ssms_connect_to_server_1.png)
 
 Enter the following:
 - Server type = Database Engine
 - Server name = \<ServerName>.database.windows.net
 - Authentication = Azure Active Directory - Integrated
 
-Click 'Options >>' and go to the second tab 'Connection Properties'.
-	![ssms_connect_to_server_2.png](./images/using_azure_sql_database/ssms_connect_to_server_2.png)
+Click 'Options >>' and go to the second tab 'Connection Properties'.  
+![ssms_connect_to_server_2.png](./images/using_azure_sql_database/ssms_connect_to_server_2.png)
 
 Change 'Connect to database' from \<default> to the name of your database.
 
@@ -39,7 +39,7 @@ Example connection string: `conn = "DRIVER={ODBC Driver 17 for SQL Server}; SERV
 
 Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:  
 
-```Python
+```
 import os
 import pandas as pd
 from sqlalchemy import create_engine
