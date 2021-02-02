@@ -40,8 +40,10 @@ Example connection string: `conn = "DRIVER={ODBC Driver 17 for SQL Server}; SERV
 Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:  
 
 ```Python
+import os
 import pandas as pd
 from sqlalchemy import create_engine
+import urllib
 
 def csv_to_sql(file, sql_server, sql_database, sql_schema, sql_table):
     params = urllib.parse.quote_plus("DRIVER={ODBC Driver 17 for SQL Server};SERVER=tcp:" + sql_server + ";DATABASE=" + sql_database + ";Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;AUTHENTICATION=ActiveDirectoryIntegrated")
