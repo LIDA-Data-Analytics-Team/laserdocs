@@ -36,3 +36,22 @@ LASER uses _'Azure Active Directory - Integrated'_ authentication to enable Cont
 Few ODBC drivers currently support 'Azure Active Directory - Integrated' authentication, including 'SQL Server Native Client 11.0'. A driver that does support it is '**ODBC Driver 17 For SQL Server**', so this must be specified in your connection string.
 
 Example connection string: `conn = "DRIVER={ODBC Driver 17 for SQL Server}; SERVER=tcp:<Server Name>.database.windows.net; DATABASE=<Database Name>; AUTHENTICATION=ActiveDirectoryIntegrated"`
+
+Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:
+```PYTHON
+import pandas as pd
+from sqlalchemy import create_engine
+
+def csv_to_sql(file, sql_server, sql_database, sql_schema, sql_table):
+    params = urllib.parse.quote_plus("DRIVER={ODBC Driver 17 for SQL Server};SERVER=tcp:" + sql_server + ";DATABASE=" + sql_database + ";Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;AUTHENTICATION=ActiveDirectoryIntegrated")
+    name, ext = os.path.splitext(file)
+    if ext == '.csv': 
+        for chunk in pd.read_csv(file, chunksize=chunksize):
+            df = pd.DataFrame(chunk)
+            df.rename(columns=df.iloc[0])
+            engine = create_engine("mssql+pyodbc:///?odbc_connect=%s" % params)
+            df.to_sql(name = sql_table, con = engine, if_exists = "append", schema = sql_schema, index = False)
+            df = df.iloc[0:0]
+        del chunk
+        del df
+```
