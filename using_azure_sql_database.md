@@ -37,8 +37,9 @@ Few ODBC drivers currently support 'Azure Active Directory - Integrated' authent
 
 Example connection string: `conn = "DRIVER={ODBC Driver 17 for SQL Server}; SERVER=tcp:<Server Name>.database.windows.net; DATABASE=<Database Name>; AUTHENTICATION=ActiveDirectoryIntegrated"`
 
-Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:
-```PYTHON
+Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:  
+
+```Python
 import pandas as pd
 from sqlalchemy import create_engine
 
