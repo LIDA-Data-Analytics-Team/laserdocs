@@ -1,4 +1,10 @@
-## Installing VRE Software via Software Center
+---
+layout: page
+title: Install Software
+nav_order: 4
+---
+
+## Install Software via Software Center
 
 Optional software in LASER VREs are provided via an app called Software Center. If your VRE doesn't include software that you need, first check it can be installed in Software Center.
 
