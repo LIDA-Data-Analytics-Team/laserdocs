@@ -50,10 +50,10 @@ from sqlalchemy import create_engine
 import urllib
 
 def csv_to_sql(file, sql_server, sql_database, sql_schema, sql_tablename): 
-        conn = urllib.parse.quote_plus("DRIVER={ODBC Driver 17 for SQL Server};SERVER=tcp:" + sql_server + ";DATABASE=" + sql_database + ";Authentication=ActiveDirectoryIntegrated")
-        engine = create_engine("mssql+pyodbc:///?odbc_connect=%s" % conn, fast_executemany=True)
-        for chunk in pd.read_csv(file, chunksize=chunksize):
-            df = pd.DataFrame(chunk)
-            df.rename(columns=df.iloc[0])
-            df.to_sql(sql_tablename, con = engine, if_exists = "append", schema = sql_schema, index = False)
+	conn = urllib.parse.quote_plus("DRIVER={ODBC Driver 17 for SQL Server};SERVER=tcp:" + sql_server + ";DATABASE=" + sql_database + ";Authentication=ActiveDirectoryIntegrated")
+	engine = create_engine("mssql+pyodbc:///?odbc_connect=%s" % conn, fast_executemany=True)
+	for chunk in pd.read_csv(file, chunksize=chunksize):
+		df = pd.DataFrame(chunk)
+		df.rename(columns=df.iloc[0])
+		df.to_sql(sql_tablename, con = engine, if_exists = "append", schema = sql_schema, index = False)
 ```
