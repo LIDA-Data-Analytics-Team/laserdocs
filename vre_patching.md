@@ -4,7 +4,7 @@ title: VRE Patching Schedule
 nav_order: 8
 ---
 
-# VRE Patching Schedule
+## VRE Patching Schedule
 
 Security patches are released on the 2nd Tuesday of each month.
 
