@@ -44,7 +44,7 @@ conn = "DRIVER={ODBC Driver 17 for SQL Server}; SERVER=tcp:<Server Name>.databas
 
 Example Python function to upload a *.csv file to Azure SQL Database using pandas & sqlalchemy:  
 
-```
+```PYTHON
 import pandas as pd
 from sqlalchemy import create_engine
 import urllib
