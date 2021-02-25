@@ -12,7 +12,7 @@ The Azure Backup Service is based upon the Microsoft Azure Recovery Services (MA
 
 ## Backup Retention 
 
-To develop both a consistent cost model and a support model, although always evolving, a set of standard expectations have been agreed and applied to the backup policies and data retention requirements across various VRE projects developed within the LASER service.  
+To develop both a consistent cost and support model an evolving set of standard expectations have been agreed and applied to the backup policies and data retention requirements across various VRE projects developed within the LASER service.  
 
 By default, this will be a retention period based upon the backup policy schedule defined below of Daily VM backup and Storage backup at 7pm and 6:30pm respectively (UTC).  
 
