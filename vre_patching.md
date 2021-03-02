@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VRE Patching Schedule
-nav_order: 9
+nav_order: 10
 ---
 
 ## VRE Patching Schedule
