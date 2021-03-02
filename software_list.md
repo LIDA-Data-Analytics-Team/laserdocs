@@ -33,6 +33,7 @@ List last updated: 2021-03-02
 |Microsoft Edge|
 |MobaXterm|
 |Mozilla Firefox|
+|MS Access|
 |MS Excel|
 |MS PowerBI Desktop|
 |MS Powerpoint|
