@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Software Available in LASER VREs"
+title: "VRE Software List"
 nav_order: 8
 ---
 
