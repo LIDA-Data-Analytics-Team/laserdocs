@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 ## Using Python in LASER
+{:.no_toc}
 
 Python is distributed to LASER users via Anaconda, a distribution of several scientific computing technologies. Anaconda contains out of the box a version of Python and many of the most popular modules in data science and research. This basic installation is called its base environment.
 
@@ -15,6 +16,9 @@ There is no internet connection in the VREs needed to create your own environmen
 All bespoke conda environments are stored in LASER's Python repository, on the `P:\` drive. Within the Python repo, you'll find a subfolder for your VRE (e.g., V0001), containing all your requested environments.
 
 Details follow on how to use conda environments in various ways.
+
+* seed list
+{:toc}
 
 ### Using conda at the command line
 
@@ -70,6 +74,7 @@ Where `<env-name>` can be replaced with a name of your choice. We recommend you 
 </div>
 
 #### Change Jupyter Home Directory
+{:.no_toc}
 
 By default, Jupyter Notebook will start up with `C:\` as its home directory. Only files within `C:\` will be accessible using the Notebook Dashboard. You most probably will want to store your notebooks in your VRE's shared storage (`N:\`), where your data will also be stored. To view `N:\` in the Notebook Dashboard, you can simply change directory to `N:\` before starting `jupyter notebook`:
 
@@ -95,3 +100,15 @@ The instructions above are simple but will not persist, meaning you must change 
 - Save the change and close the file.
 - Run `jupyter notebook` in Anaconda Prompt, while your environment is active, and the Notebook Dashboard should appear showing your chosen home directory in the Dashboard file manager.
 - This setting will apply for your user only, on that VM only. Another user, or the same user in a different VM in the same VRE will need to repeat these steps. The setting may apply to all conda environments.
+
+### Anaconda Navigator Offline Mode
+
+When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve user experience of Navigator in the VRE by enabling offline mode.
+
+After loading Anaconda Navigator, go to File > Preferences (shortcut CTRL+P).
+
+Check the box to "Enable offline mode", then select Apply and close the preferences pane.
+
+![](./images/using_python/01-1_anaconda_navigator.PNG){:width="70%" .mx-auto}
+
+You should now see "_Working in offline mode_" appear in the top right. Offline mode should persist when you open Anaconda Navigator again.
