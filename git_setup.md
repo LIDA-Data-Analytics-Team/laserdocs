@@ -6,21 +6,23 @@ nav_order: 7
 
 ## Setting up Git for Version Control
 
-To use Git for version control in a LASER VRE, first check Git has been installed via [Software Center](./install_software.html). Once installed, you'll need to change Git's home directory and configure your own user name and email address (used to identify person committing changes to code). You'll only need to do this once.
+To use Git for version control in a LASER VRE, first check Git has been installed via [Software Center](./install_software.html). Once installed, you'll need to change Git's home directory and configure your own user name and email address. Your name and email are needed to identify who has committed changes to code. You'll need to do this only once.
 
 Open Git Bash to begin.
 
 ## Change Git home directory
 
-When you first open Git Bash it will open to your home directory, which by default will be `M:\`. This does not point to a folder specific to your user account. To change this, run the following command, replacing `<username>` with your UoL username:
+Git Bash will open to your home directory, which by default will be `M:\`. You'll need to change the home directory to your user-specific folder on the C: drive.
+
+Run the following command, replacing `<username>` with your UoL username:<br>
 `setx HOME C:/Users/<username>`
 
-You should see a message confirming you successfully change the home directory.
+You should see a message confirming you successfully changed the home directory.
 
 ![](./images/git_setup/02_set_home_path.PNG)
 {: .mx-auto }
 
-Now close Git Bash and reopen it again to refresh your settings. It should reopen to your new home directory. You can check using `pwd`.
+Now close and reopen Git Bash to refresh your settings. It should reopen to your new home directory. You can check using `pwd`.
 
 ![](./images/git_setup/03_check_home_path.PNG)
 {: .mx-auto }
@@ -29,7 +31,7 @@ When you make changes to your user configurations, they will be saved to your ne
 
 ## Update user config
 
-To identify yourself when you commit changes to code, declare your user name and email in a gitconfig file. These configurations will then get used automatically when using Git.
+To identify yourself when you commit changes to code, declare your user name and email in a gitconfig file. These configurations get used automatically when versioning your code.
 
 Run the following commands in Git Bash:
 `git config --global user.name <your-name>`
