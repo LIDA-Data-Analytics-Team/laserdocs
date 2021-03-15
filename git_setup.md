@@ -19,11 +19,11 @@ Run the following command, replacing `<username>` with your UoL username:<br>
 
 You should see a message confirming you successfully changed the home directory.
 
-![](./images/git_setup/02_set_home_path.PNG){:width="40%" .mx-auto}
+![](./images/git_setup/02_set_home_path.PNG){:width="70%" .mx-auto}
 
 Now close and reopen Git Bash to refresh your settings. It should reopen to your new home directory. You can check using `pwd`.
 
-![](./images/git_setup/03_check_home_path.PNG){:width="40%" .mx-auto}
+![](./images/git_setup/03_check_home_path.PNG){:width="70%" .mx-auto}
 
 When you make changes to your user configurations, they will be saved to your new home directory.
 
@@ -37,10 +37,10 @@ Run the following commands in Git Bash:
 
 This will create a file called .gitconfig in your home directory, or add to the file if it already exists. From your home directory in Git Bash, check the contents of .gitconfig using `cat .gitconfig`.
 
-![](./images/git_setup/04_set_user_config.PNG){:width="40%" .mx-auto}
+![](./images/git_setup/04_set_user_config.PNG){:width="70%" .mx-auto}
 
 ## Using Git
 
 You can then use Git as you would normally on another machine. **We strongly recommend you always store your Git repositories and all other files in your project shared storage (`N:\`).** Navigate to your shared storage and initialise a Git repository like so:
 
-![](./images/git_setup/05_git_init.PNG){:width="40%" .mx-auto}
+![](./images/git_setup/05_git_init.PNG){:width="70%" .mx-auto}
