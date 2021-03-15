@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Using Azure SQL Server
-nav_order: 7
+nav_order: 8
 ---
 
 ## Connect to database via SSMS

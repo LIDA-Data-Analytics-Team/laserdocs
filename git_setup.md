@@ -41,6 +41,6 @@ This will create a file called .gitconfig in your home directory, or add to the 
 
 ## Using Git
 
-You can then use Git as you would normally on another machine. **We strongly recommend you always store your Git repositories and all other files in your project shared storage (`N:\`).** Navigate to your shared storage and initialise a Git repository like so:
+You can then use Git as you would normally on another machine. **We strongly recommend you always store your Git repositories and all other files in your project shared storage** (`N:\`). Navigate to your shared storage and initialise a Git repository like so:
 
 ![](./images/git_setup/05_git_init.PNG){:width="70%" .mx-auto}
