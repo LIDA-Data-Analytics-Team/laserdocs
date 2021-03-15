@@ -5,13 +5,12 @@ nav_order: 999
 ---
 
 ## Troubleshooting
+{:.no_toc}
+
 Here are the answers to some common issues. If you have a problem not covered here please get in touch with the Data Analytics Team at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk).
 
-### Issues
-
-[My desktop won't start](./troubleshoot.html#my-desktop-wont-start) 
-
-[I cannot see R: drive](./troubleshoot.html#i-cannot-see-r-drive) 
+* seed list
+{:toc}
 
 ### My desktop won't start
 
@@ -36,3 +35,6 @@ You may need to manually map the R: drive to your machine.
 
 You should now see the R miniCRAN repository mapped to R: drive.
 
+### Anaconda Navigator slow (in online mode)
+
+Anaconda Navigator may be slow to load initially. Follow steps in our [Python guide](./using_python.html#anaconda-navigator-offline-mode) to enable offline mode, which will improve performance.
