@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Where is my project data?
 
-If you open up File Explorer and click on the computer name on the left, you will see a list of drives (C:, M: etc.)
+In your virtual machine (VM), open up File Explorer and click on the computer name on the left, to see a list of drives (C:, M: etc.)
 
 Your shared project storage can be found on the N: drive, as highlighted in the image below.
 
