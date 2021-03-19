@@ -26,7 +26,7 @@ For performance reasons, we recommend creating a mirror of your environment in t
 
 There is file in the Python repo at P:\sync_conda_template.ps1. Copy and paste this file to somewhere you can readily access, such as your desktop. Then rename the file to be specific to your chosen environment, e.g. sync_demo_env.ps1.
 
-Rick-click your new file and select Edit to open the file in Powershell ISE. You'll see a script that looks like this:
+Right-click your new file and select Edit to open the file in Powershell ISE. You'll see a script that looks like this:
 
 ![](./images/using_python/00-2_open_robocopy_script.PNG){:width="70%" .mx-auto}
 
