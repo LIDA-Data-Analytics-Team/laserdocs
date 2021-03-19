@@ -20,6 +20,22 @@ Details follow on how to use conda environments in various ways.
 * seed list
 {:toc}
 
+### Syncing conda in local storage
+
+For performance reasons, we recommend creating a mirror of your environment in the VM's local C: drive. This involves copying from the Python repo P: drive to a folder on the C: drive where Anaconda stores environments. We have created a script template that uses a Windows command to sync your local copy, meaning each time your environment in the Python repo is updated, you can run this command to copy across only the new changes.
+
+There is file in the Python repo at P:\sync_conda_template.ps1. Copy and paste this file to somewhere you can readily access, such as your desktop. Then rename the file to be specific to your chosen environment, e.g. sync_demo_env.ps1.
+
+Rick-click your new file and select Edit to open the file in Powershell ISE. You'll see a script that looks like this:
+
+![](./images/using_python/00-2_open_robocopy_script.PNG){:width="70%" .mx-auto}
+
+Edit the file paths stored in the `source` and `dest` variables, according to the instructions in the file. For example, there is a demo environment on the Python repo that you can sync locally by editing the file paths in the script as follows:
+
+![](./images/using_python/00-3_edit_robocopy_script.PNG){:width="70%" .mx-auto}
+
+Close the file editor. Right-click the file again and select Run with Powershell. This will open a Powershell prompt window and run the script. You'll see information about files being copied. The first time you copy across a conda environment, this will take some time, maybe 30 mins or longer. Future copies will take a few minutes or less, as fewer files will be new or updated with each copy. Once it's finished, the printed output will show you how many files were copied and how long it took. You now have a local copy of your conda environment. Close the Powershell window. 
+
 ### Using conda at the command line
 
 - Open Anaconda Prompt (cmd) from the Start menu by typing anaconda in the search bar and selecting it from the results.
@@ -28,8 +44,11 @@ Details follow on how to use conda environments in various ways.
     <img src="./images/using_python/01_open_conda.PNG" width=600px alt="01_open_conda.PNG">
 </div>
 
-- Activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
+- If you haven't followed the above steps to sync your conda environment in local storage, activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
 `conda activate P:\_demo\demo_env`
+- If you have synced your environment locally, activate using the environment's name, not a full path:<br>
+`conda activate demo_env`
+- **Hereafter, screenshots of using a conda environment show use of an environment from the P: drive. If you have synced locally, always use the enviroment name instead.**
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
 - You can check that the environment contains the software you need by running `conda list`.
 <div style="width:600px; margin:0 auto;">
