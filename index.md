@@ -30,7 +30,7 @@ More complex and involved VREs can be designed; please discuss your project requ
 - Regularly patched with the latest software and operating system updates.
 - Encryption at rest – all data at rest is encrypted to AES256 Bit encryption.
 - Encryption in transit – all data is encrypted using TLS 1.2.
-- Residency – all is data stored in the UK.
+- Residency – all data is stored in the UK.
 - Access Controls – role-based access controls and the principles of least privileged access are implemented to ensure only authorised users are able to view data.
 - Data are classified according to sensitivity and criticality, with robust checks on data input and output to and from the Cloud, including a fully maintained asset register.
 - Multifactor authentication is implemented with the ability to restrict access to specified safe rooms on Campus, for data requiring the highest level of security.
