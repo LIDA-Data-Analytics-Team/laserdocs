@@ -29,7 +29,7 @@ Once the installation is complete, the status will change to "Installed". Where 
 
 You should now be able to find the installed software by looking in your Start menu or searching in the taskbar.
 
-You can install multiple versions of software at the same time, for example multiple versions of R available in Software Center.
+You can install multiple versions of software at the same time, for example, multiple versions of R are available in Software Center.
 
 Software are installed to the Virtual Machine (VM) you're using, in the `C:\` drive. If any other users also have access to this VM, they'll see the installed software too. If you open a different VM in the same Virtual Research Environment (VRE), you won't find the software unless you also install it there. Equally, any configurations made to installed software will be specific to VMs, not VREs. For more details on LASER's VRE architecture, see the [Home page](index.html).
 
