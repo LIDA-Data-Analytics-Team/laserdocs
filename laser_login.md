@@ -17,7 +17,7 @@ You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
   - Citrix Workspace is available through Software Centre on UoL managed devices.
 - Duo two factor authentication enabled.
-  - More infomation on DUO can be found [here](https://it.leeds.ac.uk/it/info/101/about_help_desk/142/privacy_notice?id=kb_article&sysparm_article=KB0014642).
+  - More information on DUO can be found [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537).
 
 ### Log in to the Storefront
 - Navigate to the StoreFront here: [https://laser.leeds.ac.uk/](https://laser.leeds.ac.uk/).
