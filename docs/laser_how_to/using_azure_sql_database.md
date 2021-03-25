@@ -4,8 +4,9 @@ title: Using Azure SQL Server
 parent: LASER How To
 nav_order: 7
 ---
+## Using Azure SQL Server 
 
-## Connect to database via SSMS
+### Connect to database via SSMS 
 
 When SSMS opens you will be prompted for the connection details.   
 ![ssms_connect_to_server_1.png](../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
@@ -22,7 +23,7 @@ Change 'Connect to database' from \<default> to the name of your database.
 
 Click 'Connect' and your database will appear in the Object Explorer.
 
-## Connect to database via ODBC
+### Connect to database via ODBC 
 
 Your connection string will need to include at least:  
 - Server name

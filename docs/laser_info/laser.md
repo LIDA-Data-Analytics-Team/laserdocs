@@ -14,7 +14,7 @@ LASER is the platform upon which we can build and host Virtual Research Environm
 
 In their simplest form, a VRE is a virtualised environment consisting of virtual machines and shared storage where data flow is strictly controlled. Taking a 'walled garden' approach, there is _no access to the internet_ or other networks from inside a VRE. 
 
-Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to and run directly on the VMs. 
+Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to, and run directly on, the VMs. 
 
 ![LASER.png](../../images/index/laser_smol.png)
 
