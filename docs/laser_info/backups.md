@@ -26,5 +26,5 @@ Due to the agreed backup policies applied to each resource, restoration of servi
 |Monthly |0 months |12 months |
 |Yearly |0 years |1 years |
  
-To recover data backed up by the Azure Backup Service, submit a request via the normal ITS web form.  
+To recover data backed up by the Azure Backup Service, submit a request via the University of Leeds IT web query form.  
 
