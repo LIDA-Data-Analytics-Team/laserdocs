@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Project Storage
-nav_order: 3
+parent: LASER How To
+nav_order: 2
 ---
 
 ## Where is my project data?
@@ -18,7 +19,7 @@ Permissions to the N: drive will be set up according to your project requirement
 
 Please note that file deletions are permanent. There is no 'Recycle Bin'.
 
-![N: drive](./images/storage_drives/laser_drives_shared_highlight_2.png)
+![N: drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
 
 ### Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.

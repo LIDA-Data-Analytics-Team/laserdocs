@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
+parent: LASER How To
 nav_order: 999
 ---
 
@@ -14,7 +15,7 @@ Here are the answers to some common issues. If you have a problem not covered he
 
 ### My desktop won't start
 
-![cannot_start_desktop.png](./images/troubleshoot/cannot_start_desktop.png)
+![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
 
 Chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
 
@@ -26,11 +27,11 @@ Simply closing the window ('Xing out') will disconnect the user from the session
 
 You may need to manually map the R: drive to your machine.
 - Open File Explorer and right click on Network  
-	![network_context_menu.png](./images/troubleshoot/network_context_menu.png)
+	![network_context_menu.png](../../images/troubleshoot/network_context_menu.png)
 - Select 'Map network drive'
 - Drive = R: 
 - Folder = \\\azlrdprepos.file.core.windows.net\r-repo
-	![map_r_drive.png](./images/troubleshoot/map_r_drive.png)
+	![map_r_drive.png](../../images/troubleshoot/map_r_drive.png)
 - Click finish 
 
 You should now see the R miniCRAN repository mapped to R: drive.
