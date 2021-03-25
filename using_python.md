@@ -62,7 +62,7 @@ Close the file editor. Right-click the file again and select Run with Powershell
 
 ### Using conda in Spyder
 
-- Activate your conda environment using Anaconda Prompt, following instructions above.
+- Activate your conda environment using Anaconda Prompt, following the instructions above.
 - In Anaconda Prompt with your environment active, type `spyder` and hit enter to load Spyder.
 - Spyder will then have access to all the modules and dependencies for your project. Create Spyder projects and use as you normally would.
 - To check Spyder is correctly using your environment, hover over the name of the active Python interpreter in the bottom status bar and the file path that appears should show the python.exe within your environment
