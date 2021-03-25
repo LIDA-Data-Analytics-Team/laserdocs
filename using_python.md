@@ -24,7 +24,7 @@ Details follow on how to use conda environments in various ways.
 
 For performance reasons, we recommend creating a mirror of your environment in the VM's local C: drive. This involves copying from the Python repo P: drive to a folder on the C: drive where Anaconda stores environments. We have created a script template that uses a Windows command to sync your local copy, meaning each time your environment in the Python repo is updated, you can run this command to copy across only the new changes.
 
-There is file in the Python repo at P:\sync_conda_template.ps1. Copy and paste this file to somewhere you can readily access, such as your desktop. Then rename the file to be specific to your chosen environment, e.g. sync_demo_env.ps1.
+The script template is filed in the Python repo at P:\sync_conda_template.ps1. Copy and paste this file to somewhere you can readily access, such as your desktop. Then rename the file to be specific to your chosen environment, e.g. sync_demo_env.ps1.
 
 Right-click your new file and select Edit to open the file in Powershell ISE. You'll see a script that looks like this:
 
@@ -46,7 +46,7 @@ Close the file editor. Right-click the file again and select Run with Powershell
 
 - If you haven't followed the above steps to sync your conda environment in local storage, activate your conda environment by passing the full path to your environment stored in the Python repo. E.g.:
 `conda activate P:\_demo\demo_env`
-- If you have synced your environment locally, activate using the environment's name, not a full path:<br>
+- If you have synced your environment locally, activate it using the environment's name, not a full path:<br>
 `conda activate demo_env`
 - **Hereafter, screenshots of using a conda environment show use of an environment from the P: drive. If you have synced locally, always use the enviroment name instead.**
 - You should then see the name of your conda environment in the prompt, shown in parentheses where it previously said "base".
@@ -63,9 +63,9 @@ Close the file editor. Right-click the file again and select Run with Powershell
 ### Using conda in Spyder
 
 - Activate your conda environment using Anaconda Prompt, following the instructions above.
-- In Anaconda Prompt with your environment active, type `spyder` and hit enter to load Spyder.
-- Spyder will then have access to all the modules and dependencies for your project. Create Spyder projects and use as you normally would.
-- To check Spyder is correctly using your environment, hover over the name of the active Python interpreter in the bottom status bar and the file path that appears should show the python.exe within your environment
+- In Anaconda Prompt, with your environment active, type `spyder` and hit enter to load Spyder.
+- Spyder will then have access to all of the modules and dependencies for your project. Create Spyder projects and use them as you normally would.
+- To check Spyder is correctly using your environment, hover over the name of the active Python interpreter in the bottom status bar and the file path that appears should show the python.exe within your environment:
 <div style="width:600px; margin:0 auto;">
     <img src="./images/using_python/04_spyder_confirm_env.png" width=600px alt="04_spyder_confirm_env.png">
 </div>
@@ -73,14 +73,14 @@ Close the file editor. Right-click the file again and select Run with Powershell
 ### Using conda in Jupyter Notebook
 
 - Activate your conda environment at the command line.
-- The first time you want use your environment in a jupyter book, you'll first need to install an ipython kernel by running
+- The first time you want use your environment in a jupyter book, you'll first need to install an ipython kernel by running:
 <br>`ipython kernel install --user --name=<env-name>`<br>
-Where `<env-name>` can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for environment at P:\_demo\demo_env name your ipython kernel demo_env).
-- You won't need to install a new kernel in future
-- If you want to change Jupyter Notebook's home directory, work through [instructions below](./using_python.html#change-jupyter-home-directory) before moving to next step.
+Where `<env-name>` can be replaced with a name of your choice. We recommend you use the same name as your environment, but not the full path (i.e., for an environment at P:\_demo\demo_env name your ipython kernel demo_env).
+- You won't need to install a new kernel in the future.
+- If you want to change Jupyter Notebook's home directory, work through the [instructions below](./using_python.html#change-jupyter-home-directory) before moving to the next step.
 - Type `jupyter notebook` to load Jupyter using your environment.
 - Jupyter Notebook will open.
-- Navigate to a folder where you want to create a new notebook
+- Navigate to a folder where you want to create a new notebook.
 - Click New and then select your environment's kernel from the dropdown.
 <div style="width:600px; margin:0 auto;">
     <img src="./images/using_python/05_jupyter_kernel.png" width=600px alt="05_jupyter_kernel.png">
@@ -95,7 +95,7 @@ Where `<env-name>` can be replaced with a name of your choice. We recommend you 
 #### Change Jupyter Home Directory
 {:.no_toc}
 
-By default, Jupyter Notebook will start up with `C:\` as its home directory. Only files within `C:\` will be accessible using the Notebook Dashboard. You most probably will want to store your notebooks in your VRE's shared storage (`N:\`), where your data will also be stored. To view `N:\` in the Notebook Dashboard, you can simply change directory to `N:\` before starting `jupyter notebook`:
+By default, Jupyter Notebook will start up with `C:\` as its home directory. Only files within `C:\` will be accessible using the Notebook Dashboard. You probably will want to store your notebooks in your VRE's shared storage (`N:\`), where your data will also be stored. To view `N:\` in the Notebook Dashboard, you can simply change directory to `N:\` before starting `jupyter notebook`:
 
 - Open Anaconda Prompt and activate your conda environment using instructions above.
 - Change directory to your VRE's shared storage by typing `N:` and hitting the enter key.
@@ -122,7 +122,7 @@ The instructions above are simple but will not persist, meaning you must change 
 
 ### Anaconda Navigator Offline Mode
 
-When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve user experience of Navigator in the VRE by enabling offline mode.
+When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve your user experience of Navigator in the VRE by enabling offline mode.
 
 After loading Anaconda Navigator, go to File > Preferences (shortcut CTRL+P).
 
