@@ -3,6 +3,8 @@ layout: default
 title: Using Azure SQL Server
 nav_order: 8
 ---
+## Using Azure SQL Server
+
 
 ## Connect to database via SSMS
 
