@@ -30,7 +30,7 @@ Photo ID will be requested to evidence user identity. The type of ID may vary de
 
 Key fobs are provided to access the safe rooms. These will be signed out by reception staff at the start of each session and you must return them at the end of the session. A record will be kept of which users access which room and when.
 
-The Data Services Team will send external researchers a copy of the Health and Safety.pdf.  A signed copy of this document must be presented to front desk upon first arrival to LIDA to use the safe room.
+External researchers must present a signed copy of the [Health and Safety.pdf](../../files/Safe Room Health and Safety Information.pdf) to front desk upon first arrival to LIDA to use the safe room.
 
 ### Regulations
 There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the IRC. These are as follows:
