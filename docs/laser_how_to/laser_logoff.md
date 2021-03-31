@@ -17,7 +17,7 @@ The below table summarises the main differences, but the most significant is tha
 |---|---|---|
 |Stops accruing costs after 20 minutes|Stops accruing costs immediately|Costs continue to accrue|
 |Terminates session|Terminates session|Keeps session running|
-|Processes stop|Processes stop|Processes continue|
+|Processes stop|Processes stop|Processes can continue|
 |Other users can now log in to this VM|Other users can now log in to this VM|No other users can log in to this VM|
 
 ### How to Log off 
