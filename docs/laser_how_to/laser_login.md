@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Connect to LASER
+title: Connect to a VRE
 parent: LASER How To
 nav_order: 1
 
@@ -9,7 +9,7 @@ video_description: "Logging into your LASER VRE"
 video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7adbf4b6861d"
 ---
 
-## How to connect to a Virtual Research Environment
+## Connect to a Virtual Research Environment
 <br>
 {% include videoplayer.html title=page.video_title src=page.video_src %}
 
