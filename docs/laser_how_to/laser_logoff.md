@@ -31,6 +31,7 @@ Click Start button --> Power --> Shut down
 ### How to Disconnect
 You can disconnect several ways: 
 - Start button --> Power --> Disconnect  
+	![](../../images/laser_logoff/vre_power_options.PNG)
 - Expand the Citrix menu at the top of the screen --> Disconnect  
 	![](../../images/laser_logoff/vre_citrix_options.PNG)
 - X-ing out of the VRE window  
