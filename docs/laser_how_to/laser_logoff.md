@@ -23,21 +23,23 @@ The below table summarises the main differences, but the most significant is tha
 ### How to Log off 
 Click Start button --> Profile --> Sign out  
 
-	![](../../images/laser_logoff/vre_user_options.PNG)
+![](../../images/laser_logoff/vre_user_options.PNG)
 
 ### How to Shut down
 Click Start button --> Power --> Shut down  
 
-	![](../../images/laser_logoff/vre_power_options.PNG)
+![](../../images/laser_logoff/vre_power_options.PNG)
 
 ### How to Disconnect
 You can disconnect several ways: 
 - Start button --> Power --> Disconnect  
 
 	![](../../images/laser_logoff/vre_power_options.PNG)
+	
 - Expand the Citrix menu at the top of the screen --> Disconnect  
 
 	![](../../images/laser_logoff/vre_citrix_options.PNG)
+	
 - X-ing out of the VRE window  
 
 	![](../../images/laser_logoff/vre_x.PNG)
