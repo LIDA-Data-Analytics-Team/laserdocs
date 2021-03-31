@@ -11,7 +11,7 @@ There are three ways to close a VRE and each has significant differences regardi
 - Shut down
 - Disconnect
 
-The below table summarises the main differences, but the most significant is that **costs constinue to accrue when disconnected** but not when logged off or if the VM is shut down.
+The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when logged off or if the VM is shut down.
 
 |Log off |Shut down |Disconnect |
 |---|---|---|
