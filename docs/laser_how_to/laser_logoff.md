@@ -5,7 +5,7 @@ parent: LASER How To
 nav_order: 1.1
 ---
 
-## Closing a VRE  
+## Closing a Virtual Research Environment  
 There are three ways to close a VRE and each has significant differences regarding cost and continual processing:
 - Log off
 - Shut down
