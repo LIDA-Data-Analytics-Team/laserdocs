@@ -21,17 +21,17 @@ The below table summarises the main differences, but the most significant is tha
 |Other users can now log in to this VM|Other users can now log in to this VM|No other users can log in to this VM|
 
 ### How to Log off 
-Click Start button --> Profile --> Sign out
+Click Start button --> Profile --> Sign out 
 	![](../../images/laser_logoff/vre_user_options.PNG)
 
 ### How to Shut down
-Click Start button --> Power --> Shut down
+Click Start button --> Power --> Shut down 
 	![](../../images/laser_logoff/vre_power_options.PNG)
 
 ### How to Disconnect
-You can disconnect several ways:
-- Start button --> Power --> Disconnect
-- Expand the Citrix menu at the top of the screen --> Disconnect
+You can disconnect several ways: 
+- Start button --> Power --> Disconnect 
+- Expand the Citrix menu at the top of the screen --> Disconnect 
 	![](../../images/laser_logoff/vre_citrix_options.PNG)
-- X-ing out of the VRE window
+- X-ing out of the VRE window 
 	![](../../images/laser_logoff/vre_x.PNG)
