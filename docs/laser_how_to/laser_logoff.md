@@ -28,13 +28,13 @@ Click Start button --> Profile --> Sign out
 ### How to Shut down
 Click Start button --> Power --> Shut down  
 
-![](../../images/laser_logoff/vre_power_options.PNG)
+![](../../images/laser_logoff/vre_power_options_shutdown.PNG)
 
 ### How to Disconnect
 You can disconnect several ways: 
 - Start button --> Power --> Disconnect  
 
-	![](../../images/laser_logoff/vre_power_options.PNG)
+	![](../../images/laser_logoff/vre_power_options_disconnect.PNG)
 	
 - Expand the Citrix menu at the top of the screen --> Disconnect  
 
