@@ -11,7 +11,7 @@ The campus is a 20 minute walk from the train station and the main entrance to t
 
 LIDA is located on the 11th floor of the Worsley Building at the University of Leeds. On the campus map below (click link), the Worsley Building is numbered 95.
 
-[http://www.leeds.ac.uk/download/8/campus_map](http://www.leeds.ac.uk/download/8/campus_map)
+[http://www.leeds.ac.uk/downloads/download/9/campus_map_for_visitors](http://www.leeds.ac.uk/downloads/download/9/campus_map_for_visitors)
 
 **You can access LIDA in 2 ways:** 
 From Clarendon Way 
