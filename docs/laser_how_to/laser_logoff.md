@@ -11,7 +11,9 @@ There are three ways to close a VRE and each has significant differences regardi
 - Shut down
 - Disconnect
 
-The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when logged off or if the VM is shut down.
+The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when logged off or if the VM is shut down. 
+
+We recommend logging off or shutting down whenever you finish a session. Disconnecting from a session should **only** be used if you need to walk away from the session but still want code to run while you are away. A disconnected session will continue to accrue costs even if code has completed running.
 
 |Log off |Shut down |Disconnect |
 |---|---|---|
