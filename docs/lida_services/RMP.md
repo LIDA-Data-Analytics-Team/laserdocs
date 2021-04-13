@@ -5,7 +5,7 @@ parent: LIDA Services
 nav_order: 3
 ---
 
-##LIDA Research Management Process
+## LIDA Research Management Process
 
 
 When a researcher contacts LIDA with a project proposal, this enters a 6-stage Research Management Process (RMP). The RMP takes the project through from the proposal and costing stages, through receiving the necessary funding and approval, to undertaking research in a secure environment and safely closing the project with destruction, dissemination and / or archiving of any project datasets. 
