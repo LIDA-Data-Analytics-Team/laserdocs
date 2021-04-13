@@ -1,3 +1,10 @@
+---
+layout: default
+title: Research Management Process
+parent: LIDA Services
+nav_order: 3
+---
+
 ##LIDA Research Management Process
 
 
