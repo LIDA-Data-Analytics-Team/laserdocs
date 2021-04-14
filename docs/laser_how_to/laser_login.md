@@ -33,7 +33,7 @@ You will need:
 - Click on the image of the monitor or expand the options and click 'Open' to connect.  
 ![citrix_store_front.png](../../images/laser_login/citrix_store_front.png)
   - You may be asked to download a *.ica launcher file.  
-  ![citrix_launch_file.png](./images/laser_login/citrix_launch_file.png)
+  ![citrix_launch_file.png](../../images/laser_login/citrix_launch_file.png)
   - Save and open this file, it will be deleted when your session ends.
 - Citrix Workspace will launch and connect to your chosen VRE desktop.  
 ![vre_desktop.png](../../images/laser_login/vre_desktop.png)
