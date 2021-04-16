@@ -17,7 +17,7 @@ We recommend logging off or shutting down whenever you finish a session. Disconn
 
 |Log off |Shut down |Disconnect |
 |---|---|---|
-|Stops accruing costs after 20 minutes|Stops accruing costs immediately|Costs continue to accrue|
+|Stops accruing costs after 20 minutes|Stops accruing costs after 20 minutes|Costs continue to accrue|
 |Terminates session|Terminates session|Keeps session running|
 |Processes stop|Processes stop|Processes can continue|
 |Other users can now log in to this VM|Other users can now log in to this VM|No other users can log in to this VM|
@@ -33,7 +33,7 @@ Click Start button --> Power --> Shut down
 ![](../../images/laser_logoff/vre_power_options_shutdown.PNG)
 
 ### How to Disconnect
-You can disconnect several ways: 
+You can disconnect several ways, but only should if you want code to continue to run in your absence. **Costs will continue to acrrue** and VM will be locked for use by other users **until you reconnect then log off or shut down**.  
 - Start button --> Power --> Disconnect  
 
 	![](../../images/laser_logoff/vre_power_options_disconnect.PNG)
