@@ -12,7 +12,7 @@ To monitor information about the Virtual Machines (VMs) in your VRE, follow the 
 
 Select one of your VMs to monitor information about that VM. You should now see a page of information about your chosen VM, like shown:
 
-![az_portal_vm_page.png](../../../images/az_portal/az_portal_vm_page.png){:width="70%" .mx-auto}
+![az_portal_vm_page.png](../../../images/az_portal/az_portal_vm_page.png){:width="100%" .mx-auto}
 
 ### Stopping a VM
 
