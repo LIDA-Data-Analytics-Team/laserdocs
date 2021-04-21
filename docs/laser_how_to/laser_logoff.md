@@ -33,7 +33,7 @@ Click Start button --> Power --> Shut down
 ![](../../images/laser_logoff/vre_power_options_shutdown.PNG)
 
 ### How to Disconnect
-You can disconnect several ways, but only should if you want code to continue to run in your absence. **Costs will continue to acrrue** and VM will be locked for use by other users **until you reconnect then log off or shut down**.  
+You can disconnect several ways, but only should if you want code to continue to run in your absence. **Costs will continue to accrue** and VM will be locked for use by other users **until you reconnect then log off or shut down**.  
 - Start button --> Power --> Disconnect  
 
 	![](../../images/laser_logoff/vre_power_options_disconnect.PNG)
