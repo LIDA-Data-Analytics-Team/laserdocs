@@ -17,7 +17,7 @@ We recommend logging off whenever you finish a session. Disconnecting from a ses
 
 |Log off |Shut down |Disconnect |
 |---|---|---|
-|Stops accruing costs after 20 minutes|Costs continue to accrue|Costs continue to accrue|
+|Stops accruing costs after 1 minute|Costs continue to accrue|Costs continue to accrue|
 |Terminates session|Terminates session|Keeps session running|
 |Processes stop|Processes stop|Processes can continue|
 |Other users can now log in to this VM|Other users can now log in to this VM|No other users can log in to this VM|
