@@ -13,7 +13,7 @@ Some software, such as MS Office, will be installed as standard on all virtual m
 
 Here is a full list of software available for installation in LASER VREs. This list does not include additional software that may be provided via conda environments or package repositories.
 
-List last updated: 2021-03-02
+List last updated: 2021-04-05
 
 |List of software available in LASER|
 |---|
