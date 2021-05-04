@@ -19,6 +19,7 @@ List last updated: 2021-03-02
 |---|
 |7-Zip|
 |Adobe Acrobat Reader DC|
+|Alteryx|
 |Anaconda Distribution Individual Edition|
 |Anaconda includes JupyterLab, Notebook, Spyder, etc.|
 |ArcGIS 10.6.0|
@@ -63,5 +64,4 @@ List last updated: 2021-03-02
 
 |Soon to be available (in progress)|
 |---|
-|Alteryx|
 |Atom|
