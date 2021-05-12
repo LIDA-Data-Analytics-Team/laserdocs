@@ -27,7 +27,7 @@ Click Start button --> Profile --> Sign out
 
 ![](../../images/laser_logoff/vre_user_options.PNG)
 
-### How to Shut down
+### How to Shutdown
 Click the big red icon on the desktop and choose yes on the dialog:  
 
 ![](../../images/laser_logoff/vre_brb_shutdown.PNG)  
