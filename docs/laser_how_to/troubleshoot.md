@@ -23,6 +23,41 @@ A VM will remain 'occupied' even if the user has disconnected.
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
+### LASER login failure: You cannot log on using a smart card
+
+If you try to login to LASER after having timed out from a previous session, you may see the following message:
+
+![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+
+You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
+
+### Access LASER VRE on Linux machine
+
+The steps below have been tested using Ubuntu OS and Firefox browser.
+
+- Ensure versions of Ubuntu, Firefox and Citrix Workspace are up to date.
+- If you don't have Citrix installed yet, go to https://www.citrix.com/en-gb/downloads/workspace-app/linux/ and navigate to latest version. Scroll down to Available Downloads > Debian Packages > Full Packages (Self-Service Support) > Citrix Workspace app for Linux (x86_64) > download and run the .deb file. If you're not running Ubuntu, you may need a different installation file.
+- Go to https://laser.leeds.ac.uk and login.
+- Select Detect Receiver
+- Check box to always open receiver links:
+![allow_open_receiver_link.PNG](../../images/troubleshoot/linux_login/allow_open_receiver_link.PNG){:width="70%" .mx-auto}
+
+- Select Already installed
+- Open VRE from Storefront. It will download an ica file.
+- In dialog box on what to do with ica file, tell Firefox to always open with Citrix Workspace. Select OK:
+![use_citrix_to_open_ica.PNG](../../images/troubleshoot/linux_login/use_citrix_to_open_ica.PNG){:width="70%" .mx-auto}
+
+- The VRE will then open. In future, your browser will know to automatically open the VRE when an .ica gets downloaded.
+- If you get an SSL Error 61 preventing you from opening your VRE:
+    - Open Terminal
+    - Run `sudo ln -s /usr/share/ca-certificates/mozilla/* /opt/Citrix/ICAClient/keystore/cacerts`
+    - Type your password to authenticate (note that this requires admin rights)
+    - Close Terminal window then retry LASER VRE login
+
+### Anaconda Navigator slow (in online mode)
+
+Anaconda Navigator may be slow to load initially. Follow steps in our [Python guide](./using_python.html#anaconda-navigator-offline-mode) to enable offline mode, which will improve performance.
+
 ### I cannot see R: drive
 
 You may need to manually map the R: drive to your machine.
@@ -35,19 +70,3 @@ You may need to manually map the R: drive to your machine.
 - Click finish 
 
 You should now see the R miniCRAN repository mapped to R: drive.
-
-### Anaconda Navigator slow (in online mode)
-
-Anaconda Navigator may be slow to load initially. Follow steps in our [Python guide](./using_python.html#anaconda-navigator-offline-mode) to enable offline mode, which will improve performance.
-
-### I'm seeing a message saying "You cannot log on using a smart card"
-
-If you try to log on to LASER at laser.leeds.ac.uk on a Google Chrome browser, you **may** see the following message:
-
-![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
-
-This problem can be solved by logging in via a "New incognito window", which can be opened by pressing Ctrl + Shift + N in a Chrome browser or 
-- Click on the three vertical dots at the top right of the browser window
-- Click on New incognito window
-
-	![incognito_window.png](../../images/troubleshoot/incognito_window.png)
