@@ -35,18 +35,19 @@ You can fix this by clearing browsing data up to and including the time since yo
 
 The steps below have been tested using Ubuntu OS and Firefox browser.
 
-- Ensure versions of Ubuntu, Firefox and Citrix Workspace are up to date.
-- If you don't have Citrix installed yet, go to https://www.citrix.com/en-gb/downloads/workspace-app/linux/ and navigate to latest version. Scroll down to Available Downloads > Debian Packages > Full Packages (Self-Service Support) > Citrix Workspace app for Linux (x86_64) > download and run the .deb file. If you're not running Ubuntu, you may need a different installation file.
+- Ensure versions of Ubuntu, Firefox and Citrix Workspace are up to date
+- If you don't have Citrix Workspace:
+    - Open the Citrix Workspace for Linux [download page](https://www.citrix.com/en-gb/downloads/workspace-app/linux/) and go to the latest version
+    - Scroll to Available Downloads > Debian Packages > Full Packages (Self-Service Support) > Citrix Workspace app for Linux (x86_64)
+    - Download and run the .deb file (if you're not running Ubuntu, you may need a different file)
 - Go to https://laser.leeds.ac.uk and login.
 - Select Detect Receiver
-- Check box to always open receiver links:
+- Check box to always open receiver links:<br>
 ![allow_open_receiver_link.PNG](../../images/troubleshoot/linux_login/allow_open_receiver_link.PNG){:width="70%" .mx-auto}
-
 - Select Already installed
 - Open VRE from Storefront. It will download an ica file.
-- In dialog box on what to do with ica file, tell Firefox to always open with Citrix Workspace. Select OK:
+- In dialog box on what to do with ica file, tell Firefox to always open with Citrix Workspace. Select OK:<br>
 ![use_citrix_to_open_ica.PNG](../../images/troubleshoot/linux_login/use_citrix_to_open_ica.PNG){:width="70%" .mx-auto}
-
 - The VRE will then open. In future, your browser will know to automatically open the VRE when an .ica gets downloaded.
 - If you get an SSL Error 61 preventing you from opening your VRE:
     - Open Terminal
