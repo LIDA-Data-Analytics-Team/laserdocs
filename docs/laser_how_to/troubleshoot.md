@@ -17,11 +17,15 @@ Here are the answers to some common issues. If you have a problem not covered he
 
 ![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
 
-Chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
+If you see the error message "Cannot start desktop" then chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
 
 A VM will remain 'occupied' even if the user has disconnected. 
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
+
+![error_1030.PNG](../../images/troubleshoot/error_1030.PNG)
+
+If you see the error message "The connection failed with status (1030)" then you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist in this if you do not have the necessary permissions on your device.
 
 ### LASER login failure: You cannot log on using a smart card
 
@@ -71,3 +75,4 @@ You may need to manually map the R: drive to your machine.
 - Click finish 
 
 You should now see the R miniCRAN repository mapped to R: drive.
+
