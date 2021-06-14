@@ -23,7 +23,7 @@ A VM will remain 'occupied' even if the user has disconnected.
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
-![error_1030.PNG](../../images/troubleshoot/error_1030.PNG)
+![error_1030.png](../../images/troubleshoot/error_1030.png)
 
 If you see the error message "The connection failed with status (1030)" then you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist in this if you do not have the necessary permissions on your device.
 
