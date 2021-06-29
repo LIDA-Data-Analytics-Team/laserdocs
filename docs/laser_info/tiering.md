@@ -15,7 +15,8 @@ The following data risk classification tiers have been adopted from the Alan Tur
 
 |Tier 0	|Tier 1	|Tier 2	|Tier 3	|Tier 4	|
 |---|---|---|---|---|
-|**No impact on UoL**, partners or data subjects	|**Low impact** on UoL; legal penalty or damage to reputation highly unlikely. <br/>**No impact** on partners or data subjects	|**Medium impact** on UoL or partners leading to legal, commercial, contractual, financial penalty or damage to reputation. <br/>**Limited impact** on data subjects	|**High impact** to UoL, partners or data subjects with potential for contractual, commercial, legal, financial or reputational penalties.	|**Significant impact** to UoL, partners or individuals with potential for substantial legal, financial or reputational penalties.|
+|**No impact on UoL**, partners or data subjects	|**Low impact** on UoL; legal penalty or damage to reputation highly unlikely. |**Medium impact** on UoL or partners leading to legal, commercial, contractual, financial penalty or damage to reputation. |**High impact** to UoL, partners or data subjects with potential for contractual, commercial, legal, financial or reputational penalties.	|**Significant impact** to UoL, partners or individuals with potential for substantial legal, financial or reputational penalties.|
+|	|**No impact** on partners or data subjects |**Limited impact** on data subjects |	|	|
 
 ### Data Risk Tier - LASER Description
 
