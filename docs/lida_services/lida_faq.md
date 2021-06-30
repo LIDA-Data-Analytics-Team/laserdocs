@@ -21,8 +21,7 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/515e42eb678140bfbcb0bbb7f
 {:toc}
 </details>
 
-### LIDA Information Session
-<br>
+### LIDA Information Session 
 {% include videoplayer.html title=page.video_title src=page.video_src %}
 
 
