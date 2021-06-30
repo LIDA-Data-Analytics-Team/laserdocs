@@ -8,11 +8,14 @@ nav_order: 5
 ## LIDA Frequently Asked Questions
 {: .no_toc }
 
-### Table of contents
-{: .no_toc .text-delta }
-
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ### Do we need to cost the support from LIDA when applying for a grant? 
 The costs of using LASER (Leeds Analytics Secure Environment for Research) compute and storage and associated support from the Data Analytics Team (DAT) needs to be factored into your grant. We advise you to approach the DAT directly as early as possible (please allow for at least 7 working days), who will help you to determine what LASER and DAT costs are required for your grant application and how much they will be. 
@@ -36,7 +39,7 @@ LIDA has AOC (Assured Organisational Connectivity) status with Office of Nationa
 Please contact the DAT as soon as possible ([ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk)) who will work with you to determine the requirements and cost to your project of using LASER.
 
 ### What if a project is delayed or the analysis is more complicated than you thought and there is no more money? Does your data just get deleted? 
-Azure will continue to charge for each moment a VRE is live. If a project overruns the funding then the VRE will necessarily need to be deallocated until funding can be found. LASER does provide an offline 'mothball' functionality that can take the data out of a VRE and into storage that costs a fraction of an active and fully functional VRE. This may be an option you choose whilst further funding is sought. In this scenario we would recommend you talk to the DAT to discuss options. 	
+Azure will continue to charge for each moment a VRE is live. If a project overruns the funding then the VRE will necessarily need to be deallocated until funding can be found. LASER does provide an offline 'mothball' functionality that can take the data out of a VRE and into storage that costs a fraction of an active and fully functional VRE. This may be an option you choose whilst further funding is sought. In this scenario we would recommend you talk to the DAT to discuss options. 
 
 ### How long does it take for the system to be set up especially from the point that LIDA puts the request in to IT for access to be provided to LASER storage space? 
 It depends somewhat on the complexity of the VRE, but a standard VRE with a few VMs and some storage shouldn't take more than a week to build from the point the request is made to IT. The real time is taken up prior to requesting the build, whilst we work with you to identify the technical, governance and support requirements for your project, as well as designing the VRE and generating a costing estimate. This is why we recommend early engagement with DAT as part of LIDA’s Research Management Process (RMP).
