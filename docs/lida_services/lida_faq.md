@@ -3,6 +3,10 @@ layout: default
 title: LIDA FAQ
 parent: LIDA Services
 nav_order: 5
+
+video_title: "LIDA Information Session"
+video_description: "Recording of a LIDA Information Session"
+video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/515e42eb678140bfbcb0bbb7fbddecc91d"
 ---
 
 ## LIDA Frequently Asked Questions
@@ -16,6 +20,11 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
+
+### LIDA Information Session
+<br>
+{% include videoplayer.html title=page.video_title src=page.video_src %}
+
 
 ### Do we need to cost the support from LIDA when applying for a grant? 
 The costs of using LASER (Leeds Analytics Secure Environment for Research) compute and storage and associated support from the Data Analytics Team (DAT) needs to be factored into your grant. We advise you to approach the DAT directly as early as possible (please allow for at least 7 working days), who will help you to determine what LASER and DAT costs are required for your grant application and how much they will be. 
