@@ -7,15 +7,15 @@ nav_order: 1.1
 
 ## Closing a Virtual Research Environment  
 There are three ways to close a VRE and each has significant differences regarding cost and continual processing:
-- Sign out
 - Shutdown
+- Sign out
 - Disconnect
 
-The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when signed out or shutdown. 
+The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when shutdown or signed out. 
 
 We recommend using the big red button to shutdown or signing out whenever you finish a session. Disconnecting from a session should _only_ be used if you need to walk away from the session but still want code to run while you are away. A disconnected session will continue to accrue costs even if code has completed running.
 
-|Sign out |Shutdown |Disconnect |
+|Shutdown |Sign out |Disconnect |
 |---|---|---|
 |Stops accruing costs after 10 minutes|Stops accruing costs after 10 minutes|Costs continue to accrue |
 |Terminates session|Terminates session|Keeps session running |
