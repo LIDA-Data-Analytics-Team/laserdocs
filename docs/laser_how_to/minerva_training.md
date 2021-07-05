@@ -21,4 +21,6 @@ Once logged in using your University of Leeds credentials you should find the mo
 
 Click on a training module to open it up and begin. 
 
-Once you have passed the test at the end of the training please send screen shots of your passing scores to the DAT at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk).
+Once you have passed the test at the end of the training please send screen shots of your passing scores to the DAT at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk). 
+
+If any of the training modules are not listed please contact IT Services to ask them to make the training available to you. 
