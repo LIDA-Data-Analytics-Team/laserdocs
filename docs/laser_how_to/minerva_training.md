@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Where to find Minerva Training
+title: Minerva Training
 parent: LASER How To
 nav_order: 8
 ---
