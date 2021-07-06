@@ -11,9 +11,11 @@ There are three ways to close a VRE and each has significant differences regardi
 - Sign out
 - Disconnect
 
-The below table summarises the main differences, but the most significant is that **costs continue to accrue when disconnected** but not when shutdown or signed out. 
+The below table summarises the main differences, but the most significant is that **costs continue to accrue when a user disconnects** but not when they shutdown or sign out. 
 
-We recommend using the big red button to shutdown or signing out whenever you finish a session. Disconnecting from a session should _only_ be used if you need to walk away from the session but still want code to run while you are away. A disconnected session will continue to accrue costs even if code has completed running.
+We recommend using the big red button to shutdown or signing out whenever you finish a session; both are functionally identical. Disconnecting from a session should _only_ be used if you need to walk away from the session but still want code to run while you are away. A disconnected session will continue to accrue costs even if code has completed running.
+
+VMs can also be [stopped from the Azure Portal](https://lida-data-analytics-team.github.io/laserdocs/docs/laser_how_to/az_portal/portal_vms.html#stopping-a-vm), but doing so will kick out anyone currently connected and may result in lost work.
 
 |Shutdown |Sign out |Disconnect |
 |---|---|---|
