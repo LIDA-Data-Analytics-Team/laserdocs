@@ -24,14 +24,14 @@ The following 6 steps are common across the configuration of each artifactory mi
 	- LASER_Conda_virtual 
 	- LASER_PyPI_virtual 
 5. At the top right of the screen click on 'Set me up' 
-	![Top right click on 'Set me up'](../../images/artifactory/set_me_up.PNG)
+	![Top right click on Set me up](../../images/artifactory/set_me_up.PNG)
 6. Enter your UoL password to hash and insert your credentials into the generated code snippet 
 
 Now continue to follow the package repository specific instructions below:
 	- TOC
 	{:toc}
 
-### CRAN
+#### CRAN
 
 Select LASER_CRAN_virtual in step 4 above.
 
@@ -46,7 +46,7 @@ install.packages(<PACKAGE>)
 ```
 
 
-### Conda 
+#### Conda 
 
 Select LASER_Conda_virtual in step 4 above.
 
@@ -65,7 +65,7 @@ conda install <PACKAGE>
 ```
 
 
-### PyPI
+#### PyPI
 
 Select LASER_PyPI_virtual in step 4 above.
 
