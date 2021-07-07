@@ -15,7 +15,7 @@ LASER now has a means to provide air gapped access to online package repositorie
 
 The following 6 steps are common across the configuration of each artifactory mirror. 
 
-1. Navigate to [10.6.8.132:8082/ui](10.6.8.132:8082/ui).
+1. From a web browser within your VRE navigate to 10.6.8.132:8082/ui.
 2. Log in using your UoL credentials.
 3. In the left hand menu click Artifactory --> Artifacts.  
 	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG)
