@@ -10,7 +10,7 @@ nav_order: 4
 
 The following 6 steps are common across the configuration of each artifactory mirror. 
 
-1. Navigate to 10.6.8.132:8082/ui
+1. Navigate to [10.6.8.132:8082/ui](10.6.8.132:8082/ui)
 2. Log in using your UoL credentials
 3. In left hand menu click Artifactory --> Artifacts 
 	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG)
@@ -18,19 +18,13 @@ The following 6 steps are common across the configuration of each artifactory mi
 	- LASER_CRAN_virtual 
 	- LASER_Conda_virtual 
 	- LASER_PyPI_virtual 
-5. Top right click on 'Set me up'
+5. At the top right of the screen click on 'Set me up' 
 	![Top right click on 'Set me up'](../../images/artifactory/set_me_up.PNG)
 6. Enter your UoL password to hash and insert your credentials into the generated code snippet 
 
-<details open markdown="block">
-  <summary>
-    Now continue to follow the package repository specific instructions below:
-  </summary>
-  {: .text-delta }
-1. TOC
+Now continue to follow the package repository specific instructions below:
+- TOC
 {:toc}
-</details>
-
 
 ### CRAN
 
