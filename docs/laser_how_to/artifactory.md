@@ -5,12 +5,12 @@ parent: LASER How To
 nav_order: 4
 ---
 
-## Artifactory 
+# Artifactory 
 {: .no_toc }
 
 LASER now has a means to provide air gapped access to online package repositories that you can use from within your offline VRE. We are currently able to provide access to CRAN, Conda and PyPI repositories. Here you will find everything you need to know to gain access to them. These are one time configuration steps that will persist between sessions, but will need to be repeated for each VM you log in to within your VRE.
 
-### Setting up artifactory 
+## Setting up artifactory 
 {: .no_toc }
 
 The following 6 steps are common across the configuration of each artifactory mirror. 
@@ -32,7 +32,7 @@ Now continue to follow the package repository specific instructions below:
 - TOC
 {:toc}
 
-#### CRAN
+### CRAN
 
 Select LASER_CRAN_virtual in step 4 above.
 
@@ -47,7 +47,7 @@ install.packages(<PACKAGE>)
 ```
 
 
-#### Conda 
+### Conda 
 
 Select LASER_Conda_virtual in step 4 above.
 
@@ -66,7 +66,7 @@ conda install <PACKAGE>
 ```
 
 
-#### PyPI
+### PyPI
 
 Select LASER_PyPI_virtual in step 4 above.
 
