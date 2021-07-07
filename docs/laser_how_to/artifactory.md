@@ -8,11 +8,16 @@ nav_order: 4
 ## Artifactory 
 {: .no_toc }
 
+LASER now has a means to provide air gapped access to online package repositories that you can use from within your offline VRE. We are currently able to provide access to CRAN, Conda and PyPI repositories. Here you will find everything you need to know to gain access to them. These are one time configuration steps that will persist between sessions, but will need to be repeated for each VM you log in to within your VRE.
+
+### Setting up artifactory 
+{: .no_toc }
+
 The following 6 steps are common across the configuration of each artifactory mirror. 
 
 1. Navigate to [10.6.8.132:8082/ui](10.6.8.132:8082/ui)
 2. Log in using your UoL credentials
-3. In left hand menu click Artifactory --> Artifacts 
+3. In the left hand menu click Artifactory --> Artifacts 
 	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG)
 4. Choose a **virtual** mirror
 	- LASER_CRAN_virtual 
@@ -23,8 +28,8 @@ The following 6 steps are common across the configuration of each artifactory mi
 6. Enter your UoL password to hash and insert your credentials into the generated code snippet 
 
 Now continue to follow the package repository specific instructions below:
-- TOC
-{:toc}
+	- TOC
+	{:toc}
 
 ### CRAN
 
