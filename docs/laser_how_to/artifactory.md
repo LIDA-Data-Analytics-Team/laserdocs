@@ -15,17 +15,17 @@ LASER now has a means to provide air gapped access to online package repositorie
 
 The following 6 steps are common across the configuration of each artifactory mirror. 
 
-1. Navigate to [10.6.8.132:8082/ui](10.6.8.132:8082/ui)
-2. Log in using your UoL credentials
-3. In the left hand menu click Artifactory --> Artifacts 
-	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG) <br/>
+1. Navigate to [10.6.8.132:8082/ui](10.6.8.132:8082/ui).
+2. Log in using your UoL credentials.
+3. In the left hand menu click Artifactory --> Artifacts.  
+	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG)
 4. Choose a **virtual** mirror
 	- LASER_CRAN_virtual 
 	- LASER_Conda_virtual 
 	- LASER_PyPI_virtual 
-5. At the top right of the screen click on 'Set me up' 
-	![Top right click on Set me up](../../images/artifactory/set_me_up.PNG) <br/>
-6. Enter your UoL password to hash and insert your credentials into the generated code snippet. <br/>
+5. At the top right of the screen click on 'Set me up'.  
+	![Top right click on Set me up](../../images/artifactory/set_me_up.PNG)
+6. Enter your UoL password to hash and insert your credentials into the generated code snippet.  
 	![Enter your UoL password](../../images/artifactory/enter_password.PNG)
 
 Now continue to follow the package repository specific instructions below:
