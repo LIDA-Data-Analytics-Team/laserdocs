@@ -15,7 +15,7 @@ LASER now has a means to provide air gapped access to online package repositorie
 
 The following 6 steps are common across the configuration of each artifactory mirror. 
 
-1. From a web browser within your VRE navigate to 10.6.8.132:8082/ui.
+1. From a web browser within your VRE navigate to **http://artifactory:8082**.
 2. Log in using your UoL credentials.
 3. In the left hand menu click Artifactory --> Artifacts.  
 	![In left hand menu click Artifactory --> Artifacts](../../images/artifactory/artifacts.PNG)
@@ -79,15 +79,15 @@ You may need to manually create the /pip/ directory and pip.ini file. C:/Program
 
 Append the following to pip.ini:
 ```python
-trusted-host = 10.6.8.132
+trusted-host = artifactory
 ```
 
 The full contents of pip.ini should look something like this:
 ```python
 [global]
 index-url = http://<USERNAME>:
-<PASSWORD>@10.6.8.132:8081/artifactory/api/pypi/LASER_PyPT_virtual/simple
-trusted-host = 10.6.8.132
+<PASSWORD>@artifactory:8081/artifactory/api/pypi/LASER_PyPT_virtual/simple
+trusted-host = artifactory
 ```
 
 You can now install packages using
