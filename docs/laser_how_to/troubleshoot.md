@@ -67,7 +67,7 @@ After loading Anaconda Navigator, go to File > Preferences (shortcut CTRL+P).
 
 Check the box to "Enable offline mode", then select Apply and close the preferences pane.
 
-![](../../images/using_python/01-1_anaconda_navigator.PNG){:width="70%" .mx-auto}
+![Fifth option from the top on the Preferences screen, checkbox](../../images/troubleshoot/anaconda_navigator.PNG){:width="70%" .mx-auto}
 
 You should now see "_Working in offline mode_" appear in the top right. Offline mode should persist when you open Anaconda Navigator again.
 
