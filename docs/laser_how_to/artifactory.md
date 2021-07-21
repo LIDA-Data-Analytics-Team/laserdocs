@@ -13,7 +13,7 @@ LASER now has a means to provide air gapped access to online package repositorie
 ## Setting up artifactory 
 {: .no_toc }
 
-The following 6 steps are common across the configuration of each artifactory mirror. 
+The following 6 steps are common across the configuration of each artifactory mirror. If you change your Windows password you will need to configure each of the artifactory repos once more.
 
 1. From a web browser within your VRE navigate to **http://artifactory:8082**.
 2. Log in using your UoL credentials.
