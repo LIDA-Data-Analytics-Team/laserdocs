@@ -9,7 +9,7 @@ nav_order: 8
 
 Before access can be granted to LASER all users are required to demonstrate that they have taken and passed a minimum training standard. Additional training may be required depending on data risk classification and/or data sharing requirements.
 
-Currently the minimum requirement is for all users to have taken the Information Security Essentials (within the last 12 months) and Information Security Advanced (within the last 24 months) online training modules available through Minerva.
+Currently the minimum requirement is for all users to have taken the Information Security Essentials (within the last 12 months) and Information Security Advanced (within the last 36 months) online training modules available through Minerva.
 
 Minerva can be accessed at the following link: [https://minerva.leeds.ac.uk/](https://minerva.leeds.ac.uk/)
 
