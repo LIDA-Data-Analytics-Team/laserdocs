@@ -5,7 +5,7 @@ parent: LIDA Services
 nav_order: 4
 ---
 
-## Directions to the Leeds Institute for Data Analytics (LIDA) 
+# Directions to the Leeds Institute for Data Analytics (LIDA) 
 
 The campus is a 20 minute walk from the train station and the main entrance to the University campus is situated on Woodhouse Lane, next to the Parkinson Building.
 

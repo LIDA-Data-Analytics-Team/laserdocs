@@ -5,20 +5,20 @@ parent: LASER Info
 nav_order: 1.1
 ---
 
-## LASER Data Risk Tiering
+# LASER Data Risk Tiering
 
 Data providers often classify their data (e.g. personally identifiable, pseudonymised, anonymous) and share it based on a set of firm requirements detailed in a ‘Data Sharing Agreement’ (DSA). That would set the minimum standards of security required. LIDA and/or PI/researcher may have a view that the data is more sensitive and want more assurance than the provider contractually requires.
 
 The following data risk classification tiers have been adopted from the Alan Turing Institute and are used to assess the data and associated risks.
 
-### Data Risk Tier - Disclosure Impact
+## Data Risk Tier - Disclosure Impact
 
 |Tier 0	|Tier 1	|Tier 2	|Tier 3	|Tier 4	|
 |---|---|---|---|---|
 |**No impact on UoL**, partners or data subjects	|**Low impact** on UoL; legal penalty or damage to reputation highly unlikely. |**Medium impact** on UoL or partners leading to legal, commercial, contractual, financial penalty or damage to reputation. |**High impact** to UoL, partners or data subjects with potential for contractual, commercial, legal, financial or reputational penalties.	|**Significant impact** to UoL, partners or individuals with potential for substantial legal, financial or reputational penalties.|
 |	|**No impact** on partners or data subjects |**Limited impact** on data subjects |	|	|
 
-### Data Risk Tier - LASER Description
+## Data Risk Tier - LASER Description
 
 |Tier 0	|Tier 1	|Tier 2	|Tier 3	|Tier 4	|
 |---|---|---|---|---|

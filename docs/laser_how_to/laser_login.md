@@ -9,18 +9,18 @@ video_description: "Logging into your LASER VRE"
 video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7adbf4b6861d"
 ---
 
-## Connect to a Virtual Research Environment
+# Connect to a Virtual Research Environment
 <br>
 {% include videoplayer.html title=page.video_title src=page.video_src %}
 
-### Prerequisites
+## Prerequisites
 You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
   - Citrix Workspace is available through Software Centre on UoL managed devices.
 - Duo two factor authentication enabled.
   - More information on DUO can be found [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537).
 
-### Log in to the Storefront
+## Log in to the Storefront
 - Navigate to the StoreFront here: [https://laser.leeds.ac.uk/](https://laser.leeds.ac.uk/).
 - Sign in using your University of Leeds credentials.
 - When prompted, choose an authentication method and accept the login request/enter the passcode.  

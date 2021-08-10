@@ -6,7 +6,7 @@ grand_parent: LASER How To
 nav_order: 4
 ---
 
-## Monitor VRE Costs in Azure Portal
+# Monitor VRE Costs in Azure Portal
 
 Detailed information about running and forecasted costs can be viewed for each VRE in Azure Portal. The costs can be compared with your project's budget, which is determined during your engagement with LIDA as part of [LIDA's Research Management Process](../../../docs/lida_services/RMP.html).
 
@@ -16,15 +16,15 @@ When you open the Costing analysis page, you'll see a collection of plots summar
 
 ![az_portal_costing.png](../../../images/az_portal/az_portal_costing.png){:width="100%" .mx-auto}
 
-### Cost fundamentals and budgets
+## Cost fundamentals and budgets
 
 The screenshot above is annotated to guide you. The numbers highlighted in the red rectangle are the most fundamental information on this page: the actual cost and forecasted total cost within the specified timeframe, both compared with the project's budget.
 
 In the screenshot above, you'll see that the budget is omitted here. In your case, you will have a budget and this will be added as a reference point in the costing graph in centre screen.
 
-Budget alerts are set up for every VRE to keep you apprised of running VRE costs and prevent overspending. The project PI is alerted via email when the monthly or annual costs spent reach 25%, 50%, 75% and 90% of the allocated budget. If you are concerned about spending your budget too quickly, please contact the [Data Analytics Team](mailto:ircdst@leeds.ac.uk) to discuss further.
+Budget alerts are set up for every VRE to keep you apprised of running VRE costs and prevent overspending. The project PI is alerted via email when the monthly or annual costs spent reach 25%, 50%, 75% and 90% of the allocated budget. If you are concerned about spending your budget too quickly, please contact the [Data Analytics Team](mailto:dat@leeds.ac.uk) to discuss further.
 
-### Detailed costing information
+## Detailed costing information
 
 The screenshot above includes six numbered annotations, guiding you to parts of the Costing analysis page that will help you transform and summarise the costing data in various ways.
 
@@ -35,7 +35,7 @@ The screenshot above includes six numbered annotations, guiding you to parts of 
 5. **Chart type**: Change the chart type from area to line or bars to better visualise the data for what you need to understand.
 6. **Cost proportion summaries**: Shows a basic breakdown of costs by service type or any other variable, so that you can whether storage, compute or something else accounts for the greatest proportion of your costs (and much more by changing the grouping variable).
 
-### Custom views
+## Custom views
 
 Combine the options above to create your own personalised views of VRE costs. For example, try the following options: 1. Accumulated costs view, 2. "This month" time frame, 3. Group by "Service name", 4. "Daily" granularity, and 5. "Column (stacked)" chart type. These settings will produce a graph something like this:
 

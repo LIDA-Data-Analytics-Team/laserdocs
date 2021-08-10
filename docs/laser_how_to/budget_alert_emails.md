@@ -19,7 +19,7 @@ Below is an example of the content of a budget alert email, which tells research
 ![budget_alert_emails.png](../../images/budget_alert_emails/budget_alert_emails.png)
 
 ## Contacting DAT about budget alert emails
-If you have any questions about VRE budgets or budget alert emails, please contact the Data Analytics Team at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk).
+If you have any questions about VRE budgets or budget alert emails, please contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
 Please also contact DAT if:
 - you want budget alert emails to be sent to someone other than the project principal investigator.
 - you want the perecentage accrued cost at which the emails are sent to be changed.

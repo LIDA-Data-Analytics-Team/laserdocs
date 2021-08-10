@@ -5,7 +5,7 @@ parent: LASER How To
 nav_order: 3
 ---
 
-## Install Software via Software Center
+# Install Software via Software Center
 
 Optional software in LASER VREs are provided via Software Center. If your VRE doesn't include software that you need, first check it can be installed in Software Center.
 
@@ -34,4 +34,4 @@ You can install multiple versions of software at the same time, for example, mul
 
 Software are installed to the Virtual Machine (VM) you're using, in the `C:\` drive. If any other users also have access to this VM, they'll see the installed software too. If you open a different VM in the same Virtual Research Environment (VRE), you won't find the software unless you also install it there. Equally, any configurations made to installed software will be specific to VMs, not VREs. For more details on LASER's VRE architecture, see the [Home page](index.html).
 
-If you need to install software that you can't find in Software Center, contact the [LIDA Data Analytics Team (DAT)](mailto:ircdst@leeds.ac.uk) to make a software request. Your request will then be reviewed and added to the pipeline of new software. You should also speak with the DAT team if your installed software is not working properly.
+If you need to install software that you can't find in Software Center, contact the [LIDA Data Analytics Team (DAT)](mailto:dat@leeds.ac.uk) to make a software request. Your request will then be reviewed and added to the pipeline of new software. You should also speak with the DAT team if your installed software is not working properly.

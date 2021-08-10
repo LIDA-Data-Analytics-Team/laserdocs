@@ -5,7 +5,7 @@ parent: LASER How To
 nav_order: 1.1
 ---
 
-## Closing a Virtual Research Environment  
+# Closing a Virtual Research Environment  
 There are three ways to close a VRE and each has significant differences regarding cost and continual processing:
 - Shutdown
 - Sign out
@@ -24,19 +24,19 @@ VMs can also be [stopped from the Azure Portal](https://lida-data-analytics-team
 |Processes stop|Processes stop|Processes can continue |
 |Other users can now log in to this VM|Other users can now log in to this VM|No other users can log in to this VM |
 
-### How to Shutdown
+## How to Shutdown
 Click the big red icon on the desktop and choose yes on the dialog:  
 
 ![](../../images/laser_logoff/vre_brb_shutdown.PNG)  
 
 ![](../../images/laser_logoff/vre_brb_shutdown_dialog.PNG)  
 
-### How to Sign out 
+## How to Sign out 
 Click Start button --> Profile --> Sign out  
 
 ![](../../images/laser_logoff/vre_user_options.PNG)
 
-### How to Disconnect
+## How to Disconnect
 You can disconnect two ways, but only should if you want code to continue to run in your absence. **Costs will continue to accrue** and VM will be locked for use by other users **until you reconnect then sign out or shutdown**.  
 	
 - Expand the Citrix menu at the top of the screen --> Disconnect  

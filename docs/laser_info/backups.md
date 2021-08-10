@@ -5,13 +5,13 @@ parent: LASER Info
 nav_order: 3
 ---
 
-## LASER Backups 
+# LASER Backups 
  
 The Microsoft 'Azure Backup Service’ enables one to backup and restore data from the Azure cloud. This service is utilised to protect and support the research projects hosted by the Azure platform, underpinned by a backup policy and the data retention arrangements for any given project's virtual research environment (VRE).  
 
 The Azure Backup Service is based upon the Microsoft Azure Recovery Services (MARS) agent and uses a Backup Service Vault, connected to Azure storage services. These agents will be utilised within the VRE environment, consisting of various Azure resources, such as VMs and File Shared Storage, SQL databases, Web App services and many more.  
 
-## Backup Retention 
+# Backup Retention 
 
 To develop both a consistent cost and support model, an evolving set of standard expectations have been agreed and applied to the backup policies and data retention requirements across the various VRE projects developed within the LASER service.    
 

@@ -6,7 +6,7 @@ grand_parent: LASER How To
 nav_order: 2
 ---
 
-## Using Azure Portal
+# Using Azure Portal
 
 Microsoft Azure has an online portal, which you can use to monitor various details about your LASER VREs, including running and forecasted costs. There are many things you can do with Azure Portal, most of which are out of scope of LASER documentation. To understand more about Azure Portal and services generally, visit [Azure Portal documentation](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview). Our documentation will focus on guiding you to parts of the portal where you can monitor basic information about your VREs.
 

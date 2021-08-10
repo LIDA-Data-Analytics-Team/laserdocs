@@ -5,11 +5,11 @@ parent: LASER Info
 nav_order: 2
 ---
 
-## Software provision
+# Software provision
 
 Some software, such as MS Office, will be installed as standard on all virtual machines (VMs) inside your Virtual Research Environment (VRE). But most software will be made available via Software Center for you to install yourself. For details on how to install software via Software Center and how to request new software, see our [Install Software page](../laser_how_to/install_software.html).
 
-## Software list
+# Software list
 
 Here is a full list of software available for installation in LASER VREs. This list does not include additional software that may be provided via conda environments or package repositories.
 

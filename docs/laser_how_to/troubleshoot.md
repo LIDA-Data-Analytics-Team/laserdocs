@@ -8,7 +8,7 @@ nav_order: 999
 # Troubleshooting
 {:.no_toc}
 
-Here are the answers to some common issues. If you have a problem not covered here please get in touch with the Data Analytics Team at [ircdst@leeds.ac.uk](mailto:ircdst@leeds.ac.uk).
+Here are the answers to some common issues. If you have a problem not covered here please get in touch with the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
 
 * seed list
 {:toc}

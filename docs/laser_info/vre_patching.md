@@ -5,7 +5,7 @@ parent: LASER Info
 nav_order: 4
 ---
 
-## VRE Patching Schedule
+# VRE Patching Schedule
 
 Security patches are released on the 2nd Tuesday of each month.
 

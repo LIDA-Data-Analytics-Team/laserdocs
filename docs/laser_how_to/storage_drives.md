@@ -5,7 +5,7 @@ parent: LASER How To
 nav_order: 2
 ---
 
-## Where is my project data?
+# Where is my project data?
 
 In your virtual machine (VM), open up File Explorer and click on the computer name on the left, to see a list of drives (C:, M: etc.)
 
@@ -21,7 +21,7 @@ Please note that file deletions are permanent. There is no 'Recycle Bin'.
 
 ![N: drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
 
-### Other drives 
+## Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.
 
 M: drive contains the user directories that contain the default _'Quick access'_ folders. It is similarly existant on the virtual machine only and we recommend that you **avoid using M: (incl. Documents, Downloads, etc.)**.  
