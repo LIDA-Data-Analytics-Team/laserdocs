@@ -112,3 +112,9 @@ You may need to manually map the R: drive to your machine.
 
 You should now see the R miniCRAN repository mapped to R: drive.
 
+## The laser.leeds.ac.uk website fails to load 
+
+If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not also logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to also connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
+
+![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="70%" .mx-auto}
+
