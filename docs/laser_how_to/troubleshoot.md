@@ -116,5 +116,14 @@ You should now see the R miniCRAN repository mapped to R: drive.
 
 If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not also logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to also connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
 
-![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="70%" .mx-auto}
+![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="60%" .mx-auto}
+
+## My software installation failed in Software Center
+
+There is a known issue that with some software provided in Software Center, attempts to install the software end with Failed status and present an error message even when the installation is successful. This is known to occur with:
+
+- ArcGIS
+- Atom
+
+If you have tried to install these software and got an error message try looking for the software in your Start menu to see if the installation actually succeeded. If the software didn't install, contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) for support. In all other cases of software installation failures, contact the Data Analytics Team.
 
