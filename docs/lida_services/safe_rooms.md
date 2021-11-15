@@ -8,7 +8,7 @@ nav_order: 3
 # Safe Rooms 
 
 ## What is a safe room used for?
-When data has been classified as IRC Secure (see Data Classification) a researcher will only be able to access the data from a controlled environment where the risks of data leakage can be controlled.
+When data has been classified as Tier 4 (see [LASER Data Risk Tiering](../laser_info/tiering.html)) a researcher will only be able to access the data from a controlled environment where the risks of data leakage can be controlled.
 
 ## Opening Times    
 8.30 a.m. to 5 p.m. weekdays 
