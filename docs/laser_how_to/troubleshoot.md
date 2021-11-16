@@ -128,3 +128,6 @@ There is a known issue that with some software provided in Software Center, atte
 
 If you have tried to install these software and got an error message try looking for the software in your Start menu to see if the installation actually succeeded. If the software didn't install, contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) for support. In all other cases of software installation failures, contact the Data Analytics Team.
 
+## Where can I find the computational spec of my virtual machine?
+
+See our guide to [monitoring VMs using Azure Portal](./az_portal/portal_vms.html).
