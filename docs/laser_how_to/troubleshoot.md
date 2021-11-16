@@ -67,7 +67,11 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
     - Type your password to authenticate (note that this requires admin rights)
     - Close Terminal window then retry LASER VRE login
 
-## Anaconda Navigator slow (in online mode)
+## My session has timed out, how do I press CTRL+ALT+DEL to unlock?
+
+VREs lock after a period of inactivity for security purposes. At the top of the window for your VRE desktop you should see a small black bar. Click the bar to expand a menu that includes a CTRL+ALT+DEL option. Click this option and then input your password to unlock the session.
+
+## Anaconda Navigator is slow to open (in online mode)
 
 When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve your user experience of Navigator in the VRE by enabling offline mode.
 
@@ -106,7 +110,7 @@ The instructions above are simple but will not persist, meaning you must change 
 - Run `jupyter notebook` in Anaconda Prompt, while your environment is active, and the Notebook Dashboard should appear showing your chosen home directory in the Dashboard file manager.
 - This setting will apply for your user only, on that VM only. Another user, or the same user in a different VM in the same VRE will need to repeat these steps. The setting may apply to all conda environments.
 
-## I cannot see R: drive
+## I can't see R: drive
 
 You may need to manually map the R: drive to your machine.
 - Open File Explorer and right click on Network  
