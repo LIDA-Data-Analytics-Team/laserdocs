@@ -27,6 +27,12 @@ Simply closing the window ('Xing out') will disconnect the user from the session
 
 If you see the error message "The connection failed with status (1030)" then you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist in this if you do not have the necessary permissions on your device.
 
+## The laser.leeds.ac.uk website fails to load 
+
+If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
+
+![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="60%" .mx-auto}
+
 ## LASER login failure: You cannot log on using a smart card
 
 If you try to login to LASER after having timed out from a previous session, you may see the following message:
@@ -98,7 +104,6 @@ The instructions above are simple but will not persist, meaning you must change 
 - Run `jupyter notebook` in Anaconda Prompt, while your environment is active, and the Notebook Dashboard should appear showing your chosen home directory in the Dashboard file manager.
 - This setting will apply for your user only, on that VM only. Another user, or the same user in a different VM in the same VRE will need to repeat these steps. The setting may apply to all conda environments.
 
-
 ## I cannot see R: drive
 
 You may need to manually map the R: drive to your machine.
@@ -111,12 +116,6 @@ You may need to manually map the R: drive to your machine.
 - Click finish 
 
 You should now see the R miniCRAN repository mapped to R: drive.
-
-## The laser.leeds.ac.uk website fails to load 
-
-If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not also logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to also connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
-
-![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="60%" .mx-auto}
 
 ## My software installation failed in Software Center
 
