@@ -13,7 +13,7 @@ Here are the answers to some common issues. If you have a problem not covered he
 * seed list
 {:toc}
 
-## My desktop won't start
+## My VRE won't start: Cannot start desktop
 
 ![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
 
@@ -23,9 +23,11 @@ A VM will remain 'occupied' even if the user has disconnected.
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
+## My VRE won't start: Failed with status 1030
+
 ![error_1030.png](../../images/troubleshoot/error_1030.png)
 
-If you see the error message "The connection failed with status (1030)" then you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist in this if you do not have the necessary permissions on your device.
+If the VRE looks about to open in a new window but then it crashes and you see the error message "The connection failed with status (1030)", this most likely means you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist with this if you do not have the necessary permissions on your device. Before updating Citrix you might try resetting Citrix by right-clicking the Citrix icon in your system tray > Advanced Preferences > Reset Citrix Workspace. If this doesn't resolve the 1030 error, or you can't find the Advanced Preferences, submit a request to have Citrix updated.
 
 ## The laser.leeds.ac.uk website fails to load 
 
