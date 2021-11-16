@@ -21,6 +21,20 @@ Please note that file deletions are permanent. There is no 'Recycle Bin'.
 
 ![N: drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
 
+## Restrict access to folder on N: drive
+
+Occasionally projects need to restrict sections of their VRE to specific people. For example to limit access to data according to the terms of a contract. If you need to do this, submit a request to the Data Analytics team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
+
+In your request, describe:
+
+- The name of the folder you want created that will contain restricted access files
+- The level of read/write permissions those granted access should have, e.g. read-only or modify
+- List the individuals who should be granted access to this restricted folder
+- Describe what files will be stored in the restricted folder
+- Your project's Data Management Plan will need updating to include the above details, so you may want to attach an updated version to your request
+
+The Data Analytics Team will then complete this request.
+
 ## Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.
 
