@@ -135,3 +135,16 @@ If you have tried to install these software and got an error message try looking
 ## Where can I find the computational spec of my virtual machine?
 
 See our guide to [monitoring VMs using Azure Portal](./az_portal/portal_vms.html).
+
+## Why is my LASER desktop display a different resolution to the desktop I use to access LASER?
+
+Windows often scales the display to make text larger and easier to read, altering the resolution displayed. By default, LASER displays VRE desktops at this scaled resolution rather than your monitor's native resolution.
+
+To run LASER VMs at the native resolution of your monitor:
+- Right-click the Citrix Workspace icon in the system tray on your taskbar, and select Advanced Preferences:
+	![display_res_citrix_menu.png](../../images/troubleshoot/display_res_citrix_menu.png)
+- Select High DPI, and then select and save the “No, use the native resolution” option:
+	![display_res_citrix_options.png](../../images/troubleshoot/display_res_citrix_options.PNG)
+
+Your choice will persist in subsequent sessions.
+
