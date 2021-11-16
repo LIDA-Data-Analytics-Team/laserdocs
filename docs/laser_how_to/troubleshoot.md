@@ -149,3 +149,14 @@ To run LASER VMs at the native resolution of your monitor:
 
 Your choice will persist in subsequent sessions.
 
+## How do I restrict folder access to specific project members?
+
+Contact the Data Analytics team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) if you need restrict folder access, for example to limit access to data according to the terms of a contract. In your request, describe:
+
+- The name of the folder you want created that will contain restricted access files
+- The level of read/write permissions those granted access should have, e.g. read-only or modify
+- List the individuals who should be granted access to this restricted folder
+- Describe what files will be stored in the restricted folder
+- Your project's Data Management Plan will need updating to include the above details
+
+The Data Analytics Team will then complete this request.
