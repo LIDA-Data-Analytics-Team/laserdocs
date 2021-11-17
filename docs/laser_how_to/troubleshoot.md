@@ -69,7 +69,7 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
 
 ## My session has timed out, how do I press CTRL+ALT+DEL to unlock?
 
-VREs lock after a period of inactivity for security purposes. At the top of the window for your VRE desktop you should see a small black bar. Click the bar to expand a menu that includes a CTRL+ALT+DEL option. Click this option and then input your password to unlock the session.
+VREs lock after a period of inactivity for security purposes. At the top of the window for your VRE desktop you should see a small black bar. Click the bar to expand a menu that includes a CTRL+ALT+DEL option. Click this option, select the password field that appears and input your password to unlock the session.
 
 ## Anaconda Navigator is slow to open (in online mode)
 
