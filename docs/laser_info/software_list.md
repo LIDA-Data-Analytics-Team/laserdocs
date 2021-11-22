@@ -22,9 +22,9 @@ List last updated: 2021-11-17
 |Alteryx 2021 with R unlicenced|
 |Anaconda Distribution Individual Edition (includes JupyterLab, Notebook, Spyder, etc.)|
 |ArcGIS 10.6.0|
+|Atom 1.56|
 |Endnote X9|
 |Git (plus Git Bash and Git GUI)|
-|Github Atom 1.56| 
 |Google Chrome|
 |Inkscape|
 |Intellij Idea|
@@ -45,7 +45,7 @@ List last updated: 2021-11-17
 |Microsoft Visual Studio 2017 Community |
 |Microsoft Visual Studio Code| 
 |Microsoft Word|
-|Mixtex 4.2 x64|
+|MiKTeX 4.2 x64|
 |MobaXterm|
 |Mozilla Firefox|
 |Mplus 8.5 (X64)| 
