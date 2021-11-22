@@ -20,8 +20,7 @@ List last updated: 2021-11-17
 |7-Zip|
 |Adobe Acrobat Reader DC|
 |Alteryx 2021 with R unlicenced|
-|Anaconda Distribution Individual Edition|
-|Anaconda includes JupyterLab, Notebook, Spyder, etc.|
+|Anaconda Distribution Individual Edition (includes JupyterLab, Notebook, Spyder, etc.)|
 |ArcGIS 10.6.0|
 |Endnote X9|
 |Git (plus Git Bash and Git GUI)|
@@ -33,23 +32,23 @@ List last updated: 2021-11-17
 |MapInfo Pro|
 |Maple|
 |Mendeley Desktop| 
+|Microsoft Access|
 |Microsoft Data Migration Assistant 5.5.3| 
 |Microsoft Edge|
-|Microsoft PowerBI| 
+|Microsoft Excel|
+|Microsoft PowerBI Desktop|
+|Microsoft Powerpoint|
+|Microsoft SQL Server 2017|
+|Microsoft SQL Server Management Studio 2017|
 |Microsoft Vicual C++ Redistributes (x64)|
 |Microsoft Vicual C++ Redistributes (x86)|
+|Microsoft Visual Studio 2017 Community |
 |Microsoft Visual Studio Code| 
+|Microsoft Word|
 |Mixtex 4.2 x64|
 |MobaXterm|
 |Mozilla Firefox|
 |Mplus 8.5 (X64)| 
-|MS Access|
-|MS Excel|
-|MS PowerBI Desktop|
-|MS Powerpoint|
-|MS SQL Server 2017|
-|MS SQL Server Management Studio 2017|
-|MS Word|
 |Netbeans 8.2|
 |Netlogo 6.0.4|
 |NIH ImageJ|
@@ -70,7 +69,5 @@ List last updated: 2021-11-17
 |Stata 17|
 |Tableau|
 |Texmaker 5.1.2| 
-|Visual Studio 2017 Community |
 |Weka 3.9.3|
 |Zotero|
-
