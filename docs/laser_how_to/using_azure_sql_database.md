@@ -15,7 +15,7 @@ Enter the following:
 - Server type = Database Engine
 - Server name = \<ServerName>.database.windows.net
 - Authentication = Azure Active Directory - Universal with MFA
-- Username = <username>@leeds.ac.uk
+- Username = \<username>@leeds.ac.uk
 
 Click 'Options >>' and go to the second tab 'Connection Properties'.  
 ![ssms_connect_to_server_2.png](../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
