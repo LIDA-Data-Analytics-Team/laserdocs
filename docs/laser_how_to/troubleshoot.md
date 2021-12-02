@@ -71,6 +71,10 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
 
 VREs lock after a period of inactivity for security purposes. At the top of the window for your VRE desktop you should see a small black bar. Click the bar to expand a menu that includes a CTRL+ALT+DEL option. Click this option, select the password field that appears and input your password to unlock the session.
 
+## App windows in my VRE are white and borderless, which are difficult to distinguish when they overlap
+
+You can change the display settings and themes in your VRE's desktop. To display app windows with clearer boundaries, go to Settings by typing settings in the taskbar search. Go to the Personalization section and select the Colors tab. Scroll to the bottom of the page to find a checkbox called "Title bars and window borders". Check this box and to fill the title bars and borders of app windows with the accent colour selected in the colour block. You can choose a different accent colour if you wish.
+
 ## Anaconda Navigator is slow to open (in online mode)
 
 When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve your user experience of Navigator in the VRE by enabling offline mode.
