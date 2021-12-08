@@ -37,7 +37,9 @@ You will need:
   ![citrix_launch_file.png](../../images/laser_login/citrix_launch_file.png)
   - Save and open this file, it will be deleted when your session ends.
 - Citrix Workspace will launch and connect to your chosen virtual machine
-- You will  need to acknowledge the University of Leeds Legal Notice to continue. Failure to do so within 3 minutes will automatically disconnect the session, leaving the virtual machine running and incurring costs.
+- You will  need to acknowledge the University of Leeds Legal Notice to continue. 
+	- Failure to do so within 3 minutes will automatically disconnect the session, leaving the virtual machine running and incurring costs.
+	- If this happens you can simply attempt to reopen the same virtual machine. It should open much more quickly as it is now in a 'Running' state.
 ![vre_desktop.png](../../images/laser_login/uol_legal_notice.png)
 - On clicking OK to the Legal Notice you will be presented with tour VRE desktop.  
 ![vre_desktop.png](../../images/laser_login/vre_desktop.png)
