@@ -47,3 +47,8 @@ This plot clearly shows three useful things:
 3. Peak daily costs when the VRE is being used a lot (daily peak in the above plot is on 20th April at roughly £11).
 
 Once you've created a view you find useful, click the save button in the top left and give it a useful name. You can then revisit your customised view whenever you want by selecting it from the View dropdown list (option 1 described earlier). You can also download graphs and data for reporting elsewhere, by hitting the download button.
+
+Spikes in resource group costs can occur during the lifetime of a project, some of the reasons may be :
+- During initial project resource group creation and configuration
+- During the on-boarding of databases into the resource group when the database is scaled up in capacity to migrate the data
+- During the on-boarding or archiving of large amounts of project data into the resource group particularly at project outset
