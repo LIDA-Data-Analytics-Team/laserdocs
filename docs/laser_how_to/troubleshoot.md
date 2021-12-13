@@ -156,3 +156,8 @@ Your choice will persist in subsequent sessions.
 ## How do I restrict folder access to specific project members?
 
 See our instructions on how to [request bespoke folder access permissions](./storage_drives.html#restrict-access-to-folder-on-n-drive) on your VRE's N: drive.
+
+## There's a cost discrepancy between Azure Portal & LASER Dashboard
+
+A variance between the LASER Power BI Dashboard costs which come directly from Azure and the monthly IT finance costs may be seen, this is due to discounts and surcharges included in IT Finances calculations as part of a 3rd party supplier contract but not part of the raw Azure costs.
+
