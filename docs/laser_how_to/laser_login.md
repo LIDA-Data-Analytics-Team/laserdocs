@@ -31,7 +31,7 @@ You will need:
   - If not detected but installation is present click 'Already installed'.
 - You are now presented with all of the VRE desktops you have access to. Each icon represents a different virtual machine, and one VRE can have many.
 - Click on the image of the monitor or expand the options and click 'Open' to connect.<br>
-**Note that any failed attempt to open the chosen virtual machine will still start it running in Azure and therefore incur costs. [Virtual machines can be stopped without logging in](./az_portal/portal_vms.html), via the Azure Portal, if needed.**<br>
+**Note that any failed attempt to open the chosen virtual machine will still cause it to start running in Azure and therefore incur costs. [Virtual machines can be stopped without logging in](./az_portal/portal_vms.html), via the Azure Portal, if needed.**<br>
 ![citrix_store_front.png](../../images/laser_login/citrix_store_front.png)
   - You may be asked to download a *.ica launcher file.  
   ![citrix_launch_file.png](../../images/laser_login/citrix_launch_file.png)
