@@ -43,6 +43,16 @@ If you try to login to LASER after having timed out from a previous session, you
 
 You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
 
+## The VRE hangs on 'Connecting...' and closes
+
+When you first click on the VM in the storefront and you get the wheel spinning around, this has sent a command to Azure to power up the VM. Once the VM is powered up in Azure and available, the .ica file is downloaded in your browser.
+
+The .ica file, this file contains config and connection information for Citrix workspace application to make a connection to the VM. Once a connection has been made, then VM window then logs your in and displays the legal notice which users have to accept.
+
+If your failed session sat on the connecting screen that tells us that the Citrix application on your computer could not make a connection to the VM. This could be any number of reasons. A weak internet connection would cause this, issues with the Citrix workspace application on your computer, or in fact any range of issues on your computer that would result in a connection not being able to be made.
+
+After confirming you have a strong internet connection please contact a member of the [DAT](mailto:dat@leeds.ac.uk) who will assist.
+
 ## Access LASER VRE on Linux machine
 
 The steps below have been tested using Ubuntu OS and Firefox browser.
