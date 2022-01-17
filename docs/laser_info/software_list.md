@@ -20,7 +20,7 @@ List last updated: 2021-11-17
 |7-Zip|
 |Adobe Acrobat Reader DC|
 |Alteryx 2021 with R unlicenced|
-|Anaconda Distribution Individual Edition (includes JupyterLab, Notebook, Spyder, etc.)|
+|Anaconda Distribution Individual Edition 2021.11 (includes Python 3.9, JupyterLab, Spyder, etc.)|
 |ArcGIS 10.6.0|
 |Atom 1.56|
 |Endnote X9|
@@ -61,7 +61,7 @@ List last updated: 2021-11-17
 |Prom Tools 6.10| 
 |PuTTY|
 |PyCharm CE|
-|Python 3.7 (other versions via conda)|
+|Python 3.9 (other versions via conda)|
 |QGIS|
 |R 4.0.2 (other versions via conda)|
 |Rstudio Desktop|
