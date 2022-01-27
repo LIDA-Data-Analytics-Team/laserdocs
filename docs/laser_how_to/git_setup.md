@@ -32,8 +32,8 @@ When you make changes to your user configurations, they will be saved to your ne
 
 To identify yourself when you commit changes to code, declare your user name and email in a gitconfig file. These configurations get used automatically when versioning your code.
 
-Run the following commands in Git Bash:
-`git config --global user.name <your-name>`
+Run the following commands in Git Bash:<br>
+`git config --global user.name <your-name>`<br>
 `git config --global user.email <your-email>`
 
 This will create a file called .gitconfig in your home directory, or add to the file if it already exists. From your home directory in Git Bash, check the contents of .gitconfig using `cat .gitconfig`.
