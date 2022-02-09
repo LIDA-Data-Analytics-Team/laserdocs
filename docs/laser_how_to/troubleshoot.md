@@ -21,16 +21,6 @@ If you receive the below error when trying to connect to [https://laser.leeds.ac
 
 If instead you get an error reporting either "Cannot complete your request" or "Connection failed with status (unknown client error 1110)", then try connecting to LASER using an incognito/private browser window. If this succeeds, you'll need to clear your browsing history, cookies and cache to successfully access LASER from a regular browser window.
 
-## LASER login failure: You cannot log on using a smart card
-
-**Note: This issue has been fixed and should not occur any longer. Details will be kept here until we deem them no longer useful. If you experience this issue, email [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).**
-
-If you try to login to LASER after having timed out from a previous session, you may see the following message:
-
-![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
-
-You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
-
 ## My VRE won't start: Cannot start desktop
 
 ![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
@@ -174,4 +164,14 @@ See our instructions on how to [request bespoke folder access permissions](./sto
 ## There's a cost discrepancy between Azure Portal & LASER Dashboard
 
 A variance between the LASER Power BI Dashboard costs which come directly from Azure and the monthly IT finance costs may be seen, this is due to discounts and surcharges included in IT Finances calculations as part of a 3rd party supplier contract but not part of the raw Azure costs.
+
+## LASER login failure: You cannot log on using a smart card
+
+**Note: This issue has been fixed and should not occur any longer. Details will be kept here until we deem them no longer useful. If you experience this issue, email [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).**
+
+If you try to login to LASER after having timed out from a previous session, you may see the following message:
+
+![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+
+You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
 
