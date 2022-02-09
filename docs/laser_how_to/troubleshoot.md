@@ -13,6 +13,24 @@ Here are the answers to some common issues. If you have a problem not covered he
 * seed list
 {:toc}
 
+## The laser.leeds.ac.uk website fails to load 
+
+If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
+
+![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="50%" .mx-auto}
+
+If instead you get an error reporting either "Cannot complete your request" or "Connection failed with status (unknown client error 1110)", then try connecting to LASER using an incognito/private browser window. If this succeeds, you'll need to clear your browsing history, cookies and cache to successfully access LASER from a regular browser window.
+
+## LASER login failure: You cannot log on using a smart card
+
+**Note: This issue has been fixed and should not occur any longer. Details will be kept here until we deem them no longer useful. If you experience this issue, email [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).**
+
+If you try to login to LASER after having timed out from a previous session, you may see the following message:
+
+![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+
+You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
+
 ## My VRE won't start: Cannot start desktop
 
 ![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
@@ -28,20 +46,6 @@ Simply closing the window ('Xing out') will disconnect the user from the session
 ![error_1030.png](../../images/troubleshoot/error_1030.png)
 
 If the VRE looks about to open in a new window but then it crashes and you see the error message "The connection failed with status (1030)", this most likely means you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist with this if you do not have the necessary permissions on your device. Before updating Citrix you might try resetting Citrix by right-clicking the Citrix icon in your system tray > Advanced Preferences > Reset Citrix Workspace. If this doesn't resolve the 1030 error, or you can't find the Advanced Preferences, submit a request to have Citrix updated.
-
-## The laser.leeds.ac.uk website fails to load 
-
-If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
-
-![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="60%" .mx-auto}
-
-## LASER login failure: You cannot log on using a smart card
-
-If you try to login to LASER after having timed out from a previous session, you may see the following message:
-
-![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
-
-You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
 
 ## The VRE hangs on 'Connecting...' and closes
 
