@@ -15,7 +15,7 @@ Minerva can be accessed at the following link: [https://minerva.leeds.ac.uk/](ht
 
 Once logged in using your University of Leeds credentials you should find the modules on the Organisations page:
 
-![Organisations section in Minerva navigation menu](../../images/minerva_training/minerva_organisations_page.png){:width="100%" .mx-auto}
+![Organisations section in Minerva navigation menu](../../images/minerva_training/minerva_organisations_page.png)
 
 Select a training module to open it and begin. 
 
