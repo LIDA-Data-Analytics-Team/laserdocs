@@ -5,7 +5,7 @@ parent: LIDA Services
 nav_order: 5
 ---
 
-# Reservaing a Desk in LIDA
+# Reserving a Desk in LIDA
 {:.no_toc}
 
 This is the User Guide for Planon, the desk booking system for LIDA. Planon should be used by LIDA colleagues to book and/or cancel a desk within LIDA. 
