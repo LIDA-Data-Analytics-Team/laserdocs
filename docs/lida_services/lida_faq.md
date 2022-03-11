@@ -2,7 +2,7 @@
 layout: default
 title: LIDA FAQ
 parent: LIDA Services
-nav_order: 5
+nav_order: 6
 
 video_title: "LIDA Information Session"
 video_description: "Recording of a LIDA Information Session"
