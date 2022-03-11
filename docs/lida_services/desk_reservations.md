@@ -10,16 +10,17 @@ nav_order: 5
 
 This is the User Guide for Planon, the desk booking system for LIDA. Planon should be used by LIDA colleagues to book and/or cancel a desk within LIDA. 
 
-## Housekeeping
-{:.no_toc}
+* seed list
+{:toc}
+
+
+## Housekeeping 
 
 - Please make sure to cancel your booking if you do not come in.
 - Please make sure to leave desk and pedestals clear.
 - Please make sure all IT kit is left on desk.
 - Each desk should have a chair, pedestal, PC, keyboard, mouse and two monitors connected via cable, if you are booked into a desk without any of the above, please contact [Kimberley Wright](mailto:k.l.wright1@leeds.ac.uk) or [Karen Fletcher](mailto:k.mendes@leeds.ac.uk).
 
-* seed list
-{:toc}
 
 ## How to log in 
 
