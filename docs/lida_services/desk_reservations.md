@@ -42,9 +42,9 @@ Click [here](https://mymedia.leeds.ac.uk/Mediasite/Play/fd29bacca5d145ecaaa94666
 - Select ‘Time and Location’ on top of the screen and choose start and end date/time.
 - If this is your first time logging into Planon, we advise you to click on ‘Show more search options’ and pin ‘Property’, ‘Floor’ and ‘Neighbourhood’ by clicking on the blue pushpin symbol (<span style="color:blue">🖈</span>) on the right-hand side of these boxes.
 - To find LIDA’s desks, please use the below details and press ENTER or click SEARCH:  
-	Property: Worsley 
-	Floor: Eleventh 
-	Neighbourhood: LIDA 
+	Property: Worsley  
+	Floor: Eleventh  
+	Neighbourhood: LIDA  
 - The above will prompt you to all available desk spaces in LIDA, you can choose to see the ‘Unavailable reservation units’ (this will show you which desks are booked by who and for how long). You can also view more of LIDA’s desks by clicking on the blue arrow ‘>‘ above the desk’s table.
 	- The desks will show as 138291-BXX, the desk numbers will be –BXX, which you can reference against our floorplan. The first part of the code is unchangeable.
 - Click ‘Continue’.
