@@ -8,7 +8,11 @@ nav_order: 5
 # Reservaing a Desk in LIDA
 {:.no_toc}
 
-This is the User Guide for Planon, the desk booking system for LIDA. Planon should be used by LIDA colleagues to book and/or cancel a desk within LIDA. Housekeeping
+This is the User Guide for Planon, the desk booking system for LIDA. Planon should be used by LIDA colleagues to book and/or cancel a desk within LIDA. 
+
+## Housekeeping
+{:.no_toc}
+
 - Please make sure to cancel your booking if you do not come in.
 - Please make sure to leave desk and pedestals clear.
 - Please make sure all IT kit is left on desk.
@@ -19,7 +23,7 @@ This is the User Guide for Planon, the desk booking system for LIDA. Planon shou
 
 ## How to log in 
 
-- Click [here[(https://uolplanon-prod.planoncloud.com/) to access the Planon log in page. If this does not work, please copy the following link and paste on your browser: https://uolplanon-prod.planoncloud.com/
+- Click [here](https://uolplanon-prod.planoncloud.com/) to access the Planon log in page. If this does not work, please copy the following link and paste on your browser: https://uolplanon-prod.planoncloud.com/
 	- If you are a temporary member of staff or student, log in on the left side panel with username@leeds.ac.uk. Upon first log in please use the initial password: **secret** (we highly recommend you to change this after your initial log in);
 	- If you are a permanent member of staff, log in via the UoL Single Sign-on on the right side panel with your usual University credentials.
 	- If you have been set up on Planon after **16th February 2022**, you will be able to login via Single signon from the right hand side panel. 
