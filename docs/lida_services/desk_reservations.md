@@ -41,17 +41,19 @@ Click [here](https://mymedia.leeds.ac.uk/Mediasite/Play/fd29bacca5d145ecaaa94666
 - The requestor will automatically be populated as yourself, however you can easily change this to another colleague should you wish to book on their behalf.
 - Select ‘Time and Location’ on top of the screen and choose start and end date/time.
 - If this is your first time logging into Planon, we advise you to click on ‘Show more search options’ and pin ‘Property’, ‘Floor’ and ‘Neighbourhood’ by clicking on the blue pushpin symbol (<span style="color:blue">🖈</span>) on the right-hand side of these boxes.
-- To find LIDA’s desks, please use the below details and press ENTER or click SEARCH:  
-	Property: Worsley  
-	Floor: Eleventh  
-	Neighbourhood: LIDA  
+- To find LIDA’s desks, please use the below details and press ENTER or click SEARCH or press RETURN:  
+Neighbourhood: LIDA  
+	Please note, there are now 3 neighbourhoods in Planon for LIDA:  
+	LIDA: for desks on the open-plan office  
+	LIDA docking stations: in due course, this will include all desks for laptop use only.  
+	LIDA offices: in due course, this will include all bookable offices in LIDA.  
 - The above will prompt you to all available desk spaces in LIDA, you can choose to see the ‘Unavailable reservation units’ (this will show you which desks are booked by who and for how long). You can also view more of LIDA’s desks by clicking on the blue arrow ‘>‘ above the desk’s table.
 	- The desks will show as 138291-BXX, the desk numbers will be –BXX, which you can reference against our floorplan. The first part of the code is unchangeable.
 - Click ‘Continue’.
 - You will now have an overview of your reservation, you can either:
 	- Cancel this by clicking on ‘Cancel this reservation’;
 	- Repeat your booking by clicking on ‘Repeat this reservation’;
-	- Close the window by clicking on ‘Ok, close the wizard’.
+	- Close the window by clicking on ‘Ok, close the wizard’.  
 	Please note: there is no email confirming you booked or cancelled a desk for yourself.
 
 Click [here](https://mymedia.leeds.ac.uk/Mediasite/Play/009bc766fb5e4deea45df73fe3f343ff1d) to watch the tutorial of ‘How to book a desk’.
