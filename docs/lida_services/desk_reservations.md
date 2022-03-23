@@ -44,10 +44,10 @@ Click [here](https://mymedia.leeds.ac.uk/Mediasite/Play/fd29bacca5d145ecaaa94666
 - To find LIDA’s desks, please use the below details and press **ENTER** or click **SEARCH** or press **RETURN**:  
 Neighbourhood: LIDA  
 
-Please note, there are now 3 neighbourhoods in Planon for LIDA:  
-**LIDA**: for desks on the open-plan office.  
-**LIDA docking stations**: in due course, this will include all desks for laptop use only.  
-**LIDA offices**: in due course, this will include all bookable offices in LIDA.  
+	Please note, there are now 3 neighbourhoods in Planon for LIDA:  
+	**LIDA**: for desks on the open-plan office.  
+	**LIDA docking stations**: in due course, this will include all desks for laptop use only.  
+	**LIDA offices**: in due course, this will include all bookable offices in LIDA.  
 
 - The above will prompt you to all available desk spaces in LIDA, you can choose to see the ‘Unavailable reservation units’ (this will show you which desks are booked by who and for how long). You can also view more of LIDA’s desks by clicking on the blue arrow ‘>‘ above the desk’s table.
 	- The desks will show as 138291-BXX, the desk numbers will be –BXX, which you can reference against our floorplan. The first part of the code is unchangeable.
