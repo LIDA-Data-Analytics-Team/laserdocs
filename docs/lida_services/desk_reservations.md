@@ -46,7 +46,7 @@ Neighbourhood: LIDA
 
 	Please note, there are now 3 neighbourhoods in Planon for LIDA:  
 	**LIDA**: for desks on the open-plan office.  
-	**LIDA docking stations**: in due course, this will include all desks for laptop use only.  
+	**LIDA docking stations**: this includes all desks for laptop use only.  
 	**LIDA offices**: in due course, this will include all bookable offices in LIDA.  
 
 - The above will prompt you to all available desk spaces in LIDA, you can choose to see the ‘Unavailable reservation units’ (this will show you which desks are booked by who and for how long). You can also view more of LIDA’s desks by clicking on the blue arrow ‘>‘ above the desk’s table.
