@@ -14,7 +14,7 @@ When data has been classified as Tier 4 (see [LASER Data Risk Tiering](../laser_
 8.30 a.m. to 5 p.m. weekdays 
 
 ## Bookings and use of the Safe Rooms
-Both the LIDA Reception staff and the Data Services Team can book safe rooms.  These are:
+Both the LIDA Reception staff and the Data Analytics Team can book safe rooms.  These are:
 
 - Room 11.15
 - Room 11.16
@@ -28,9 +28,9 @@ Photo ID will be requested to evidence user identity. The type of ID may vary de
 	- passport
 	- other recognised national identification card
 
-Key fobs are provided to access the safe rooms. These will be signed out by reception staff at the start of each session and you must return them at the end of the session. A record will be kept of which users access which room and when.
+External researchers must also return a signed copy of LIDA's [Health and Safety form](../../files/Safe Room Health and Safety Information.pdf) to [lida@leeds.ac.uk](mailto:lida@leeds.ac.uk).
 
-External researchers must present a signed copy of the [Health and Safety.pdf](../../files/Safe Room Health and Safety Information.pdf) to front desk upon first arrival to LIDA to use the safe room.
+The LIDA office space is only accessible to staff with an assigned LIDA key fob. These fobs don't grant access to safe rooms by default. Your key fob will be updated to enable safe room access as part of your induction. A record will be kept of which users access which room and when.
 
 ## Regulations
 There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the IRC. These are as follows:
