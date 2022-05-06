@@ -14,7 +14,7 @@ When data has been classified as Tier 4 (see [LASER Data Risk Tiering](../laser_
 8.30 a.m. to 5 p.m. weekdays 
 
 ## Bookings and use of the Safe Rooms
-Both the LIDA Reception staff and the Data Analytics Team can book safe rooms.  These are:
+The LIDA Reception staff can book safe rooms; please email at ([lida@leeds.ac.uk](mailto:lida@leeds.ac.uk)).  These are:
 
 - Room 11.15
 - Room 11.16
