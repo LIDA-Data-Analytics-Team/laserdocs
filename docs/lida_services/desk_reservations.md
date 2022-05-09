@@ -51,7 +51,7 @@ Neighbourhood: LIDA (for bookable desks);
 	**LIDA offices**: this includes all bookable offices in LIDA.  
 
 - The above will prompt you to all available desk spaces in LIDA, you can choose to see the ‘Unavailable reservation units’ (this will show you which desks are booked by who and for how long). You can also view more of LIDA’s desks by clicking on the blue arrow ‘>‘ above the desk’s table.
-	- The desks will show as 138291-BXX, the desk numbers will be –BXX, which you can reference against our ![floorplan](../../images/desk_reservations/lida_planon_breakout.jpg). The first part of the code is unchangeable.
+	- The desks will show as 138291-BXX, the desk numbers will be –BXX, which you can reference against our [![floorplan](../../images/desk_reservations/lida_planon_breakout.jpg)](../../images/desk_reservations/lida_planon_breakout.jpg). The first part of the code is unchangeable.
 - Click ‘Continue’.
 - You will now have an overview of your reservation, you can either:
 	- Cancel this by clicking on ‘Cancel this reservation’;
