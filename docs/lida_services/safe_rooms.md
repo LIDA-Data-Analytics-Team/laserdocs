@@ -37,7 +37,7 @@ There are a number of regulations in place that the user must adhere to in order
 - All personal items must be stored in the lockers provided on site (see below). These include (but not limited to) mobile phones, laptops, tablets and baggage.
 - All means of recording data, including pen/pencil and paper, are prohibited, and must also be kept in the lockers provided.
 - CCTV is in operation, including outside the safe rooms.
-- The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key; existing fob owners can be granted access, otherwise fobs can be issued on a temproarily. The rooms can be opened from the inside without use of the fob.  
+- The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key; existing fob owners can be granted access, otherwise fobs can be issued temporarily. The rooms can be opened from the inside without use of the fob.  
 
 Researchers must keep secure any safe room key fob and two factor authentication token by:  
 - Keeping these unmarked, on the person, and stored unobtrusively. 
