@@ -43,7 +43,7 @@ Researchers must keep secure any safe room key fob and two factor authentication
 - Keeping these unmarked, on the person, and stored unobtrusively. 
 - Not sharing or giving these to others. 
 - In the event of loss or theft, informing the Data Analytics Team (DAT) as soon as they become aware
-- Ensuring safe-room fobs are returned to LIDA Reception Staff.
+- Ensuring any safe-room fobs on loan are returned to LIDA Reception Staff.
 
 
 ## Lockers
