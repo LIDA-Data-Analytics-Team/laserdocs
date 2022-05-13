@@ -39,7 +39,7 @@ There are a number of regulations in place that the user must adhere to in order
 - CCTV is in operation, including outside the safe rooms.
 - The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key, which will be allocated at the beginning of each session. The rooms can be opened from the inside without use of the fob.  
 
-Researchers must keep secure any safe room key fob and two factor authentication token by: 
+Researchers must keep secure any safe room key fob and two factor authentication token by:  
 - Keeping these unmarked, on the person, and stored unobtrusively. 
 - Not sharing or giving these to others. 
 - In the event of loss or theft, informing the Data Analytics Team (DAT) as soon as they become aware
