@@ -32,12 +32,19 @@ External researchers must also return a signed copy of LIDA's [Health and Safety
 
 The LIDA office space is only accessible to staff with an assigned LIDA key fob. These fobs don't grant access to safe rooms by default. Your key fob will be updated to enable safe room access as part of your induction. A record will be kept of which users access which room and when.
 
-## Regulations
+## Regulations  
 There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the IRC. These are as follows:
 - All personal items must be stored in the lockers provided on site (see below). These include (but not limited to) mobile phones, laptops, tablets and baggage.
 - All means of recording data, including pen/pencil and paper, are prohibited, and must also be kept in the lockers provided.
 - CCTV is in operation, including outside the safe rooms.
-- The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key, which will be allocated at the beginning of each session. The rooms can be opened from the inside without use of the fob
+- The safe rooms are locked and can only be accessed by permitted users. These can be accessed by fob key, which will be allocated at the beginning of each session. The rooms can be opened from the inside without use of the fob.  
+
+Researchers must keep secure any safe room key fob and two factor authentication token by: 
+- Keeping these unmarked, on the person, and stored unobtrusively. 
+- Not sharing or giving these to others. 
+- In the event of loss or theft, informing the Data Analytics Team (DAT) as soon as they become aware
+- Ensuring safe-room fobs are returned to LIDA Reception Staff.
+
 
 ## Lockers
 Lockers are available outside the safe rooms. ​To unlock an unused locker, set the combination lock to 3333 and turn the lock clockwise or anti-clockwise a one quarter turn.
