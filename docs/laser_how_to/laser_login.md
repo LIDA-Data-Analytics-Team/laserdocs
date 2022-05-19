@@ -10,6 +10,11 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 ---
 
 # Connect to a Virtual Research Environment
+{:.no_toc}
+
+* seed list
+{:toc}
+
 <br>
 {% include videoplayer.html title=page.video_title src=page.video_src %}
 
