@@ -16,7 +16,16 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 ## Prerequisites
 You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
-  - Citrix Workspace is available through Software Centre on UoL managed devices.
+  <!-- - Citrix Workspace is available through Software Centre on UoL managed devices. -->
+- If you are using a UoL Laptop, remoting into UoL desktop or working on campus in LIDA offices, you can install the Citrix Workspace through the following steps below.
+	- Click on Start Menu on your PC  
+	- Click on Microsoft Store  
+	![microsoftstore.png](../../images/laser_login/MicrosoftStore.png)  
+	- Click on See/select all (at the top right)  
+	![CitrixWorkspace_location.png](../../images/laser_login/CitrixWorkspace_location.png)  
+	- Locate Critix Workspace from the list of Apps  
+	![CitrixWorkspace.png](../../images/laser_login/CitrixWorkspace.png)  
+	- Select Install and follow prompts to login, you will need your mobile phone for the Duo Mobile (two factor authentication). See how to set up Duo mobile below.   
 - Duo two factor authentication enabled.
   - More information on DUO can be found [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537).
 
