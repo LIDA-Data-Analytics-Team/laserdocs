@@ -21,8 +21,8 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 ## Prerequisites
 You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from.
-  <!-- - Citrix Workspace is available through Software Centre on UoL managed devices. -->
-  - See below [how to install Citrix Workspace](https://github.com/LIDA-Data-Analytics-Team/laserdocs/edit/gh-pages/docs/laser_how_to/laser_login.md#installing-citrix-workspace)  
+  - On University managed devices you may need to make a request with IT Services
+  - On personal devices you can download and install the latest Citrix Workspace from [here](https://www.citrix.com/en-gb/products/receiver.html)
 - Duo two factor authentication enabled.
   - More information on DUO can be found [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537).
 
@@ -49,16 +49,3 @@ You will need:
 ![vre_desktop.png](../../images/laser_login/uol_legal_notice.png)
 - On clicking OK to the Legal Notice you will be presented with tour VRE desktop.  
 ![vre_desktop.png](../../images/laser_login/vre_desktop.png)
-
-
-## Installing Citrix Workspace
-- If you are using your own PC, you can install Citrix Workspace as you are logging to LASER platform using the explanation in the demonstartion video above.
-- If you are using a UoL Laptop, remoting into UoL desktop or working on campus in LIDA offices, you can install the Citrix Workspace through the following steps below.
-	- Click on Start Menu on your PC  
-	- Click on Microsoft Store  
-	![microsoftstore.png](../../images/laser_login/MicrosoftStore.png)  
-	- Click on See/select all (at the top right)  
-	![CitrixWorkspace_location.png](../../images/laser_login/CitrixWorkspace_location.png)  
-	- Locate Critix Workspace from the list of Apps  
-	![CitrixWorkspace.png](../../images/laser_login/CitrixWorkspace.png)  
-	- Select Install and follow prompts to login, you will need your mobile phone for the Duo Mobile (two factor authentication). See how to set up Duo mobile above or [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537). 
