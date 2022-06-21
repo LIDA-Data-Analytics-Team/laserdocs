@@ -137,6 +137,7 @@ There is a known issue that with some software provided in Software Center, atte
 
 - ArcGIS
 - Atom
+- Anaconda
 
 If you have tried to install these software and got an error message try looking for the software in your Start menu to see if the installation actually succeeded. If the software didn't install, contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) for support. In all other cases of software installation failures, contact the Data Analytics Team.
 
