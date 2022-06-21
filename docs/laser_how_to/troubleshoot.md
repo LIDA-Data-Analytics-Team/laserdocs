@@ -135,9 +135,9 @@ You should now see the R miniCRAN repository mapped to R: drive.
 
 There is a known issue that with some software provided in Software Center, attempts to install the software end with Failed status and present an error message even when the installation is successful. This is known to occur with:
 
+- Anaconda
 - ArcGIS
 - Atom
-- Anaconda
 
 If you have tried to install these software and got an error message try looking for the software in your Start menu to see if the installation actually succeeded. If the software didn't install, contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk) for support. In all other cases of software installation failures, contact the Data Analytics Team.
 
