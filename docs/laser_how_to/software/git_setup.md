@@ -8,7 +8,7 @@ nav_order: 2
 
 # Setting up Git for Version Control
 
-To use Git for version control in a LASER VRE, first check Git has been installed via [Software Center](./install_software.html). Once installed, you'll need to change Git's home directory and configure your own user name and email address. Your name and email are needed to identify who has committed changes to code. You'll need to do this only once.
+To use Git for version control in a LASER VRE, first check Git has been installed via [Software Center](./index.html). Once installed, you'll need to change Git's home directory and configure your own user name and email address. Your name and email are needed to identify who has committed changes to code. You'll need to do this only once.
 
 Open Git Bash to begin.
 
