@@ -4,6 +4,7 @@ title: Install & Use Software
 parent: LASER How To
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Install Software via Software Center
