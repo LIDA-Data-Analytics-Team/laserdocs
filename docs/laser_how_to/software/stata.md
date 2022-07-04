@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Using Stata
-parent: LASER How To
-nav_order: 5
+parent: Install Software
+grand_parent: LASER How To
+nav_order: 4
 ---
 
 # Using Stata in LASER

@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Using Azure SQL Server
-parent: LASER How To
-nav_order: 7
+parent: Install Software
+grand_parent: LASER How To
+nav_order: 3
 ---
 # Using Azure SQL Server 
 
 ## Connect to database via SSMS 
 
 When SSMS opens you will be prompted for the connection details.   
-![ssms_connect_to_server_1.png](../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
+![ssms_connect_to_server_1.png](../../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
 
 Enter the following:
 - Server type = Database Engine
@@ -18,7 +19,7 @@ Enter the following:
 - Username = \<username>@leeds.ac.uk
 
 Click 'Options >>' and go to the second tab 'Connection Properties'.  
-![ssms_connect_to_server_2.png](../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
+![ssms_connect_to_server_2.png](../../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
 
 Change 'Connect to database' from \<default> to the name of your database.
 
