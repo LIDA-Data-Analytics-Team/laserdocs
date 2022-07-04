@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Install Software
+title: Install & Use Software
 parent: LASER How To
 nav_order: 3
 has_children: true

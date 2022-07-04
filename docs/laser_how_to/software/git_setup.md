@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Using Git
-parent: Install Software
+parent: Install & Use Software
 grand_parent: LASER How To
 nav_order: 2
 ---

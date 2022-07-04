@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Using Stata
-parent: Install Software
+parent: Install & Use Software
 grand_parent: LASER How To
 nav_order: 4
 ---
