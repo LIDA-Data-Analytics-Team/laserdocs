@@ -79,9 +79,9 @@ VREs lock after a period of inactivity for security purposes. At the top of the 
 
 You can change the display settings and themes in your VRE's desktop. To display app windows with clearer boundaries, go to Settings by typing settings in the taskbar search. Go to the Personalization section and select the Colors tab. Scroll to the bottom of the page to find a checkbox called "Title bars and window borders". Check this box and to fill the title bars and borders of app windows with the accent colour selected in the colour block. You can choose a different accent colour if you wish.
 
-## There apps missing from Software Centre in my VRE
+## Some apps are missing from Software Centre in my VRE
 
-If only a few or no apps are showing when you [open Software Centre in a VRE](./software/index.html), it's likely that the virtual machine you're logged into needs time to synchronise with the University's Software Centre service. This issue can be resolved by leaving Software Centre open in your VRE for a while to allow the sync to take place, however it can take 15 mins or longer for this happen. To initiate the sync yourself, follow the below steps while keeping Software Centre open:
+If only a few or no apps are showing when you [open Software Centre in a VRE](./software/index.html), your virtual machine needs to synchronise with the University's Software Centre service. This can be resolved by leaving Software Centre open for a while to allow the sync to happen. However, it can take 15 minutes or longer. To force the sync, follow the below steps while keeping Software Centre open:
 
 - Open Control Panel by typing "control panel" into the Start Menu search bar
 - Open Configuration Manager (you may need to change the view in control panel as shown below)
@@ -91,7 +91,7 @@ If only a few or no apps are showing when you [open Software Centre in a VRE](./
 - Then select "Machine Policy Retrieval & Evaluation Cycle" and click the Run Now button
 ![Run Configuration Manager actions](../../images/troubleshoot/sccm_update_config_man.png){:width="50%" .mx-auto}
 - Click Apply then OK to close Configuration Manager
-- Within the next few minutes all apps should appear in Software Centre. If not contact DAT for support.
+- Within the next minute or so all apps should appear in Software Centre. If not contact DAT for support.
 
 ## Anaconda Navigator is slow to open (in online mode)
 
