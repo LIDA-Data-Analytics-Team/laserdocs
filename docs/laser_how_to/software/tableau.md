@@ -28,4 +28,4 @@ By default Tableau is configured to download map information dynamically from th
 
 You can prevent that error by selecting Map -> Background Maps -> Offline (and selecting that as the default).
 
-It is possible to store map data for use offline with Tableau. For details see https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources.htm and https://help.tableau.com/current/pro/desktop/en-us/maps_offline.htm.
+It is possible to store map data for use offline with Tableau. See Tableau's guides on [selecting background maps](https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources.htm) and [storing maps offline](https://help.tableau.com/current/pro/desktop/en-us/maps_offline.htm).
