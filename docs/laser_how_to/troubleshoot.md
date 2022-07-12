@@ -17,7 +17,7 @@ Here are the answers to some common issues. If you have a problem not covered he
 
 - If you're using Citrix installed on a personal device, or installed on a university device via Software Centre, you should be able to update Citrix Workspace yourself.
 - If you're on a university device and can't update Citrix by following the below steps, uninstall Citrix Workspace and [reinstall via Software Centre](./laser_login.html#prerequisites). If IT installed Citrix Workspace for you, it's possible you'll need their help to uninstall.
-- Go to the system tray in the bottom right corner of your screen and right click on the Citrix Workspace icon to open the context menu.
+- Go to the system tray in the bottom right corner of your screen and right click on the Citrix Workspace icon to open the context menu.<br>
 ![Check for Citrix Workspace updates](../../images/troubleshoot/citrix_check_for_update.PNG){:width="50%" .mx-auto}
 - Select "Check for Updates".
 - A new window will appear telling you whether you need to update Citrix. If you do, download the update and wait for it to complete.
