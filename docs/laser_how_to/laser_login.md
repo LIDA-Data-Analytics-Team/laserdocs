@@ -20,8 +20,8 @@ video_src: "https://mymedia.leeds.ac.uk/Mediasite/Play/5072d91156ae4736bebcef7ad
 
 ## Prerequisites
 You will need:
-- Citrix Workspace installed to the machine you are connecting to LASER from.
-  - On University managed devices you may need to make a request with IT Services
+- Citrix Workspace installed to the machine you are connecting to LASER from. It's a good idea to [update Citrix Workspace](./troubleshoot.html#i-need-to-update-my-version-of-citrix-workspace) to the latest version.
+  - On university managed devices, Citrix Workspace should be available to install via Software Centre. If you’re using a laptop from home and Citrix isn’t in Software Centre, you may need to connect to the VPN and give Software Centre a few minutes to update. If you can't install via Software Centre, you'll need to make a request with IT Services.
   - On personal devices you can download and install the latest Citrix Workspace from [here](https://www.citrix.com/en-gb/products/receiver.html)
 - Duo two factor authentication enabled.
   - More information on DUO can be found [here](https://it.leeds.ac.uk/it?id=kb_article&sysparm_article=KB0014537).
