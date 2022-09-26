@@ -16,7 +16,7 @@ LASER now has a means to provide air gapped access to online package repositorie
 
 The following 6 steps are common across the configuration of each artifactory mirror. If you change your Windows password you will need to configure each of the artifactory repos once more.
 
-1. From a web browser within your VRE navigate to **http://artifactory:8082**.
+1. From a web browser within your VRE navigate to **http://artifactory:8084**.
 2. Log in using your UoL credentials.
 3. In the left hand menu click Artifactory --> Artifacts.  
 	![In left hand menu click Artifactory --> Artifacts](../../../images/artifactory/artifacts.PNG)
@@ -89,8 +89,7 @@ trusted-host = artifactory
 The full contents of pip.ini should look something like this:
 ```python
 [global]
-index-url = http://<USERNAME>:
-<PASSWORD>@artifactory:8081/artifactory/api/pypi/LASER_PyPT_virtual/simple
+index-url = http://<USERNAME>:<PASSWORD>@artifactory:8083/artifactory/api/pypi/LASER_PyPT_virtual/simple
 trusted-host = artifactory
 ```
 
