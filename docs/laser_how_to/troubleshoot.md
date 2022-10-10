@@ -80,6 +80,12 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
     - Type your password to authenticate (note that this requires admin rights)
     - Close Terminal window then retry LASER VRE login
 
+## VM inaccessible shortly after Windows software updates forced reboot
+
+Your virtual machine must apply the same software updates as any Windows OS computer. This will occasionally require the VM to be restarted. When the restart is initiated your desktop window will close. However, the VM is still running and will show as running in [Azure Portal](.az_portal/portal_vms.html).
+
+If you try to connect to your VM shortly after the restart you may get the ["cannot start desktop" error](#my-vre-wont-start-cannot-start-desktop). This most likely means Windows is still installing its updates, which can take some time to complete. Once the updates have completed you should be able to reconnect to your VM as normal. If you still can't reconnect 45 minutes after the restart was initiated, please contact DAT for support.
+
 ## My session has timed out, how do I press CTRL+ALT+DEL to unlock?
 
 VREs lock after a period of inactivity for security purposes. At the top of the window for your VRE desktop you should see a small black bar. Click the bar to expand a menu that includes a CTRL+ALT+DEL option. Click this option, select the password field that appears and input your password to unlock the session.
