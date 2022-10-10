@@ -82,7 +82,7 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
 
 ## VM inaccessible shortly after Windows software updates forced reboot
 
-Your virtual machine must apply the same software updates as any Windows OS computer. This will occasionally require the VM to be restarted. When the restart is initiated your desktop window will close. However, the VM is still running and will show as running in [Azure Portal](.az_portal/portal_vms.html).
+Your virtual machine must apply the same software updates as any Windows OS computer. This will occasionally require the VM to be restarted. When the restart is initiated your desktop window will close. However, the VM is still running and will show as running in [Azure Portal](.az_portal/portal_vms.html). Keep it running to allow updates to complete.
 
 If you try to connect to your VM shortly after the restart you may get the ["cannot start desktop" error](#my-vre-wont-start-cannot-start-desktop). This most likely means Windows is still installing its updates, which can take some time to complete. Once the updates have completed you should be able to reconnect to your VM as normal. If you still can't reconnect 45 minutes after the restart was initiated, please contact DAT for support.
 
