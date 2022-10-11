@@ -13,6 +13,14 @@ Here are the answers to some common issues. If you have a problem not covered he
 * seed list
 {:toc}
 
+## Citrix Workspace isn't showing in Software Centre
+
+If Citrix Workspace isn't in Software Centre and youre using a university computer on campus, please contact DAT for support. If you're using a university laptop remotely, it's likely that your Software Centre needs to connect to the campus network to update.
+
+If you're working remotely, connect to the university VPN and Software Centre will update. The update may take 30 mins or longer to complete. If it doesn't update quickly you may be able to force the update by following our guide to [syncing Software Centre](#some-apps-are-missing-from-software-centre-in-my-vre).
+
+If Software Centre is still not showing Citrix Workspace, contact DAT for support.
+
 ## I need to update my version of Citrix Workspace
 
 - If you're using Citrix installed on a personal device, or installed on a university device via Software Centre, you should be able to update Citrix Workspace yourself.
