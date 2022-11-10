@@ -18,18 +18,24 @@ List last updated: 2021-11-17
 |List of software available in LASER|
 |---|
 |7-Zip|
+|AFD Postcode Plus|
 |Adobe Acrobat Reader DC|
 |Alteryx 2021 with R unlicenced|
 |Anaconda Distribution Individual Edition 2021.11 (includes Python 3.9, JupyterLab, Spyder, etc.)|
 |ArcGIS 10.6.0|
 |Atom 1.56|
-|Endnote X9|
+|Citrix Workspace App|
+|Dou Windows Logon Client|
+<! --|Endnote X9| -->
 |Git (plus Git Bash and Git GUI)|
+|Github Atom 1.56|
 |Google Chrome|
+|HRG4+ 2021-22 Reference Costs Grouper|
+|IBM SPSS Statistics 27|
 |Inkscape|
 |Intellij Idea|
 |Java 8 (jdk 1.8)|
-|MapInfo Pro|
+<! --|MapInfo Pro| -->
 |Maple|
 |Mendeley Desktop| 
 |Microsoft Access|
@@ -55,19 +61,23 @@ List last updated: 2021-11-17
 |Notepad ++|
 |Nvivo 12.6|
 |Olympus DSS Player Lite| 
-|Optimum ProCore 2.0 (x64)| 
+|Optimum ProCore 2.0 (x64)|
+|Postcode Plus offline|
 |Postgresql 13.2.2 (x64)| 
 |ProM 6.8|
 |Prom Tools 6.10| 
-|PuTTY|
+<! --|PuTTY| -->
 |PyCharm CE|
 |Python 3.9 (other versions via conda)|
 |QGIS|
 |R 4.0.2 (other versions via conda)|
 |Rstudio Desktop|
 |SPSS Statistics|
+|Splunk Universal Forwarder|
 |Stata 17|
-|Tableau|
+|Tableau 22.1|
 |Texmaker 5.1.2| 
+|Visual Studio Professional 2015|
+|VLC|
 |Weka 3.9.3|
 |Zotero|
