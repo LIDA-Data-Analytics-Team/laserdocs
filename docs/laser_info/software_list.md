@@ -45,7 +45,6 @@ List last updated: 2021-11-17
 |Microsoft SQL Server Management Studio 2017|
 |Microsoft Vicual C++ Redistributes (x64)|
 |Microsoft Vicual C++ Redistributes (x86)|
-|Microsoft Visual Studio 2017 Community |
 |Microsoft Visual Studio Code| 
 |Microsoft Word|
 |MiKTeX 4.2 x64|
@@ -72,7 +71,6 @@ List last updated: 2021-11-17
 |Stata 17|
 |Tableau 22.1|
 |Texmaker 5.1.2| 
-|Visual Studio Professional 2015|
 |VLC|
 |Weka 3.9.3|
 |Zotero|
