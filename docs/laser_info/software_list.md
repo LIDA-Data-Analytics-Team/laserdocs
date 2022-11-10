@@ -18,7 +18,6 @@ List last updated: 2021-11-17
 |List of software available in LASER|
 |---|
 |7-Zip|
-|AFD Postcode Plus|
 |Adobe Acrobat Reader DC|
 |Alteryx 2021 with R unlicenced|
 |Anaconda Distribution Individual Edition 2021.11 (includes Python 3.9, JupyterLab, Spyder, etc.)|
@@ -60,7 +59,6 @@ List last updated: 2021-11-17
 |Nvivo 12.6|
 |Olympus DSS Player Lite| 
 |Optimum ProCore 2.0 (x64)|
-|Postcode Plus offline|
 |Postgresql 13.2.2 (x64)| 
 |ProM 6.8|
 |Prom Tools 6.10| 
