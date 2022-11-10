@@ -25,6 +25,7 @@ List last updated: 2021-11-17
 |Atom 1.56|
 |Citrix Workspace App|
 |Dou Windows Logon Client|
+|EndNote X9|
 |Git (plus Git Bash and Git GUI)|
 |Github Atom 1.56|
 |Google Chrome|
@@ -61,6 +62,7 @@ List last updated: 2021-11-17
 |Postgresql 13.2.2 (x64)| 
 |ProM 6.8|
 |Prom Tools 6.10| 
+|PuTTY|
 |PyCharm CE|
 |Python 3.9 (other versions via conda)|
 |QGIS|
