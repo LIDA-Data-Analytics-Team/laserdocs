@@ -140,7 +140,7 @@ It is very easy to install any package through anaconda navigator, simply search
 Here's a guide on Artifactory Set up from our website. [Setting up Artifactory](https://github.com/LIDA-Data-Analytics-Team/laserdocs/blob/gh-pages/docs/laser_how_to/software/artifactory.md)
 Follow step #1 to #3 when setting up your Artifactory
 
-![install_package_conda_forge.png](../../images/troubleshoot/install_package_conda_forge.png){:width="70%" .mx-auto} Import package in your IDE and use as normal.
+![install_package_conda_forge.png](../../images/troubleshoot/install_package_conda_forge.png)Import package in your IDE and use as normal.
 
 ## Anaconda Navigator is slow to open (in online mode)
 
