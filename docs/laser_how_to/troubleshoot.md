@@ -125,7 +125,7 @@ There are two possible ways to solve this:
 **1. By finding and installing the package through the Anaconda Navigator : following these steps**
 
 Open Anaconda.
-![install_package_anaconda_navigator.png](../../images/troubleshoot/install_package_anaconda_navigator.png)
+![install_package_anaconda_navigator.png](../../images/troubleshoot/install_package_anaconda_navigator.png){:width="70%" .mx-auto} 
 Go to Environments tab just below the Home tab and from there you can check what all packages are installed and what is not.  
 It is very easy to install any package through anaconda navigator, simply search the required package, select package and click on apply to install it.
 
@@ -134,10 +134,10 @@ It is very easy to install any package through anaconda navigator, simply search
 - Search for the packages you want as in in red box #3    
 - Slect the specific package as in in red box #4    
 - click on Apply as in in red box #5 and #6
-![install_package_anaconda_navigator_2.png](../../images/troubleshoot/install_package_anaconda_navigator_2.png){:width="70%" .mx-auto}Import package in your IDE and use as normal.
+![install_package_anaconda_navigator_2.png](../../images/troubleshoot/install_package_anaconda_navigator_2.png) Import package in your IDE and use as normal.
 
 **2. Select LASER_Conda-Forge_remote during Artifactory setup** - 
-Here's a guide on Artifactory Set up from our website. [Setting up Artifactory](https://github.com/LIDA-Data-Analytics-Team/laserdocs/blob/gh-pages/docs/laser_how_to/software/artifactory.md){:width="70%" .mx-auto}  
+Here's a guide on Artifactory Set up from our website. [Setting up Artifactory](https://github.com/LIDA-Data-Analytics-Team/laserdocs/blob/gh-pages/docs/laser_how_to/software/artifactory.md)
 Follow step #1 to #3 when setting up your Artifactory
 
 ![install_package_conda_forge.png](../../images/troubleshoot/install_package_conda_forge.png){:width="70%" .mx-auto} Import package in your IDE and use as normal.
