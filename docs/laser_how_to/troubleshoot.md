@@ -116,6 +116,25 @@ If only a few or no apps are showing when you [open Software Centre in a VRE](./
 - Click Apply then OK to close Configuration Manager
 - Within the next minute or so all apps should appear in Software Centre. If not contact DAT for support.
 
+## PackagesNotFoundError: The following packages are not available from the currenet channels:
+
+You may encouter this challenge with error message above when trying to install some python packages via the conda command prompt within your VM. 
+
+There are two possible ways to solve this:
+
+1. By finding and installing the package through the Anaconda Navigator : following these steps
+
+Open anaconda, and click on Environments (under Home in the left panel)
+
+Go to Environments tab just below the Home tab and from there you can check what all packages are installed and what is not.
+It is very easy to install any package through anaconda navigator, simply search the required package, select package and click on apply to install it.
+
+Select base (root) or any other environment you're using > select Not installed from the drop down menu, search for the packages you want > Select and click Apply.
+
+Import package in your IDE and use as normal.
+
+2. Select LASER_Conda-Forge_remote during Artifactory setup - Here's a guide on Artifactory Set up from our website.
+
 ## Anaconda Navigator is slow to open (in online mode)
 
 When you first open Anaconda Navigator in a VRE, it will take some time to load. This is because the VRE is an offline environment and Anaconda Navigator expects an internet connection. You can improve your user experience of Navigator in the VRE by enabling offline mode.
