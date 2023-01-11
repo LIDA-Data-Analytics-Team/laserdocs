@@ -44,8 +44,8 @@ List last updated: 2021-11-17
 |Microsoft Powerpoint|
 |Microsoft SQL Server 2017|
 |Microsoft SQL Server Management Studio 2017|
-|Microsoft Vicual C++ Redistributes (x64)|
-|Microsoft Vicual C++ Redistributes (x86)|
+|Microsoft Visual C++ Redistributes (x64)|
+|Microsoft Visual C++ Redistributes (x86)|
 |Microsoft Visual Studio Code| 
 |Microsoft Word|
 |MiKTeX 4.2 x64|
