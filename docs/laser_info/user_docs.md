@@ -2,8 +2,9 @@
 layout: default
 title: LASER Access Requiremnents
 parent: LASER Info
-nav_order: 1.2
+nav_order: 1.12
 ---
+
 
 # Requirements for LASER Access
 To be granted access to a Virtual Research Environment (VRE) within LASER, certain Information Governance requiremnts must be met by LASER users. DAT must be supplied with the following:
