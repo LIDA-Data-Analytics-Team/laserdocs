@@ -2,7 +2,7 @@
 layout: default
 title: LASER Data Risk Tiering
 parent: LASER Info
-nav_order: 1.1
+nav_order: 2
 ---
 
 # LASER Data Risk Tiering
