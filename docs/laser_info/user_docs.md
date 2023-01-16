@@ -15,6 +15,8 @@ To be granted access to a Virtual Research Environment (VRE) within LASER, certa
 
 All of the above can be sent to DAT via email to [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).  
 
+When you have been granted access to your VRE, you can monitor VRE budget, VRE/VM usgae and other resources using the [LASER Dashboard](https://lida-data-analytics-team.github.io/laserdocs/docs/laser_how_to/dashboard/). But first you'll need to [request a PowerBI license](https://it.leeds.ac.uk/it?id=sc_cat_item&sys_id=8a89d8031b2ff010d530eb53b24bcbc9) from the University IT Services.
+
 
 ## PI Approval  
 A written instruction from the project PI stating the project number and name as well as the username of the new user to be given access to the VRE. 
