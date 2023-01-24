@@ -86,7 +86,7 @@ Append the following to pip.ini:
 trusted-host = artifactory
 ```
 
-The full contents of pip.ini should look something like this:
+The full contents of pip.ini should look something like this (please ensure to include a trailing line break):
 ```python
 [global]
 index-url = http://<USERNAME>:<PASSWORD>@artifactory:8081/artifactory/api/pypi/LASER_PyPT_virtual/simple
