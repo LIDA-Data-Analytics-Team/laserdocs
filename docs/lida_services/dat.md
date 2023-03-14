@@ -26,5 +26,12 @@ The Team also provide support and advice for use of the LASER platform and have 
 **Areas of Primary expertise** : Data Science skills such as data wrangling and manipulation, data visualization, machine learning (supervised and unsupervised learning), and apache spark for managing very large-scale data. Python (including Jupyter notebook), R-studio and SQL. Data security and data risk disclosure including pseudonymization expertise. Data linkage.  
 **Areas of Secondary expertise** : Natural Language Processing, and Cognitive Services.  
 
+## Fojan Ilderem
+**Role** : Research Software Technician
+**Areas of RSE technical research interests** : Cloud Services, Machine Learning, MLOps, and Data Visualisation.
+**Summary of experience** : Fojan is a data science professional with experience supporting researchers through the research management process and data management flow on LIDA Analytics Secure Environment for Research (LASER). Fojan also has experience in compliance with data security standards such as GDPR and ISO27001, having worked on various projects in adherence to these regulations. Prior to their career in data science, she worked as an electronics engineer and lab manager in a research and development institute, where she specialized in developing autonomous agricultural machinery. She holds a postgraduate degree in semiconductor devices and optoelectronics and has experience working with a wide range of microcontrollers.  
+**Areas of Primary expertise** : Well-versed in Amazon Web Services, Lambda, API Gateway, and DynamoDB, as well as Java full-stack development using the Spring framework, Fojan has developed web applications that are both scalable and secure. She also has experience in data science techniques, using Python and R programming for exploratory data analysis, clustering, classification, and regression analysis. Additionally, she is experienced in both relational and non-relational databases as data backends for analytics and software development projects.  
+**Areas of Secondary expertise** : Experience in Reinforcement Learning for autonomous driving based on AWS; Front-end development using HTML, CSS, and JavaScript, Data Visualisation.
+
 ## Contact
 Please feel free to reach out to a member of the DAT at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk)
