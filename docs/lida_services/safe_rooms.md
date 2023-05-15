@@ -33,7 +33,7 @@ External researchers must also return a signed copy of LIDA's [Health and Safety
 The LIDA office space is only accessible to staff with an assigned LIDA key fob. These fobs don't grant access to safe rooms by default. Your key fob will be updated to enable safe room access as part of your induction. A record will be kept of which users access which room and when.
 
 ## Regulations  
-There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the IRC. These are as follows:
+There are a number of regulations in place that the user must adhere to in order to maintain the integrity of the data being accessed and the reputation/standards of the LASER. These are as follows:
 - All personal items must be stored in the lockers provided on site (see below). These include (but not limited to) mobile phones, laptops, tablets and baggage.
 - All means of recording data, including pen/pencil and paper, are prohibited, and must also be kept in the lockers provided.
 - CCTV is in operation, including outside the safe rooms.
@@ -51,7 +51,7 @@ Lockers are available outside the safe rooms. ​To unlock an unused locker, set
 
 ![lock2.jpg](../../images/safe_rooms/lock2.jpg)
 
-To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door.
+To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door. If the combination code to the locker is forgotten, be aware that there may be waiting period to recover personal belongings. This is due to the possibility that reception staff might not be available on site.
 
 ![lock1.jpg](../../images/safe_rooms/lock1.jpg)
 
