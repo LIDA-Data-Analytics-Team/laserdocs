@@ -11,7 +11,7 @@ nav_order: 3
 When data has been classified as Tier 4 (see [LASER Data Risk Tiering](../laser_info/tiering.html)) a researcher will only be able to access the data from a controlled environment where the risks of data leakage can be controlled.
 
 ## Opening Times    
-8.30 a.m. to 5 p.m. weekdays 
+8 a.m. to 6 p.m. weekdays 
 
 ## Bookings and use of the Safe Rooms
 The LIDA Reception staff can book safe rooms; please email at [lida@leeds.ac.uk](mailto:lida@leeds.ac.uk).  These are:
