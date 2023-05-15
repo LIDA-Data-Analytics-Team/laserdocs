@@ -32,7 +32,7 @@ The costs of using LASER (Leeds Analytics Secure Environment for Research) compu
 We do support qualitative as well as quantitative/statistical analysis. Our secure environment enables qualitative analysis of audio/video data that would otherwise not have been possible given the IG requirements of the data owner. We can support any analysis that requires LASER’s security controls (including ISO27001 and Data and Security Protection Toolkit).
 
 ## Does LASER have its own Data Protection Officer? 
-LIDA has its own Information Governance Manager and we work very closely with  UoL IG/IT Assurance and UoL Data Protection Officer Rebecca Messenger-clark (dpo@leeds.ac.uk).
+LIDA has its own Information Governance Manager and we work very closely with  UoL IG/IT Assurance and UoL Data Protection Officer Rebecca Messenger-Clark (dpo@leeds.ac.uk).
 
 ## What support is there for projects that would benefit from data analytics support but don’t need tier 3 or 4 environment? 
 As with project with Tier 3 or 4 data, the DAT can support analysis work within your project and help set up storage space and provide the appropriate secure environment on our Tier 2 platform - SEED. DAT support costs will be dependent on the level of support required. LIDA do provide training courses for common research software such as GIS, R, Python etc. The DAT can provide advice & guidance as to how these are used within your project, regardless of security tier.
