@@ -7,7 +7,7 @@ nav_order: 1
 
 # Leeds Analytic Secure Environment for Research 
 
-LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the flexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and efficiency of time for researchers.
+LASER is a Trusted Research Environment (TRE), also known as a Data Safe Haven, managed and run by LIDA. LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the flexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and efficiency of time for researchers.
 
 ## What is a Virtual Research Environment? 
 LASER is the platform upon which we can build and host Virtual Research Environments (VREs). 
