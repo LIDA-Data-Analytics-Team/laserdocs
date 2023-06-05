@@ -48,18 +48,21 @@ A VM will remain 'occupied' even if the user has disconnected.
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
-## My VRE won't start: Cannot start desktop 2
+
+## Troubleshooting VRE Startup: Unable to Start Desktop 2
 
 ![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
 
-If you see the error message "Cannot start desktop" even though the VM's status is 'Stopped (Deallocated)' on the Azure Portal, this is due to an incident on LASER.  
+If you see the error message "Cannot start desktop" even though the VM's status is 'Stopped (Deallocated)' on the Azure Portal, this is due to an incident on LASER.
 
-Here is two simple steps to resolve this issue.
+Here are two simple steps to resolve this issue:
 
-- 1. Log in to the [Azure portal](https://portal.azure.com/) and start the VM, make sure the status changes from 'Stopped (Deallocated)' to 'Running'. Follwo this guide to on [how to start the VM on the Azure Portal](https://lida-data-analytics-team.github.io/laserdocs/docs/laser_how_to/az_portal/portal_vms.html)
-- 2. Go to the [LASER storefront](https://laser.leeds.ac.uk/) and login to LASER. 
+1. Log in to the [Azure portal](https://portal.azure.com/) and start the VM. Ensure that the status changes from 'Stopped (Deallocated)' to 'Running'. Follow this guide on [how to start the VM on the Azure Portal](https://lida-data-analytics-team.github.io/laserdocs/docs/laser_how_to/az_portal/portal_vms.html).
 
-**Please Note:** Make sure to mannualy stop the VM on the Azure platform when your session is finished.
+2. Go to the [LASER storefront](https://laser.leeds.ac.uk/) and log in to LASER.
+
+**Please Note:** Make sure to manually stop the VM on the Azure platform when your session is finished.
+
 
 ## My VRE won't start: Failed with status 1030
 
