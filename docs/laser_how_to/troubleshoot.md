@@ -48,17 +48,17 @@ A VM will remain 'occupied' even if the user has disconnected.
 
 Simply closing the window ('Xing out') will disconnect the user from the session. When disconnected the session remains active and running; users will need to log off or shut down to vacate the machine so that someone else can log on.
 
-> As of **2023-06-05** IT Services are looking in to a fault that is preventing Citrix Storefront from starting and stopping VMs in LASER.
+> The below issue has now been resolved as of **2023-06-05**  
 > 
-> If you see the error message "Cannot start desktop" even though the VM's status is 'Stopped (Deallocated)' on the Azure Portal, you are likely affected by this issue.
+> If you see the error message "Cannot start desktop" even though the VM's status is 'Stopped (Deallocated)' on the Azure Portal, you are likely affected by an issue that is preventing Citrix Storefront from starting and stopping VMs in LASER.  
 > 
-> Here are two simple steps to resolve:
+> Here are two simple steps to resolve:  
 > 
-> 1. Log in to the [Azure portal](https://portal.azure.com/) and start the VM. Ensure that the status changes from 'Stopped (Deallocated)' to 'Running'. Follow this guide on [how to start the VM on the Azure Portal](./az_portal/portal_vms.md).
+> 1. Log in to the [Azure portal](https://portal.azure.com/) and start the VM. Ensure that the status changes from 'Stopped (Deallocated)' to 'Running'. Follow this guide on [how to start the VM on the Azure Portal](./az_portal/portal_vms.md).  
 > 
-> 2. Go to the [LASER storefront](https://laser.leeds.ac.uk/) and log in to LASER.
+> 2. Go to the [LASER storefront](https://laser.leeds.ac.uk/) and log in to LASER.  
 > 
-> **Please Note:** Make sure to [manually stop the VM](./az_portal/portal_vms.md#stopping-a-vm) on the Azure platform when your session is finished to avoid unnecessary costs.
+> **Please Note:** Make sure to [manually stop the VM](./az_portal/portal_vms.md#stopping-a-vm) on the Azure platform when your session is finished to avoid unnecessary costs.  
 
 
 ## My VRE won't start: Failed with status 1030
