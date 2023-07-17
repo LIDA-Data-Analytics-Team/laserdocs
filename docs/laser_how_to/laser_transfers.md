@@ -14,7 +14,7 @@ For data that have been [classified](../laser_info/tiering.md) as Tier 3 sensiti
 
 LASER's Secure File Transfer platform, [Biscom SFT](https://laser-sft.leeds.ac.uk/sft), is the primary means of file transfer in and out of LASER. Other mechanisms for transfer are possible where appropriate.  
 
-Only organisational email accounts can be used for transfers to and from LASER.  
+Only organisational email accounts can be used for transfers to and from LASER, and exports must be to named individuals.  
 
 * seed list  
 {:toc}
