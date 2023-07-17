@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER File Transfers
+title: File Transfers
 parent: LASER How To
 nav_order: 3
 ---

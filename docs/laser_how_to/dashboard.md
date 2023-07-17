@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER Dashboard
+title: Dashboard
 parent: LASER How To
 nav_order: 4
 ---
