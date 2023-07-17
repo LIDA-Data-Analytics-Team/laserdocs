@@ -20,7 +20,7 @@ Information on each report can be found below.
 
 The underlying **data is refreshed each morning starting at 07:00** and the Power BI report pulls this data into the LASER Dashboard model at 09:00 each morning. 
 
-If you receive the message please [request a PowerBI licence](https://it.leeds.ac.uk/it?id=sc_cat_item&sys_id=8a89d8031b2ff010d530eb53b24bcbc9) from IT Services:  
+If you receive the below message please [request a PowerBI licence](https://it.leeds.ac.uk/it?id=sc_cat_item&sys_id=8a89d8031b2ff010d530eb53b24bcbc9) from IT Services:  
 
 	"Your IT department has turned off signup for Microsoft Power BI. Contact them to complete signup"  
 
