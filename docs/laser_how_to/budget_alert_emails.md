@@ -2,7 +2,7 @@
 layout: default
 title: Azure budget alert emails
 parent: LASER How To
-nav_order: 1.9
+nav_order: 6
 ---
 
 # Azure budget alert emails

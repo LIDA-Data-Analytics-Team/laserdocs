@@ -2,7 +2,7 @@
 layout: default
 title: Project Storage
 parent: LASER How To
-nav_order: 2
+nav_order: 7
 ---
 
 # Where is my project data?

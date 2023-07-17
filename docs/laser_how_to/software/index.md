@@ -2,7 +2,7 @@
 layout: page
 title: Install & Use Software
 parent: LASER How To
-nav_order: 3
+nav_order: 8
 has_children: true
 has_toc: false
 ---

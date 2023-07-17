@@ -2,7 +2,7 @@
 layout: default
 title: Closing a VRE
 parent: LASER How To
-nav_order: 1.1
+nav_order: 2
 ---
 
 # Closing a Virtual Research Environment  
