@@ -79,7 +79,7 @@ Replace the contents of the C:/ProgramData/pip/pip.ini file with the code snippe
 - Artifactory may tell you to replace the contents of 'pip.conf', but 'pip.ini' is the Windows equivalent.
 - You may have to manually create .../pip/pip.ini if it doesn't already exist.
 
-You may need to manually create the /pip/ directory and pip.ini file. C:/ProgramData is hidden by default so you may need to enable 'Hidden items' if you are using Windows Explorer to find it.
+If you need to manually create the /pip/ directory and pip.ini file C:/ProgramData is hidden by default so you may need to enable 'Hidden items' if you are using Windows Explorer to find it.
 
 Append the following to pip.ini:
 ```python
@@ -97,3 +97,10 @@ You can now install packages using
 ```python
 pip install <PACKAGE>
 ```
+
+> [!NOTE]
+> On rare occasions Windows may require you have administrative privileges to alter an existing _pip.ini_ file. If this occurs you can:
+> 1. create a copy of _pip.ini_
+> 2. alter the content of the copy of _pip.ini_
+> 3. delete the original _pip.ini_
+> 4. rename the copy to _pip.ini_
