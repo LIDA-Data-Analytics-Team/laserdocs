@@ -98,7 +98,7 @@ You can now install packages using
 pip install <PACKAGE>
 ```
 
-> [!NOTE]
+> [!NOTE]  
 > On rare occasions Windows may require you have administrative privileges to alter an existing _pip.ini_ file. If this occurs you can:
 > 1. create a copy of _pip.ini_
 > 2. alter the content of the copy of _pip.ini_
