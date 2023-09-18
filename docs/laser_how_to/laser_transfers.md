@@ -10,6 +10,8 @@ nav_order: 3
 
 All transfers to & from LASER are processed by the Data Analytics Team who will perform a disclosure and compliance review before any files are moved. Files that fail review will be rejected for transfer and reported to _Governance, Risk & Compliance_.  
 
+![Diagram describing how all transfers to or from a VRE must be reviewed by DAT before release from LASER](../../images/laser_transfers/laser_transfer_process.png)
+
 For data that have been [classified](../laser_info/tiering.md) as Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.  
 
 LASER's Secure File Transfer platform, [Biscom SFT](https://laser-sft.leeds.ac.uk/sft), is the primary means of file transfer in and out of LASER. Other mechanisms for transfer are possible where appropriate.  
