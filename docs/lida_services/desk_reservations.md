@@ -79,6 +79,10 @@ Click [here](https://mymedia.leeds.ac.uk/Mediasite/Play/2d68c7916ef2409ab5efe131
 ### Bookable Docking stations  
 05, 07, 08, 09, 17, 39, 40, 43, 55, 57, 58, 61, 63, 65, 70 
 
+> If you experience issues connecting to the wired network from your laptop via the docking stations in LIDA, please do the following:  
+> - Raise a ticket with IT saying that you are unable to utilise the ethernet connection via the docking stations in LIDA and request that they do the necessary actions to enable this.  
+> - Quote your laptop hostname (to find this, click on the bginfo icon, or type hostname from a command prompt). When logging the ticket, please select the Worsley Building and room 11.1070 or 11.010 (both relate to the open plan office space in LIDA) when it asks for your location.
+
 ### Bookable Offices  
 
 |Office number|Planon code|
