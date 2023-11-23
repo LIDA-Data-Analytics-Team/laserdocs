@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using Stata
+title: How to Install and Activate Nvivo on LASER VMs
 parent: Install & Use Software
 grand_parent: LASER How To
 nav_order: 5
