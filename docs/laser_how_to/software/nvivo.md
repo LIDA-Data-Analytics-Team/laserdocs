@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Install and Activate Nvivo on LASER VMs
+title: Install and activate Nvivo
 parent: Install & Use Software
 grand_parent: LASER How To
 nav_order: 5
