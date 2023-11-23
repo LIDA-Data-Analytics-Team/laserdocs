@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Using Stata
+parent: Install & Use Software
+grand_parent: LASER How To
+nav_order: 5
+---
 # How to Activate Nvivo Offline
 
 To use Nvivo on a LASER VM, follow these steps to install and activate the license offline.
@@ -10,7 +16,7 @@ To use Nvivo on a LASER VM, follow these steps to install and activate the licen
 - Enter your details. Those marked with an asterisk (\*) are required - First Name, Last, Email, and Country.
 - Click the Generate button to refresh the Installation Key.
   If activating by Email, click the Send button. NVivo will generate an activation request email using your default mail client. You can also take a screenshot of the completed Activate screen (Press Alt + Print Screen), save it, and send it to Lumivero Support: NVivo Support <support@qsrinternational.com> asking them to help you activate Nvivo offline.
-![Select Export](../../images/install_software/04_nvivo.jpg)
+![Select Export](../../../images/install_software/04_nvivo.jpg)
 **Nvivo Support will respond and send you a .JSON file. Follow this guide to complete the offline activation using the JSON file.**
 
 - Save the attached .JSON file to your computer. (Ask DAT to import the JSON file for you)
