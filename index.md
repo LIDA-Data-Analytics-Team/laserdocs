@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: LASERdocs
 nav_exclude: true
 ---
 
