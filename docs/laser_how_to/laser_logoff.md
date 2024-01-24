@@ -27,22 +27,22 @@ VMs can also be [stopped from the Azure Portal](https://lida-data-analytics-team
 ## How to Shutdown
 Click the big red icon on the desktop and choose yes on the dialog:  
 
-![](../../images/laser_logoff/vre_brb_shutdown.PNG)  
+![Image showing the Shutdown VM shortcut on the desktop](../../images/laser_logoff/vre_brb_shutdown.PNG)  
 
-![](../../images/laser_logoff/vre_brb_shutdown_dialog.PNG)  
+![Screenshot of Shutdown VM confirmation popup](../../images/laser_logoff/vre_brb_shutdown_dialog.PNG)  
 
 ## How to Sign out 
 Click Start button --> Profile --> Sign out  
 
-![](../../images/laser_logoff/vre_user_options.PNG)
+![Screenshot of the Sign Out button on the Windows start menu](../../images/laser_logoff/vre_user_options.PNG)
 
 ## How to Disconnect
 You can disconnect two ways, but only should if you want code to continue to run in your absence. **Costs will continue to accrue** and VM will be locked for use by other users **until you reconnect then sign out or shutdown**.  
 	
 - Expand the Citrix menu at the top of the screen --> Disconnect  
 
-	![](../../images/laser_logoff/vre_citrix_options.PNG)
+	![Screenshot highlighting the Disconnect button on the Citrix menu](../../images/laser_logoff/vre_citrix_options.PNG)
 	
 - X-ing out of the VRE window  
 
-	![](../../images/laser_logoff/vre_x.PNG)
+	![Screenshot highlighting the close window button on a VRE window](../../images/laser_logoff/vre_x.PNG)
