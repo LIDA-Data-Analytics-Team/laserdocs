@@ -14,7 +14,7 @@ To monitor costs consumed by your VRE, follow the steps on our [Portal Basics pa
 
 When you open the Costing analysis page, you'll see a collection of plots summarising the cost of your VRE, over time and grouped by multiple variables:
 
-![az_portal_costing.png](../../../images/az_portal/az_portal_costing.png){:width="100%" .mx-auto}
+![Screenshot of the Azure Budget page highlighting six notable areas](../../../images/az_portal/az_portal_costing.png){:width="100%" .mx-auto}
 
 ## Cost fundamentals and budgets
 
@@ -39,7 +39,7 @@ The screenshot above includes six numbered annotations, guiding you to parts of 
 
 Combine the options above to create your own personalised views of VRE costs. For example, try the following options: 1. Accumulated costs view, 2. "This month" time frame, 3. Group by "Service name", 4. "Daily" granularity, and 5. "Column (stacked)" chart type. These settings will produce a graph something like this:
 
-![az_portal_custom_view.png](../../../images/az_portal/az_portal_custom_view.png){:width="100%" .mx-auto}
+![Screenshot illustrating a custom Budget view in the Azure Portal](../../../images/az_portal/az_portal_custom_view.png){:width="100%" .mx-auto}
 
 This plot clearly shows three useful things:
 1. On what days the VRE is most in use; When the VRE is being used, the virtual machines will be switched on and running costs, shown above in purple.
