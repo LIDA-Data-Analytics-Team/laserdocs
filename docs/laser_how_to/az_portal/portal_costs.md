@@ -37,7 +37,14 @@ The screenshot above includes six numbered annotations, guiding you to parts of 
 
 ## Custom views
 
-Combine the options above to create your own personalised views of VRE costs. For example, try the following options: 1. Accumulated costs view, 2. "This month" time frame, 3. Group by "Service name", 4. "Daily" granularity, and 5. "Column (stacked)" chart type. These settings will produce a graph something like this:
+Combine the options above to create your own personalised views of VRE costs. For example, try the following options:
+1. Accumulated costs view with,
+2. "This month" time frame with, 
+3. Group by "Service name" with, 
+4. "Daily" granularity and, 
+5. "Column (stacked)" chart type. 
+
+These settings will produce a graph something like this:
 
 ![Screenshot illustrating a custom Budget view in the Azure Portal](../../../images/az_portal/az_portal_custom_view.png){:width="100%" .mx-auto}
 
