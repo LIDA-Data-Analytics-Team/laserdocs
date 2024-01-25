@@ -9,8 +9,8 @@ nav_order: 3
 
 ## Connect to database via SSMS 
 
-When SSMS opens you will be prompted for the connection details.   
-![ssms_connect_to_server_1.png](../../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
+When SQL Server Management Studio (SSMS) opens you will be prompted for the connection details.   
+![Screenshot of the SSMS connection authentication window](../../../images/using_azure_sql_database/ssms_connect_to_server_1.png)
 
 Enter the following:
 - Server type = Database Engine
@@ -19,7 +19,7 @@ Enter the following:
 - Username = \<username>@leeds.ac.uk
 
 Click 'Options >>' and go to the second tab 'Connection Properties'.  
-![ssms_connect_to_server_2.png](../../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
+![Screenshot of the SSMS connection properties tab in the connection window options](../../../images/using_azure_sql_database/ssms_connect_to_server_2.png)
 
 Change 'Connect to database' from \<default> to the name of your database.
 

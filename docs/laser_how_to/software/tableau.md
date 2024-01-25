@@ -22,9 +22,9 @@ See Tableau Desktop's Deployment Guide for instructions on [how to activate Tabl
 
 By default Tableau is configured to download map information dynamically from the Internet, which in LASER produces errors like:
 
-![Tableau could not load online map](../../../images/tableau/tableau_map_error_1.png){:width="70%" .mx-auto}
+![Screenshot showing error that Tableau could not load online map](../../../images/tableau/tableau_map_error_1.png){:width="70%" .mx-auto}
 
-![Retrieve online maps using Background Maps menu](../../../images/tableau/tableau_map_error_2.png){:width="70%" .mx-auto}
+![Screenshot showing  warning that some maps are not available and advice to retrieve online maps using Background Maps menu](../../../images/tableau/tableau_map_error_2.png){:width="70%" .mx-auto}
 
 You can prevent that error by selecting Map -> Background Maps -> Offline (and selecting that as the default).
 

@@ -25,9 +25,9 @@ The following 6 steps are common across the configuration of each artifactory mi
 	- LASER_Conda_virtual 
 	- LASER_PyPI_virtual 
 5. At the top right of the screen click on 'Set me up'.  
-	![Top right click on Set me up](../../../images/artifactory/set_me_up.PNG)
+	![Screenshot showing the Set me up button in the top right of Artifactory](../../../images/artifactory/set_me_up.PNG)
 6. Enter your UoL password to hash and insert your credentials into the generated code snippet.  
-	![Enter your UoL password](../../../images/artifactory/enter_password.PNG)
+	![Screenshot showing where to enter your UoL password in Artifactory](../../../images/artifactory/enter_password.PNG)
 
 Now continue to follow the package repository specific instructions below:
 - TOC
