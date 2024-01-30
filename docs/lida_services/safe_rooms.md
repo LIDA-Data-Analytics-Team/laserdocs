@@ -49,11 +49,11 @@ Researchers must keep secure any safe room key fob and two factor authentication
 ## Lockers
 Lockers are available outside the safe rooms. ​To unlock an unused locker, set the combination lock to 3333 and turn the lock clockwise or anti-clockwise a one quarter turn.
 
-![lock2.jpg](../../images/safe_rooms/lock2.jpg)
+![Diagram illustrating how to unlock an unused, saferoom locker](../../images/safe_rooms/lock2.jpg)
 
 To secure personal belongings the lock will need to be set with a personal code. To set a new combination code, hold the button on the left in, set a new 4 digit number and then release the button. Scramble the code immediately after closing the door. If the combination code to the locker is forgotten, be aware that there may be waiting period to recover personal belongings. This is due to the possibility that reception staff might not be available on site.
 
-![lock1.jpg](../../images/safe_rooms/lock1.jpg)
+![Diagram illustrating how to set a new code on a saferoom locker](../../images/safe_rooms/lock1.jpg)
 
                       
 After the locker has been used, please reset the code back to factory defaults using the above instructions. In case the code was forgotten the locker can be opened by reception staff using a service key.

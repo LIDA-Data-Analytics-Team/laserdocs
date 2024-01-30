@@ -8,7 +8,7 @@ nav_order: 3
 # How to import or export files from LASER
 {:.no_toc}
 
-All transfers to & from LASER are processed by the Data Analytics Team who will perform a disclosure and compliance review before any files are moved. Files that fail review will be rejected for transfer and reported to _Governance, Risk & Compliance_.  
+All transfers to & from LASER are processed by the Data Analytics Team who will perform a disclosure and compliance review before any files are moved. Files that fail review will be rejected for transfer and reported to **Governance, Risk & Compliance**.  
 
 ![Diagram describing how all transfers to or from a VRE must be reviewed by DAT before release from LASER](../../images/laser_transfers/laser_transfer_process.png)
 

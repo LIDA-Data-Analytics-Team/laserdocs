@@ -12,13 +12,13 @@ Microsoft Azure has an online portal, which you can use to monitor various detai
 
 To use Azure Portal, go to [https://portal.azure.com/](https://portal.azure.com/) and log in using your University of Leeds account credentials. The home page will link to various core services and recently viewed information. Near the top of your home page, you should see a list of services that will look something like this:
 
-![az_portal_home.PNG](../../../images/az_portal/az_portal_home.PNG){:width="100%" .mx-auto}
+![Screenshot showing the available Azure resources at the top of the Azure Portal home page](../../../images/az_portal/az_portal_home.PNG){:width="100%" .mx-auto}
 
 Select the Subscriptions button, with the yellow key. You'll see a list of subscriptions you have access to and, if you have access to LASER, this should include the LASER subscription, called UoL-LRDP-Subscription. Select this subscription to enter a part of the portal that contains everything associated with the LASER environment.
 
 Before we go any further, it may help to briefly explain some basics about navigating the portal. After entering the LASER subscription, the top left of your page may look like the screenshot below.
 
-![az_portal_nav.png](../../../images/az_portal/az_portal_nav.png){:width="70%" .mx-auto}
+![Screenshot highlighting the breadcrumb navigation on the Azure portal](../../../images/az_portal/az_portal_nav.png){:width="70%" .mx-auto}
 
 At the top, highlighted in the red rectangle, is the breadcrumb: a hierarchy of the levels you have explored, which you can use to easily go back up a level.
 
@@ -28,6 +28,6 @@ You will typically navigate through the portal by selecting a resource in a navi
 
 Now, from the LASER subscription page, scroll down the mavigation menu and select Resource groups, as shown:
 
-![az_portal_find_vres.PNG](../../../images/az_portal/az_portal_find_vres.PNG)
+![Screenshot showing the Resource Groups blade within the Azure subscription page of the Azure Portal](../../../images/az_portal/az_portal_find_vres.PNG)
 
 The page will then list the resource groups you can access. Each resource group is a different VRE. The resource group ID contain your VRE's ID, e.g. p0000v01. The full resource group ID will take the form `UoL-uks-LRDP-<vre id>-prod-rg`. Select a resource group for one of your VREs and follow the next pages to see what VRE information you can monitor using the portal.

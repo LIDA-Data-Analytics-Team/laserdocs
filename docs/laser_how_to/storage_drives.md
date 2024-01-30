@@ -19,7 +19,7 @@ Permissions to the N: drive will be set up according to your project requirement
 
 Please note that file deletions are permanent. There is no 'Recycle Bin'.
 
-![N: drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
+![Screenshot highlighting the different the VRE Shared Storage N drive, and the VM local storage M drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
 
 ## Restrict access to folder on N: drive
 

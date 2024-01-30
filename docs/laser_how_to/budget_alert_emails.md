@@ -16,7 +16,7 @@ The budget alert emails will be sent to the research project principal investiga
 ## Content of the email
 Below is an example of the content of a budget alert email, which tells researchers they have spent 90% (£88.60/£98.44) of the monthly budget for a VRE named “p0500v01”.  At the time the email was sent they had actually spent £90.12.
 
-![budget_alert_emails.png](../../images/budget_alert_emails/budget_alert_emails.png)
+![Screenshot of the email body delivered illustrating budget details and actual costs from VRE usage](../../images/budget_alert_emails/budget_alert_emails.png)
 
 ## Contacting DAT about budget alert emails
 If you have any questions about VRE budgets or budget alert emails, please contact the Data Analytics Team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).

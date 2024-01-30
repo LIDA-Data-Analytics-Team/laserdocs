@@ -30,7 +30,7 @@ You will need:
 - Navigate to the StoreFront here: [https://laser.leeds.ac.uk/](https://laser.leeds.ac.uk/).
 - Sign in using your University of Leeds credentials.
 - When prompted, choose an authentication method and accept the login request/enter the passcode.  
-![duo_auth_prompt.png](../../images/laser_login/duo_auth_prompt.png)
+![Screenshot of Duo security authentication popup](../../images/laser_login/duo_auth_prompt.png)
 - You may be asked if Citrix Receiver is installed:
   - Click to detect installation.
   - Allow browser to 'Open Citrix Workspace Launcher'.
@@ -38,14 +38,14 @@ You will need:
 - You are now presented with all of the VRE desktops you have access to. Each icon represents a different virtual machine, and one VRE can have many.
 - Click on the image of the monitor or expand the options and click 'Open' to connect.<br>
 **Note that any failed attempt to open the chosen virtual machine will still cause it to start running in Azure and therefore incur costs. [Virtual machines can be stopped without logging in](./az_portal/portal_vms.html), via the Azure Portal, if needed.**<br>
-![citrix_store_front.png](../../images/laser_login/citrix_store_front.png)
+![Screenshot of virtual machine selection on the Citrix storefront](../../images/laser_login/citrix_store_front.png)
   - You may be asked to download a *.ica launcher file.  
-  ![citrix_launch_file.png](../../images/laser_login/citrix_launch_file.png)
+  ![Thumbnail image of the Citrix laucher file](../../images/laser_login/citrix_launch_file.png)
   - Save and open this file, it will be deleted when your session ends.
 - Citrix Workspace will launch and connect to your chosen virtual machine
 - You will  need to acknowledge the University of Leeds Legal Notice to continue. 
 	- Failure to do so within 3 minutes will automatically disconnect the session, leaving the virtual machine running and incurring costs.
 	- If this happens you can simply attempt to reopen the same virtual machine. It should open much more quickly as it is now in a 'Running' state.
-![vre_desktop.png](../../images/laser_login/uol_legal_notice.png)
+![Screenshot of the University of Leeds legal notice at login](../../images/laser_login/uol_legal_notice.png)
 - On clicking OK to the Legal Notice you will be presented with tour VRE desktop.  
-![vre_desktop.png](../../images/laser_login/vre_desktop.png)
+![Screenshot of the VRE desktop displayed after login](../../images/laser_login/vre_desktop.png)

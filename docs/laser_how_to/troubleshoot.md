@@ -26,7 +26,7 @@ If Software Centre is still not showing Citrix Workspace, contact DAT for suppor
 - If you're using Citrix installed on a personal device, or installed on a university device via Software Centre, you should be able to update Citrix Workspace yourself.
 - If you're on a university device and can't update Citrix by following the below steps, uninstall Citrix Workspace and [reinstall via Software Centre](./laser_login.html#prerequisites). If IT installed Citrix Workspace for you, it's possible you'll need their help to uninstall.
 - Go to the system tray in the bottom right corner of your screen and right click on the Citrix Workspace icon to open the context menu.<br>
-![Check for Citrix Workspace updates](../../images/troubleshoot/citrix_check_for_update.PNG){:width="50%" .mx-auto}
+![Screenshot illustrating how to check for Citrix Workspace updates on the Windows taskbar](../../images/troubleshoot/citrix_check_for_update.PNG){:width="50%" .mx-auto}
 - Select "Check for Updates".
 - A new window will appear telling you whether you need to update Citrix. If you do, download the update and wait for it to complete.
 
@@ -34,13 +34,13 @@ If Software Centre is still not showing Citrix Workspace, contact DAT for suppor
 
 If you receive the below error when trying to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk) please check to make sure you are not logged on to the University of Leeds VPN. If you are connected to the VPN then you will not be able to connect to [https://laser.leeds.ac.uk](https://laser.leeds.ac.uk).
 
-![This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="50%" .mx-auto}
+![Screenshot illustrating a This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="50%" .mx-auto}
 
 If instead you get an error reporting either "Cannot complete your request" or "Connection failed with status (unknown client error 1110)", then try connecting to LASER using an incognito/private browser window. If this succeeds, you'll need to clear your browsing history, cookies and cache to successfully access LASER from a regular browser window.
 
 ## My VRE won't start: Cannot start desktop
 
-![cannot_start_desktop.png](../../images/troubleshoot/cannot_start_desktop.png)
+![Screenshot illustrating the Cannot start desktop error from Citrix](../../images/troubleshoot/cannot_start_desktop.png)
 
 If you see the error message "Cannot start desktop" then chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
 
@@ -63,7 +63,7 @@ Simply closing the window ('Xing out') will disconnect the user from the session
 
 ## My VRE won't start: Failed with status 1030
 
-![error_1030.png](../../images/troubleshoot/error_1030.png)
+![Screenshot showing the Failed with status 1030 error windows popup](../../images/troubleshoot/error_1030.png)
 
 If the VRE looks about to open in a new window but then it crashes and you see the error message "The connection failed with status (1030)", this most likely means you will need to update the Citrix client on your device to the latest version of Citrix Workspace. IT Services will be able to assist with this if you do not have the necessary permissions on your device. Before updating Citrix you might try resetting Citrix by right-clicking the Citrix icon in your system tray > Advanced Preferences > Reset Citrix Workspace. If this doesn't resolve the 1030 error, or you can't find the Advanced Preferences, submit a request to have Citrix updated.
 
@@ -79,7 +79,7 @@ After confirming you have a strong internet connection please contact a member o
 
 ## Access LASER VRE on Linux machine
 
-The steps below have been tested using Ubuntu OS and Firefox browser.
+The steps below have been tested using Ubuntu OS and Firefox browser:
 
 - Ensure versions of Ubuntu, Firefox and Citrix Workspace are up to date
 - If you don't have Citrix Workspace:
@@ -89,11 +89,11 @@ The steps below have been tested using Ubuntu OS and Firefox browser.
 - Go to https://laser.leeds.ac.uk and login.
 - Select Detect Receiver
 - Check box to always open receiver links:<br>
-![allow_open_receiver_link.PNG](../../images/troubleshoot/linux_login/allow_open_receiver_link.PNG){:width="70%" .mx-auto}
+![Screenshot of the popup prompting the user to allow an open receiver, with the tickbox checked](../../images/troubleshoot/linux_login/allow_open_receiver_link.PNG){:width="70%" .mx-auto}
 - Select Already installed
 - Open VRE from Storefront. It will download an ica file.
 - In dialog box on what to do with ica file, tell Firefox to always open with Citrix Workspace. Select OK:<br>
-![use_citrix_to_open_ica.PNG](../../images/troubleshoot/linux_login/use_citrix_to_open_ica.PNG){:width="70%" .mx-auto}
+![Screenshot of the popup prompting to always open ICA files with Citrix](../../images/troubleshoot/linux_login/use_citrix_to_open_ica.PNG){:width="70%" .mx-auto}
 - The VRE will then open. In future, your browser will know to automatically open the VRE when an .ica gets downloaded.
 - If you get an SSL Error 61 preventing you from opening your VRE:
     - Open Terminal
@@ -121,11 +121,11 @@ If only a few or no apps are showing when you [open Software Centre in a VRE](./
 
 - Open Control Panel by typing "control panel" into the Start Menu search bar
 - Open Configuration Manager (you may need to change the view in control panel as shown below)
-![Open Configuration Manager](../../images/troubleshoot/sccm_update_control_panel.png){:width="70%" .mx-auto}
+![Screenshot highlighting the Configuration Manager button in Windows Control Panel](../../images/troubleshoot/sccm_update_control_panel.png){:width="70%" .mx-auto}
 - In Configuration Manager, select the Actions tab 
 - In the list of Actions, select "Application Deployment Evaluation Cycle" and click the Run Now button
 - Then select "Machine Policy Retrieval & Evaluation Cycle" and click the Run Now button
-![Run Configuration Manager actions](../../images/troubleshoot/sccm_update_config_man.png){:width="50%" .mx-auto}
+![Screenshot highlighting the two actions to select on the Configuration Manager Actions tab. These are the Application Deployment Evaluation Cycle and the Machine Policy Retrieval actions](../../images/troubleshoot/sccm_update_config_man.png){:width="50%" .mx-auto}
 - Click Apply then OK to close Configuration Manager
 - Within the next minute or so all apps should appear in Software Centre. If not contact DAT for support.
 
@@ -138,7 +138,7 @@ There are two possible ways to solve this:
 **1. By finding and installing the package through the Anaconda Navigator : following these steps**
 
 Open Anaconda.
-![install_package_anaconda_navigator.png](../../images/troubleshoot/install_package_anaconda_navigator.png){:width="70%" .mx-auto} 
+![Screenshot of the Anaconda Navigator main screen](../../images/troubleshoot/install_package_anaconda_navigator.png){:width="70%" .mx-auto} 
 Go to Environments tab just below the Home tab and from there you can check what all packages are installed and what is not.  
 It is very easy to install any package through anaconda navigator, simply search the required package, select package and click on apply to install it.
 
@@ -147,13 +147,13 @@ It is very easy to install any package through anaconda navigator, simply search
 - Search for the packages you want as in in red box #3    
 - Slect the specific package as in in red box #4    
 - click on Apply as in in red box #5 and #6
-![install_package_anaconda_navigator_2.png](../../images/troubleshoot/install_package_anaconda_navigator_2.png) Import package in your IDE and use as normal.
+![Screenshot highlighting the six steps to follow for package installation in Anaconda Navigator](../../images/troubleshoot/install_package_anaconda_navigator_2.png) Import package in your IDE and use as normal.
 
 **2. Select LASER_Conda-Forge_remote during Artifactory setup** - 
 Here's a guide on Artifactory Set up from our website. [Setting up Artifactory](https://github.com/LIDA-Data-Analytics-Team/laserdocs/blob/gh-pages/docs/laser_how_to/software/artifactory.md)
 Follow step #1 to #3 when setting up your Artifactory
 
-![install_package_conda_forge.png](../../images/troubleshoot/install_package_conda_forge.png)Import package in your IDE and use as normal.
+![Screenshot highlighting the three steps to follow when setting up conda forge in Artifactory](../../images/troubleshoot/install_package_conda_forge.png)Import package in your IDE and use as normal.
 
 ## Anaconda Navigator is slow to open (in online mode)
 
@@ -163,7 +163,7 @@ After loading Anaconda Navigator, go to File > Preferences (shortcut CTRL+P).
 
 Check the box to "Enable offline mode", then select Apply and close the preferences pane.
 
-![Fifth option from the top on the Preferences screen, checkbox](../../images/troubleshoot/anaconda_navigator.png){:width="70%" .mx-auto}
+![Screenshot showing the option to Enable offline mode in Anaconda preferences](../../images/troubleshoot/anaconda_navigator.png){:width="70%" .mx-auto}
 
 You should now see "_Working in offline mode_" appear in the top right. Offline mode should persist when you open Anaconda Navigator again.
 
@@ -183,7 +183,7 @@ The instructions above are simple but will not persist, meaning you must change 
 - This writes a file to `C:\Users\<username>\.jupyter\jupyter_notebook_config.py`.
 
 <div style="width:600px; margin:0 auto;">
-    <img src="../../images/troubleshoot/06-1_jupyter_set_home_dir.png" width=600px alt="06-1_jupyter_set_home_dir.png">
+    <img src="../../images/troubleshoot/06-1_jupyter_set_home_dir.png" width=600px alt="Screenshot of the Open File popup in VS Code">
 </div>
 
 - Open this file in an editor and search for the `c.NotebookApp.notebook_dir` config setting.
@@ -198,11 +198,11 @@ The instructions above are simple but will not persist, meaning you must change 
 
 You may need to manually map the R: drive to your machine.
 - Open File Explorer and right click on Network  
-	![network_context_menu.png](../../images/troubleshoot/network_context_menu.png)
+	![Screenshot showing the right-click menu on the Network option in Windows Explorer](../../images/troubleshoot/network_context_menu.png)
 - Select 'Map network drive'
 - Drive = R: 
 - Folder = \\\azlrdprepos.file.core.windows.net\r-repo
-	![map_r_drive.png](../../images/troubleshoot/map_r_drive.png)
+	![Screenshot showing the options to select in the Map Network Driver wizard](../../images/troubleshoot/map_r_drive.png)
 - Click finish 
 
 You should now see the R miniCRAN repository mapped to R: drive.
@@ -228,9 +228,9 @@ Windows often scales the display to make text larger and easier to read, alterin
 To run LASER VMs at the native resolution of your monitor:
 
 - Right-click the Citrix Workspace icon in the system tray on your taskbar, and select Advanced Preferences:<br>
-![display_res_citrix_menu.png](../../images/troubleshoot/display_res_citrix_menu.png){:width="70%" .mx-auto}
+![Screenshot showing the Advanced Preferences option after right clicking on the Citrix icon of the Windows taskbar](../../images/troubleshoot/display_res_citrix_menu.png){:width="70%" .mx-auto}
 - Select High DPI, and then select and save the “No, use the native resolution” option:<br>
-![display_res_citrix_options.png](../../images/troubleshoot/display_res_citrix_options.PNG){:width="70%" .mx-auto}
+![Screenshot showing the option to select in Citrix Advanced Preferences](../../images/troubleshoot/display_res_citrix_options.PNG){:width="70%" .mx-auto}
 
 Your choice will persist in subsequent sessions.
 
@@ -248,7 +248,7 @@ A variance between the LASER Power BI Dashboard costs which come directly from A
 
 If you try to login to LASER after having timed out from a previous session, you may see the following message:
 
-![cannot_connect_using_smart_card.png](../../images/troubleshoot/cannot_connect_using_smart_card.png)
+![Screenshot showing the Citrix Storefront error advising that users cannot login using a smart card.](../../images/troubleshoot/cannot_connect_using_smart_card.png)
 
 You can fix this by clearing browsing data up to and including the time since your last LASER login. Alternatively, avoid the error by opening a private/incognito window instead.
 

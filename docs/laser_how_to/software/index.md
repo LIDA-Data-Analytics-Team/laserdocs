@@ -13,17 +13,17 @@ Optional software in LASER VREs are provided via Software Center. If your VRE do
 
 Open Software Center by typing its name in the taskbar search and selecting it from the results.
 
-![](../../../images/install_software/01_open_sccm.PNG)
+![Screenshot showing how to find Software Center from the search pane on the Windows taskbar](../../../images/install_software/01_open_sccm.PNG)
 {: .mx-auto }
 
 In Software Center, you'll see a grid of icons for all the software that can be installed. Each grid item shows the software version. Multiple versions of a software may be provided. Find the software you want to install and select it.
 
-![](../../../images/install_software/02_find_app.PNG)
+![Screenshot showing the software options available in Software Center](../../../images/install_software/02_find_app.PNG)
 {: .mx-auto }
 
 You'll then see details about the software, including the build status, download size and more. Select the Install button to install the software.
 
-![](../../../images/install_software/03_app_pane.PNG)
+![Screenshot showing the git software details and Install button in Software Center](../../../images/install_software/03_app_pane.PNG)
 {: .mx-auto }
 
 The status shown will change to "Installing". If it's a large installation, you may see the estimated time remaining for the installation to complete.
