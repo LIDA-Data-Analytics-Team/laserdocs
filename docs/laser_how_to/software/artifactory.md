@@ -75,22 +75,23 @@ Select LASER_PyPI_virtual in step 4 above.
 
 The code snippet will be generated in the 'Resolve' tab.
 
-Replace the contents of the C:/ProgramData/pip/pip.ini file with the code snippet containing your hashed credentials. 
-- Artifactory may tell you to replace the contents of 'pip.conf', but 'pip.ini' is the Windows equivalent.
-- You may have to manually create .../pip/pip.ini if it doesn't already exist.
+Replace the contents of the `C:\Users\<USERNAME>\AppData\pip\pip.ini` file with the code snippet containing your hashed credentials. 
+- Artifactory may tell you to replace the contents of `pip.conf`, but `pip.ini` is the Windows equivalent.
+- You may have to manually create `...\pip\pip.ini` if it doesn't already exist.
 
-If you need to manually create the /pip/ directory and pip.ini file C:/ProgramData is hidden by default so you may need to enable 'Hidden items' if you are using Windows Explorer to find it.
+If you need to manually create the `\pip` directory and `pip.ini` file `C:\Users\<USERNAME>\AppData` is hidden by default so you may need to enable 'Hidden items' if you are using Windows Explorer to find it.
 
 Append the following to pip.ini:
-```python
+```ini
 trusted-host = artifactory
 ```
 
 The full contents of pip.ini should look something like this (please ensure to include a trailing line break):
-```python
+```ini
 [global]
 index-url = http://<USERNAME>:<PASSWORD>@artifactory:8081/artifactory/api/pypi/LASER_PyPT_virtual/simple
 trusted-host = artifactory
+
 ```
 
 You can now install packages using
