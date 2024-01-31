@@ -9,8 +9,8 @@ nav_order: 3
 
 # LASER Biscom: A Secure File Transfer Guide
 
-This guide provides instructions for data providers and users to transfer files to and from the University of Leeds secure IT platform, LASER, using the LASER Biscom Secure File Transfer service.
-Biscom provides end-to-end security of files in-transit and at rest with FIPS 140-2 certified AES 256-bit encryption. Supports large file support – send multi-gigabyte files. It also enables sharing confidential and sensitive information as easily as sending an email, with secure reply, forward, and message threading.
+This guide provides instructions for data providers and users to transfer files to and from the University of Leeds secure IT platform, LASER, using the LASER Biscom Secure File Transfer service.  
+Biscom SFT provides end-to-end security of files in-transit and at rest with FIPS 140-2 certified AES 256-bit encryption. Enabling sharing confidential and sensitive information as easily as sending an email, with secure reply, forward, and message threading. It also supports large file – send multi-gigabyte files.
 
 If you need assistance with Biscom, contact the LIDA Data Analytics Team (DAT) at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
 
