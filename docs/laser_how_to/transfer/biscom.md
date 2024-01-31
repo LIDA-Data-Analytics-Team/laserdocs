@@ -3,7 +3,7 @@ layout: default
 title: Biscom
 parent: File Transfer
 grand_parent: LASER How To
-nav_order: 3
+nav_order: 2
 ---
 
 
