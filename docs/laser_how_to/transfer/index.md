@@ -1,11 +1,12 @@
 ---
-layout: default
-title: File Transfer
+layout: page
+title: File Transfer Guide
 parent: LASER How To
 nav_order: 3
 has_children: true
 has_toc: false
 ---
+
 # How to import or export files from LASER
 {:.no_toc}
 
