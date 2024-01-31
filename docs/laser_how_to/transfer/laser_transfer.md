@@ -3,7 +3,7 @@ layout: default
 title: File Transfer Guide
 parent: File Transfers
 grand_parent: LASER How To
-nav_order: 1
+nav_order: 2
 ---
 
 # How to import or export files from LASER
