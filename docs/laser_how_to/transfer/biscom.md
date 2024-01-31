@@ -24,23 +24,23 @@ Please avoid emailing files directly to project teams or LASER staff.
 
 1. If accessing LASER Biscom for the first time:
     1. You will receive an email from lasersft@leeds.ac.uk:<br>
-    ![Biscom notification email](/images/laser_transfers/biscom_import_notification_example_1.png)
+    ![Biscom notification email](../../../images/laser_transfers/biscom_import_notification_example_1.png)
     1. Click the link in the email to visit Biscom's registration page:<br>
-    ![Biscom registration page](/images/laser_transfers/biscom_import_registration_example.png)
+    ![Biscom registration page](../../../images/laser_transfers/biscom_import_registration_example.png)
     1. Complete the registration form, accept the terms of service, and click Register.
     1. Sign in using the email address and password created during registration.
-    ![Biscom registration page](/images/laser_transfers/biscom_import_login_example_1.png)
+    ![Biscom registration page](../../../images/laser_transfers/biscom_import_login_example_1.png)
 1. If already registered with LASER Biscom:
     1. Sign in to Biscom at [https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft).
     1. Alternatively, use the link in the original email from lasersft@leeds.ac.uk.
     1. Sign in using the email address and password for your Biscom account.
 1. Tip: Bookmark [Biscom Link: https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft) for easy access.
 1. Once signed in, view your Biscom inbox:<br>
-    ![Biscom inbox page](/images/laser_transfers/biscom_import_inbox_example.png)
+    ![Biscom inbox page](../../../images/laser_transfers/biscom_import_inbox_example.png)
 1. Locate a secure message from the LIDA Data Analytics Team (DAT) with a subject similar to "Import <project name> files to LASER."
 1. Open the secure message, scroll down to the Reply section.
 1. Transfer files to LASER by replying to the secure message with attached files:<br>
-    ![Send files to LASER via Biscom](/images/laser_transfers/biscom_import_send_example.png)
+    ![Send files to LASER via Biscom](../../../images/laser_transfers/biscom_import_send_example.png)
 1. Attach files, add a brief description, monitor the upload progress, and click "Send reply" when done.
 
 ## Receiving files
@@ -51,7 +51,7 @@ Please avoid emailing files directly to project teams or LASER staff.
    - Click the link, log into Biscom, and access the secure message with files.
    - Alternatively, visit [Biscom](https://laser-sft.leeds.ac.uk/sft) to log in and reach your Biscom inbox.
 1. Find the Files section in the secure message and download files:<br>
-    ![Download files from LASER Biscom](/images/laser_transfers/biscom_import_file_download_example.png)
+    ![Download files from LASER Biscom](../../../images/laser_transfers/biscom_import_file_download_example.png)
 1. To download all files, select the checkbox above the file list and click "Download as zip."
 1. A ZIP file containing all files will be downloaded to your computer.
 
