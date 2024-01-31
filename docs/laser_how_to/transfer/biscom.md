@@ -1,8 +1,9 @@
 ---
 layout: default
-title: File Transfers
-parent: LASER How To
-nav_order: 3
+title: Biscom
+parent: File Transfers
+grand_parent: LASER How To
+nav_order: 2
 ---
 
 
@@ -33,7 +34,7 @@ Please avoid emailing files directly to project teams or LASER staff.
     1. Sign in to Biscom at [https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft).
     1. Alternatively, use the link in the original email from lasersft@leeds.ac.uk.
     1. Sign in using the email address and password for your Biscom account.
-1. Tip: Bookmark [Biscom Link https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft) for easy access.
+1. Tip: Bookmark [Biscom Link: https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft) for easy access.
 1. Once signed in, view your Biscom inbox:<br>
     ![Biscom inbox page](/images/laser_transfers/biscom_import_inbox_example.png)
 1. Locate a secure message from the LIDA Data Analytics Team (DAT) with a subject similar to "Import <project name> files to LASER."
