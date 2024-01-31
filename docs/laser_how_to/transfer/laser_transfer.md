@@ -1,8 +1,9 @@
 ---
 layout: default
 title: File Transfers
-parent: LASER How To
-nav_order: 3
+parent: File Transfers
+grand_parent: LASER How To
+nav_order: 1
 ---
 
 # How to import or export files from LASER
@@ -10,7 +11,7 @@ nav_order: 3
 
 All transfers to & from LASER are processed by the Data Analytics Team who will perform a disclosure and compliance review before any files are moved. Files that fail review will be rejected for transfer and reported to **Governance, Risk & Compliance**.  
 
-![Diagram describing how all transfers to or from a VRE must be reviewed by DAT before release from LASER](../../images/laser_transfers/laser_transfer_process.png)
+![Diagram describing how all transfers to or from a VRE must be reviewed by DAT before release from LASER](/images/laser_transfers/laser_transfer_process.png)
 
 For data that have been [classified](../laser_info/tiering.md) as Tier 3 sensitivity and above a secure transfer mechanism must be used, ie not email attachments or DropBox etc.  
 
