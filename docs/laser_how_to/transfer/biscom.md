@@ -12,15 +12,15 @@ nav_order: 3
 This guide provides instructions for data providers and users to transfer files to and from the University of Leeds secure IT platform, LASER, using the LASER Biscom Secure File Transfer service.  
 Biscom SFT provides end-to-end security of files in-transit and at rest with FIPS 140-2 certified AES 256-bit encryption. Enabling sharing confidential and sensitive information as easily as sending an email, with secure reply, forward, and message threading. It also supports large file – send multi-gigabyte files.
 
-If you need assistance with Biscom, contact the LIDA Data Analytics Team (DAT) at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
+If you need assistance with Biscom, contact the LIDA Data Analytics Team (DAT) at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk). Please avoid emailing files directly to project teams or LASER staff.
 
+- [Registration/Login Instruction](#sending-files)
 - [Sending files](#sending-files)
 - [Receiving files](#receiving-files)
 - [Help](#help)
 
-## Sending files
+## Registration/Login Instruction
 
-Please avoid emailing files directly to project teams or LASER staff.
 
 1. If accessing LASER Biscom for the first time:
     1. You will receive an email from lasersft@leeds.ac.uk:<br>
@@ -35,9 +35,13 @@ Please avoid emailing files directly to project teams or LASER staff.
     1. Alternatively, use the link in the original email from lasersft@leeds.ac.uk.
     1. Sign in using the email address and password for your Biscom account.
 1. Tip: Bookmark [Biscom Link: https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft) for easy access.
+
+## Sending files
+
+1. Expect notification emails from LASER with request to send file to LASER.
 1. Once signed in, view your Biscom inbox:<br>
     ![Biscom inbox page](../../../images/laser_transfers/biscom_import_inbox_example.png)
-1. Locate a secure message from the LIDA Data Analytics Team (DAT) with a subject similar to "Import <project name> files to LASER."
+1. Locate a secure message from the LIDA Data Analytics Team (DAT) with a subject similar to "Import files to LASER."
 1. Open the secure message, scroll down to the Reply section.
 1. Transfer files to LASER by replying to the secure message with attached files:<br>
     ![Send files to LASER via Biscom](../../../images/laser_transfers/biscom_import_send_example.png)
