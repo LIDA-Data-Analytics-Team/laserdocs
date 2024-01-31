@@ -1,6 +1,6 @@
 ---
 layout: default
-title: File Transfers
+title: File Transfer Guide
 parent: File Transfers
 grand_parent: LASER How To
 nav_order: 1
