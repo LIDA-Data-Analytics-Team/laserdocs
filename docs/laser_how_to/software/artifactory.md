@@ -75,11 +75,9 @@ Select LASER_PyPI_virtual in step 4 above.
 
 The code snippet will be generated in the 'Resolve' tab.
 
-Replace the contents of the `C:\Users\<USERNAME>\AppData\pip\pip.ini` file with the code snippet containing your hashed credentials. 
+Replace the contents of the `C:\Users\<USERNAME>\pip\pip.ini` file with the code snippet containing your hashed credentials. 
 - Artifactory may tell you to replace the contents of `pip.conf`, but `pip.ini` is the Windows equivalent.
-- You may have to manually create `...\pip\pip.ini` if it doesn't already exist.
-
-If you need to manually create the `\pip` directory and `pip.ini` file `C:\Users\<USERNAME>\AppData` is hidden by default so you may need to enable 'Hidden items' if you are using Windows Explorer to find it.
+- You may have to manually create `...\pip\pip.ini` if it doesn't already exist.  
 
 Append the following to pip.ini:
 ```ini
@@ -98,9 +96,3 @@ You can now install packages using
 ```python
 pip install <PACKAGE>
 ```
-
-Note: On rare occasions Windows may require you have administrative privileges to alter an existing `pip.ini` file. If this occurs you can:
-1. create a copy of `pip.ini`
-2. alter the content of the copy of `pip.ini`
-3. delete the original `pip.ini`
-4. rename the copy to `pip.ini`
