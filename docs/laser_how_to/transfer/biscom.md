@@ -14,13 +14,12 @@ Biscom SFT provides end-to-end security of files in-transit and at rest with FIP
 
 If you need assistance with Biscom, contact the LIDA Data Analytics Team (DAT) at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk). Please avoid emailing files directly to project teams or LASER staff.
 
-- [Registration/Login Instruction](#sending-files)
+- [Registration/Login instruction](#registrationlogin-instruction)
 - [Sending files](#sending-files)
 - [Receiving files](#receiving-files)
 - [Help](#help)
 
 ## Registration/Login Instruction
-
 
 1. If accessing LASER Biscom for the first time:
     1. You will receive an email from lasersft@leeds.ac.uk:<br>
