@@ -42,6 +42,8 @@ You will need:
   - You may be asked to download a *.ica launcher file.  
   ![Thumbnail image of the Citrix laucher file](../../images/laser_login/citrix_launch_file.png)
   - Save and open this file, it will be deleted when your session ends.
+  - Configuring your browser to automatically open this file type will ensure a more seamless experience next time you connect. Example from Chrome browser below:
+  ![Cropped screenshot of the upper right corner of Chrome browser, showing recently downloaded ica file and contextual menu with 'Always open files of this type' selected](../../images/laser_login/always_open_files_of_this_type.png)
 - Citrix Workspace will launch and connect to your chosen virtual machine
 - You will  need to acknowledge the University of Leeds Legal Notice to continue. 
 	- Failure to do so within 3 minutes will automatically disconnect the session, leaving the virtual machine running and incurring costs.
