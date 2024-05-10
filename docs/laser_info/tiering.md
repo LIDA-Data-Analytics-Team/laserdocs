@@ -9,7 +9,9 @@ nav_order: 2
 
 Data providers often classify their data (e.g. personally identifiable, pseudonymised, anonymous) and share it based on a set of firm requirements detailed in a ‘Data Sharing Agreement’ (DSA). That would set the minimum standards of security required. LIDA and/or PI/researcher may have a view that the data is more sensitive and want more assurance than the provider contractually requires.
 
-The following data risk classification tiers have been adopted from the Alan Turing Institute and are used to assess the data and associated risks.
+The following data risk classification tiers have been adopted from the Alan Turing Institute and are used to assess the data and associated risks.  
+
+![Data Risk Classification Tiering model represented as a pyramid, Tier 0 (lowest risk) at the base and Tier 4 (greatest risk) at the peak](../../images/tiering/lida_data_risk_tiering_pyramid.png)  
 
 ## Data Risk Tier - Disclosure Impact
 
