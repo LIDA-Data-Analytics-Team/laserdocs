@@ -9,16 +9,16 @@ nav_order: 1
 
 LASER is a Trusted Research Environment (TRE), also known as a Data Safe Haven, managed and run by LIDA. LASER offers the combination of meeting the highest standards of security for data analytics, of course ensuring ISO27001 and NHS Data Security and Protection Toolkit compliance with the flexibility to enable constant agility in design and function; alongside scalability depending on the researcher need. This platform is supported through a commitment backed up by both LIDA and the University of Leeds IT Service to ensure high quality service wrap around to maximise ease and efficiency of time for researchers.
 
-## What is a Virtual Research Environment? 
-LASER is the platform upon which we can build and host Virtual Research Environments (VREs). 
+## What is a Trusted Research Environment? 
+LASER is the platform upon which we can build and host Trusted Research Environments (TREs). 
 
-In their simplest form, a VRE is a virtualised environment consisting of virtual machines and shared storage where data flow is strictly controlled. Taking a 'walled garden' approach, there is _no access to the internet_ or other networks from inside a VRE. 
+In their simplest form, a TRE is a virtualised environment consisting of virtual machines and shared storage where data flow is strictly controlled. Taking a 'walled garden' approach, there is _no access to the internet_ or other networks from inside a TRE. 
 
-Research is conducted by connecting to a virtual machine (VM) within a VRE. The VMs within a single VRE can all see the same project shared storage, which is inaccessible from other VREs. Software can be installed to, and run directly on, the VMs. 
+Research is conducted by connecting to a virtual machine (VM) within a TRE. The VMs within a single TRE can all see the same project shared storage, which is inaccessible from other TREs. Software can be installed to, and run directly on, the VMs. 
 
-![Diagram illustrating the separation between, and researcher access of virtual research environments on the LASER platform](../../images/index/laser_smol.png)
+![Diagram illustrating the separation between, and researcher access of Trusted Research Environments on the LASER platform](../../images/index/laser_smol.png)
 
-More complex and involved VREs can be designed; please discuss your project requirements with a member of the Data Analytics Team as early as possible to explore what might be suitable.
+More complex and involved TREs can be designed; please discuss your project requirements with a member of the Data Analytics Team as early as possible to explore what might be suitable.
 
 **The LASER Platform has been designed with and for researchers and includes the following capabilities:**
 - Fully flexible and scalable to enable researchers to align spend to research requirements.
