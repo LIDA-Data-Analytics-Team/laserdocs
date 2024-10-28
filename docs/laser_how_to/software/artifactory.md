@@ -71,7 +71,7 @@ You can now install packages using
 ```python
 conda install <PACKAGE>
 ```
-Please note, even after setting the UTRE Artifactory for conda it's still not possible to clone your base environment.
+Please note, even after setting the TRE to use Artifactory for conda it's still not possible to clone your base environment.
 
 ### PyPI
 
