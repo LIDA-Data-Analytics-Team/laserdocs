@@ -42,10 +42,10 @@ Select LASER_CRAN_virtual in step 4 above.
 
 The code snippet will be generated directly below the password field in the 'Configure' tab.
 
-Replace the contents of your Rprofile.site file with the generated code snippet.
-Rprofile.site can usually be found at `C:/Program Files/R/R-x.x.x/etc/`
+Replace the contents of your `Rprofile.site` file with the generated code snippet.
+`Rprofile.site` can usually be found at `C:/Program Files/R/R-x.x.x/etc/`
 
-> The Rprofile.site file may require administrative permissions to change or copy.  
+> The `Rprofile.site` file may require administrative permissions to change or copy.  
 > If so, you can simply create a `.Rprofile` file in your HOME directory or in your project working directory.  
 > 
 > R checks for profile files using the following preference order:  
