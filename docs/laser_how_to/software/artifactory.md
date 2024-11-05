@@ -45,11 +45,20 @@ The code snippet will be generated directly below the password field in the 'Con
 Replace the contents of your Rprofile.site file with the generated code snippet.
 Rprofile.site can usually be found at `C:/Program Files/R/R-x.x.x/etc/`
 
+> The Rprofile.site file may require administrative permissions to change or copy.  
+> If so, you can simply create a `.Rprofile` file in your HOME directory or in your project working directory.  
+> 
+> R checks for profile files using the following preference order:  
+> 1. **Project working directory**: Find out where your Project working directory is with the `getwd()` command.  
+> 2. **HOME**: the user’s home directory. Find out where your HOME is with the `path.expand("~")` command.  
+> 3. **R_HOME**: the directory in which R is installed. Find out where your R_HOME is with the `R.home()` command.  
+> 
+> For constistency we recommend creating a `.Rprofile` file in your HOME directory, usually located at `C:/Users/<username>/Documents`.  
+
 You can now install packages using
 ```R
 install.packages(<PACKAGE>)
 ```
-
 
 ### Conda 
 
