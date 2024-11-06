@@ -54,6 +54,7 @@ Replace the contents of your `Rprofile.site` file with the generated code snippe
 > 3. **R_HOME**: the directory in which R is installed. Find out where your R_HOME is with the `R.home()` command.  
 > 
 > For constistency we recommend creating a `.Rprofile` file in your HOME directory, usually located at `C:/Users/<username>/Documents`.  
+> You may need to restart your R session after creating the `.Rprofile` file before it is recognised.  
 
 You can now install packages using
 ```R
