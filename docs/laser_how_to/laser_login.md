@@ -16,7 +16,7 @@ nav_order: 1
 ## Prerequisites
 
 {: .important }
-> Please ensure familiarity and compliance with any and all restrictions to the **Territory** from which you are permitted to access your data when logging in to your LASER TRE.  
+> Please ensure familiarity and compliance with any and all restrictions to the **Territory you are permitted to access your data from** when logging in to your LASER TRE.  
 > 
 > This will most frequently be described by the **Data Sharing Agreement(s)** in place for your project and may **restrict the countries** (within and without the UK) from which you can **connect to your TRE**.  
 
