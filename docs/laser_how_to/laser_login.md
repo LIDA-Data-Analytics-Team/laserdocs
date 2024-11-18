@@ -14,6 +14,12 @@ nav_order: 1
 {% include youtube.html id="LrnGvI4cKP8" %}  
 
 ## Prerequisites
+
+{: .important }
+> Please ensure familiarity and compliance with any and all restrictions to the **Territory** from which you are permitted to access your data when logging in to your LASER TRE.  
+> 
+> This will most frequently be described by the **Data Sharing Agreement(s)** in place for your project and may **restrict the countries** (within and without the UK) from which you can **connect to your TRE**.  
+
 You will need:
 - Citrix Workspace installed to the machine you are connecting to LASER from. It's a good idea to [update Citrix Workspace](./troubleshoot.html#i-need-to-update-my-version-of-citrix-workspace) to the latest version.
   - On university managed devices, install Citrix Workspace via Software Centre. If you’re using a laptop from home and [Citrix isn’t in Software Centre](./troubleshoot.html#citrix-workspace-isnt-showing-in-software-centre), connect to the VPN to let Software Centre update.
