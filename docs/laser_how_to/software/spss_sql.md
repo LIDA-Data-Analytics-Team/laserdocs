@@ -15,7 +15,7 @@ nav_order: 6
 > 
 > The 'SQL Server Wire Protocol' driver you'll be using only supports _Windows Authentication_ and _SQL Authentication_. Azure SQL Databases do not support _Windows Authentication_ however.  
 > 
-> **The DAT can help set you up with a SQL Authentication loging if required**.  
+> **The DAT can help set you up with a SQL Authentication login if required**.  
 
 {: .warning }
 > During installation of IBM Data Access you will be asked to select file paths and settings; just accept all defaults and hit 'Next' until completion.  
