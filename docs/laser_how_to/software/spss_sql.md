@@ -8,16 +8,15 @@ nav_order: 6
 
 # SPSS Statistics & Azure SQL Database
 
-{: .important }
-> From Software Centre ensure that first **IBM SPSS** and then **IBM Data Access** are installed to the VM.  
->  
-> IBM Data Access installs drivers required for SPSS Statistics to connect to  Azure SQL Databases.  
-> 
-> The 'SQL Server Wire Protocol' driver you'll be using only supports _Windows Authentication_ and _SQL Authentication_. Azure SQL Databases do not support _Windows Authentication_ however.  
-> 
-> **The DAT can help set you up with a SQL Authentication login if required**.  
+From Software Centre ensure that first **IBM SPSS** and then **IBM Data Access** are installed to the VM.  
 
-{: .warning }
+IBM Data Access installs drivers required for SPSS Statistics to connect to  Azure SQL Databases.  
+
+The 'SQL Server Wire Protocol' driver you'll be using only supports _Windows Authentication_ and _SQL Authentication_. Azure SQL Databases do not support _Windows Authentication_ however.  
+
+**The DAT can help set you up with a SQL Authentication login if required**.  
+
+{: .important }
 > During installation of IBM Data Access you will be asked to select file paths and settings; just accept all defaults and hit 'Next' until completion.  
 >  
 > There are 3 installations to go through; be aware some windows may open behind others so be prepared for a bit of alt+tab action.  
