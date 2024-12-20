@@ -42,9 +42,9 @@ Please feel free to reach out to a member of the DAT at [dat@leeds.ac.uk](mailto
 **Areas of Primary expertise** : Well-versed in Amazon Web Services, Lambda, API Gateway, and DynamoDB, as well as Java full-stack development using the Spring framework, Fojan has developed web applications that are both scalable and secure. She also has experience in data science techniques, using Python and R programming for exploratory data analysis, clustering, classification, and regression analysis. Additionally, she is experienced in both relational and non-relational databases as data backends for analytics and software development projects.  
 **Areas of Secondary expertise** : Experience in Reinforcement Learning for autonomous driving based on AWS; Front-end development using HTML, CSS, and JavaScript, Data Visualisation.  
 
-### Obose Eselebor
-**Role**: Research Software Technician
-**Areas of RSE Technical Research Interests**: Machine Learning, Data Management, Data Visualisation, Secure Research Environments.
-**Summary of Experience** : Obose holds an MSc in Artificial Intelligence with Data Analytics from Teesside University, earning a distinction. She has a strong foundation in data science, analytics, and AI, with expertise spanning data analysis, machine learning model development, and data management. She has built interactive dashboards, streamlined reporting processes through automation, and developed machine learning models that improved prediction accuracy. Obose is passionate about data-driven problem-solving and committed to supporting secure research practices.
-**Areas of Primary Expertise** : Data analysis, data visualisation (Power BI, Tableau), data management, machine learning (supervised and unsupervised learning), and statistical modelling. Proficient in Python, and Microsoft Excel, data cleaning, and validation for research integrity.
-**Areas of Secondary Expertise** : Deep learning, project-specific AI model development, HTML, CSS.
+### Obose Eselebor  
+**Role**: Research Software Technician  
+**Areas of RSE Technical Research Interests**: Machine Learning, Data Management, Data Visualisation, Secure Research Environments.  
+**Summary of Experience** : Obose holds an MSc in Artificial Intelligence with Data Analytics from Teesside University, earning a distinction. She has a strong foundation in data science, analytics, and AI, with expertise spanning data analysis, machine learning model development, and data management. She has built interactive dashboards, streamlined reporting processes through automation, and developed machine learning models that improved prediction accuracy. Obose is passionate about data-driven problem-solving and committed to supporting secure research practices.  
+**Areas of Primary Expertise** : Data analysis, data visualisation (Power BI, Tableau), data management, machine learning (supervised and unsupervised learning), and statistical modelling. Proficient in Python, and Microsoft Excel, data cleaning, and validation for research integrity.  
+**Areas of Secondary Expertise** : Deep learning, project-specific AI model development, HTML, CSS.  
