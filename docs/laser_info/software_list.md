@@ -17,62 +17,45 @@ List last updated: 2021-11-17
 
 |List of software available in LASER|
 |---|
-|7-Zip|
-|Adobe Acrobat Reader DC|
+|Adobe Acrobat DC Standard|
+|AFD Postcode Plus|
 |Alteryx 2021 with R unlicenced|
-|Anaconda Distribution Individual Edition 2021.11 (includes Python 3.9, JupyterLab, Spyder, etc.)|
-|ArcGIS 10.6.0|
-|Atom 1.56|
-|Citrix Workspace App|
-|Dou Windows Logon Client|
-|EndNote X9|
-|Git (plus Git Bash and Git GUI)|
+|Amazon Java|
+|Anaconda X64|
+|Cran R 4.3.0|
+|CRANProject_R 4.4.0|
+|Enroll in MDE|
 |Github Atom 1.56|
-|Google Chrome|
-|HRG4+ 2021-22 Reference Costs Grouper|
-|IBM SPSS Statistics 27|
-|Inkscape|
-|Intellij Idea|
-|Java 8 (jdk 1.8)|
-|Maple|
-|Mendeley Desktop| 
-|Microsoft Access|
-|Microsoft Data Migration Assistant 5.5.3| 
-|Microsoft Edge|
-|Microsoft Excel|
-|Microsoft PowerBI Desktop|
-|Microsoft Powerpoint|
-|Microsoft SQL Server 2017|
-|Microsoft SQL Server Management Studio 2017|
-|Microsoft Visual C++ Redistributes (x64)|
-|Microsoft Visual C++ Redistributes (x86)|
-|Microsoft Visual Studio Code| 
-|Microsoft Word|
-|MiKTeX 4.2 x64|
-|MobaXterm|
-|Mozilla Firefox|
-|Mplus 8.5 (X64)| 
-|Netbeans 8.2|
-|Netlogo 6.0.4|
-|NIH ImageJ|
-|Notepad ++|
-|Nvivo 12.6|
-|Olympus DSS Player Lite| 
-|Optimum ProCore 2.0 (x64)|
-|Postgresql 13.2.2 (x64)| 
-|ProM 6.8|
-|Prom Tools 6.10| 
-|PuTTY|
-|PyCharm CE|
-|Python 3.9 (other versions via conda)|
+|HRG4+ 2021-22 National Costs Grouper|
+|HRG4+ 2020-21 National Costs Grouper|
+|HRG4+ 2018-2019 Reference Costs Grouper|
+|HRG4+ 2013-2014 Reference Costs Grouper|
+|IBM Data Access 8|
+|IBM SPSS 29 x64|
+|IBM SPSS Datadriver Standalone|
+|Microsoft Data Migration Assistant 5.5.3|
+|Microsoft PowerBI|
+|Microsoft SQLODBC|
+|Microsoft Visual Studio Code|
+|Mixtex 4.2 x64|
+|Mplus|
+|Netbeans|
+|Nvivo|
+|OLYMPUS DSS PlayerLite|
+|Optimum ProCore|
+|postgresql|
+|PyCharm|
 |QGIS|
-|R 4.0.2 (other versions via conda)|
-|Rstudio Desktop|
-|SPSS Statistics|
-|Splunk Universal Forwarder|
-|Stata 17|
-|Tableau 22.1|
-|Texmaker 5.1.2| 
+|QSR Nvivo 14|
+|Rstudio|
+|SAS|
+|Splunk UniversalForwarder|
+|SQL Server Management Studio|
+|Stata|
+|Tableau|
+|Texmaker|
+|Velociraptor|
+|Visual Studio Professional|
 |VLC|
-|Weka 3.9.3|
+|VS BUild Tools|
 |Zotero|
