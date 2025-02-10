@@ -1,0 +1,30 @@
+### Basic details
+title: LASERdocs
+author: LIDA Data Analytics Team (DAT)
+email: dat@leeds.ac.uk
+description: Collection of guides on how to conduct research within LIDA 
+
+### Site build settings
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+ 
+### License config
+license: GNU GPLv3
+license_url: https://www.gnu.org/licenses/gpl-3.0.html
+
+### Site content
+#logo: https://lida.leeds.ac.uk/wp-content/uploads/2016/04/LIDA-logo.png
+
+callouts:
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: 
+    color: yellow
+  note:
+    title: Note
+    color: purple
