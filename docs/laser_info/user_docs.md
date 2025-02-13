@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LASER Access Requiremnents
+title: LASER Access Requirements
 parent: LASER Info
 nav_order: 3
 ---
