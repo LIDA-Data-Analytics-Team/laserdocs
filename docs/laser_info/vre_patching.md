@@ -1,11 +1,11 @@
 ---
 layout: default
-title: VRE Patching Schedule
+title: TRE Patching Schedule
 parent: LASER Info
 nav_order: 6
 ---
 
-# VRE Patching Schedule
+# TRE Patching Schedule
 
 Security patches are released on the 2nd Tuesday of each month.
 
