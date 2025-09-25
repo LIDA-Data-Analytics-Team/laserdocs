@@ -28,12 +28,12 @@ Budget alerts are set up for every VRE to keep you apprised of running VRE costs
 
 The screenshot above includes six numbered annotations, guiding you to parts of the Costing analysis page that will help you transform and summarise the costing data in various ways.
 
-1. **View**: A dropdown list to change the data visualised in centre screen. The default view is Accumulated costs, which present cumulative costs spent over time. Another useful view is Cost by resource, which presents a table showing the cost of each VRE component in the specified time frame (adjusted at point 2). You can also create custom views by making changes and clicking save in the top left, giving you customised reports you can come back to repeatedly with little effort.
+1. **View**: A dropdown list to change the data visualised in centre screen. The default view is Accumulated costs, which presents cumulative costs spent over time. Another useful view is Cost by resource, which presents a table showing the cost of each VRE component in the specified time frame (adjusted at point 2). You can also create custom views by making changes and clicking save in the top left, giving you customised reports you can come back to repeatedly with little effort.
 2. **Timeframe**: Specify start and end dates for the time period for which you want to visualise costs. Note the costs will update when you change the timeframe, but the budget _may_ not as this is fixed to a given duration (i.e., monthly or annual).
 3. **Group by**: Group your accumulated costs in various ways to better understand what is costing you the most money. For example, select Service name from the dropdown to compare the cumulative costs over time for storage, virtual machines (compute), backups, and more. If you're forecasted over budget and virtual machines dominate the cost, check that the [virtual machines are turned off when not in use](./portal_vms.html).
 4. **Granularity**: You can change the y-axis of the plot from cumulative cost to daily or monthly amounts, which can help identify spikes in VRE usage and associated cost.
 5. **Chart type**: Change the chart type from area to line or bars to better visualise the data for what you need to understand.
-6. **Cost proportion summaries**: Shows a basic breakdown of costs by service type or any other variable, so that you can whether storage, compute or something else accounts for the greatest proportion of your costs (and much more by changing the grouping variable).
+6. **Cost proportion summaries**: Shows a basic breakdown of costs by service type or any other variable, so that you can see whether storage, compute or something else accounts for the greatest proportion of your costs (and much more by changing the grouping variable).
 
 ## Custom views
 
