@@ -8,13 +8,13 @@ nav_order: 3
 # LIDA Research Management Process
 
 
-When a researcher contacts LIDA with a project proposal, this enters a 6-stage Research Management Process (RMP). The RMP takes the project through from the proposal and costing stages, through receiving the necessary funding and approval, to undertaking research in a secure environment and safely closing the project with destruction, dissemination and / or archiving of any project datasets. 
+When a researcher contacts LIDA with a project proposal, this enters a 6-stage Research Management Process (RMP). The RMP takes the project through from the proposal and costing stages, through receiving the necessary funding and approval, to undertaking research in a secure environment and safely closing the project with destruction, dissemination and/or archiving of any project datasets. 
 
 These are the 6 RMP stages and what you, as a researcher, will be involved in:
 
 !["Diagram of the RMP steps"](../../images/rmp/RMP_Steps.png)
 
-Here is more detail on each of the RMP steps:
+Here are more details on each of the RMP steps:
 
 **1. Proposal**
 Contact the LIDA Research and Innovation Development Manager, [Jodi Gunning](mailto:j.gunning@leeds.ac.uk), with a research proposal. Where this aligns with the LIDA business portfolio, the [DAT](mailto:dat@leeds.ac.uk) will be in touch to arrange an introductory meeting.

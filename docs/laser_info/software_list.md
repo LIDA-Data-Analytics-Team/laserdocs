@@ -22,10 +22,10 @@ List last updated: 2025-01-16
 |Alteryx 2021 with R unlicenced|
 |Amazon Java|
 |Anaconda X64|
-|Cran R 4.3.0|
+|CRAN R 4.3.0|
 |CRANProject_R 4.4.0|
 |Enroll in MDE|
-|Github Atom 1.56|
+|GitHub Atom 1.56|
 |HRG4+ 2021-22 National Costs Grouper|
 |HRG4+ 2020-21 National Costs Grouper|
 |HRG4+ 2018-2019 Reference Costs Grouper|
@@ -37,17 +37,17 @@ List last updated: 2025-01-16
 |Microsoft PowerBI|
 |Microsoft SQLODBC|
 |Microsoft Visual Studio Code|
-|Mixtex 4.2 x64|
+|MikTeX 4.2 x64|
 |Mplus|
 |Netbeans|
 |Nvivo|
 |OLYMPUS DSS PlayerLite|
 |Optimum ProCore|
-|postgresql|
+|PostgreSQL|
 |PyCharm|
 |QGIS|
 |QSR Nvivo 14|
-|Rstudio|
+|RStudio|
 |SAS|
 |Splunk UniversalForwarder|
 |SQL Server Management Studio|
@@ -57,5 +57,5 @@ List last updated: 2025-01-16
 |Velociraptor|
 |Visual Studio Professional|
 |VLC|
-|VS BUild Tools|
+|VS Build Tools|
 |Zotero|
