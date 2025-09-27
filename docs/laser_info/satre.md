@@ -33,8 +33,8 @@ Below is LIDA's self assessment of LASER against the SATRE standard.
 > |Score|Meaning        |Description|
 > |:-:  |---            |---        |
 > |0    |Not met        |The TRE does not meet this requirement (if this is Mandatory this means the TRE is not SATRE compliant)|
-> |1    |Sufficient     |The TRE meets this requirement met but there is substantial scope for improvement|
-> |2    |Satisfied      |The TRE meets this requirement met but there may still be scope for improvement|
+|1    |Sufficient     |The TRE meets this requirement, but there is substantial scope for improvement|
+|2    |Satisfied      |The TRE meets this requirement, but there may still be scope for improvement|
 > |N/A  |Not applicable |The statement is not relevant to a TRE, may apply to Recommended or Optional statements, and a very limited number of Mandatory* statements|
 > 
 > A score of 1 or above means you have met the requirement. Optionally you can use 1 and 2 to indicate potential areas of improvement in your TRE.

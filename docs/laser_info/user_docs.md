@@ -7,7 +7,7 @@ nav_order: 3
 
 
 # Requirements for LASER Access
-To be granted access to a Virtual Research Environment (VRE) within LASER, certain Information Governance requiremnts must be met by LASER users. DAT must be supplied with the following:
+To be granted access to a Virtual Research Environment (VRE) within LASER, certain Information Governance requirements must be met by LASER users. DAT must be supplied with the following:
 
 - [PI approval for access](#pi-approval)
 - [Evidence of data security training](#data-security-training)
