@@ -119,8 +119,15 @@ You can change the display settings and themes in your VRE's desktop. To display
 
 If only a few or no apps are showing when you [open Software Centre in a VRE](./software/index.html), your virtual machine needs to synchronise with the University's Software Centre service. This can be resolved by leaving Software Centre open for a while to allow the sync to happen. However, it can take 15 minutes or longer. To force the sync, follow the below steps while keeping Software Centre open:
 
+- Open Control Panel by typing "control panel" into the Start Menu search bar
+- Open Configuration Manager (you may need to change the view in control panel as shown below)
 ![Screenshot highlighting the Configuration Manager button in Windows Control Panel](../../images/troubleshoot/sccm_update_control_panel.png){:width="70%" .mx-auto}
+- In Configuration Manager, select the Actions tab 
+- In the list of Actions, select "Application Deployment Evaluation Cycle" and click the Run Now button
+- Then select "Machine Policy Retrieval & Evaluation Cycle" and click the Run Now button
 ![Screenshot highlighting the two actions to select on the Configuration Manager Actions tab. These are the Application Deployment Evaluation Cycle and the Machine Policy Retrieval actions](../../images/troubleshoot/sccm_update_config_man.png){:width="50%" .mx-auto}
+- Click Apply then OK to close Configuration Manager
+- Within the next minute or so all apps should appear in Software Centre. If not contact DAT for support.
 
 ## PackagesNotFoundError: The following packages are not available from the current channels:
 
