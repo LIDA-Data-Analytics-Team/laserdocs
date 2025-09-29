@@ -38,7 +38,7 @@ It will speed your request to include additional information in order to help us
 - What risk classification is this data?  
 - Has this been captured by the data management plan?  
 
-The DAT will then arrange with the data sender to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The sender will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT. Attaching files to a reply to that message will send them directly to us in LASER.  
+The DAT will then arrange with the data sender to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The sender will receive an automated notification inviting them to register to use the platform. Once registered and logged in they will see a message from a member of the DAT. Attaching files to a reply to that message will send them directly to us in LASER.  
 
 
 ## Export
@@ -56,4 +56,4 @@ It will speed your request to include additional information in order to help us
    - How was each file generated?  
    - What measures have been taken to minimise disclosure risk?  
 
-The DAT will then arrange with the data recipient to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The recipient will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT and their file(s) available for download.  
+The DAT will then arrange with the data recipient to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The recipient will receive an automated notification inviting them to register to use the platform. Once registered and logged in they will see a message from a member of the DAT and their file(s) available for download.  

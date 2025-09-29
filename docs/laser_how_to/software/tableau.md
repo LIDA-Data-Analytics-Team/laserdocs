@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Licence & activation
 
-Tableau can be installed via [Software Centre](./index.html) in a LASER virtual machine (VM). However, an unlicensed version will be installed as we are currently unable to provide a licensed version to everyone. Tableau offer a free 14 day trial, but for prolonged access you'll need to acquire a Tableau licence and activate it inside your LASER VM. Note that the licence is specific to a VM so may not be used to activate Tableau in every VM in your Virtual Research Environment (VRE).
+Tableau can be installed via [Software Centre](./index.html) in a LASER virtual machine (VM). However, an unlicensed version will be installed as we are currently unable to provide a licensed version to everyone. Tableau offers a free 14-day trial, but for prolonged access you'll need to acquire a Tableau licence and activate it inside your LASER VM. Note that the licence is specific to a VM so may not be used to activate Tableau in every VM in your Virtual Research Environment (VRE).
 
 The [VREs](../../laser_info/laser.html) are offline environments. Using Tableau offline means that your must perform product activation using an offline process, and that you use offline maps for the visualizations that require them.
 
