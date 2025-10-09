@@ -10,7 +10,7 @@ nav_order: 3
 
 To monitor information about the Virtual Machines (VMs) in your VRE, follow the steps on our [Portal Basics page](./portal_basics.html) to find the portal page for your VRE (otherwise known in the portal as a resource group). Once there, you should see a table listing the resources inside your VRE that are visible to you. This list should contain the same number of VMs that your VRE contains. The VMs will be named with their unique ID, e.g. lzw-p0000v01-01. You can identify VMs by matching this ID with the corresponding VM IDs shown in the LASER Storefront (where you log into your VRE).
 
-Select one of your VMs to monitor information about that VM. You should now see a page of information about your chosen VM, like shown:
+Select one of your VMs to monitor information about that VM. You should now see a page of information about your chosen VM, as shown:
 
 ![Screenshot of an Azure VM page, highlighting the start and stop buttons, the status details and size details](../../../images/az_portal/az_portal_vm_page.png){:width="100%" .mx-auto}
 
@@ -31,7 +31,7 @@ The VM size shows which Azure VM model you have been assigned. The model shown i
 The VM status shows whether the VM is in use and accruing costs. There are three main at-rest statuses: Running, Stopped, and Stopped (deallocated):
 
 1. Running: The VM is in use by a member of your research group. **While in use, it will be costing your project money.** If you see a VM running that you suspect nobody is using, a user may have disconnected, intentionally or otherwise, rather than signing out. In this case, we recommend you discuss with your group members to establish whether anyone needs this VM running and if not stop the VM to prevent unnecessary project costs.
-2. Stopped: The VM is not in active use, however **Microsoft Azure resources have not been deallocated and therefore costs are still being accrued. If user's sign out correctly, using [our instructions](../../../docs/laser_how_to/laser_logoff.html), the VM Stopped status should change to Stopped (deallocated) after a maximum of 20 mins.** If you suspect the VM has been in Stopped status for longer than 20 mins, stop the VM to prevent unnecessary project costs. Before stopping, double check whether anyone in your group is trying to use the VM.
+2. Stopped: The VM is not in active use, however **Microsoft Azure resources have not been deallocated and therefore costs are still being accrued. If users sign out correctly, using [our instructions](../../../docs/laser_how_to/laser_logoff.html), the VM Stopped status should change to Stopped (deallocated) after a maximum of 20 mins.** If you suspect the VM has been in Stopped status for longer than 20 mins, stop the VM to prevent unnecessary project costs. Before stopping, double-check whether anyone in your group is trying to use the VM.
 3. Stopped (deallocated): The VM is stopped and in a dormant state. **It will not be accruing any pay as you go costs associated with using the VM.**
 4. You may also notice other transient states, such as Stopping or Updating - these aren't important and don't affect project costs.
 

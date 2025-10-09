@@ -37,7 +37,7 @@ Common across all reports are a set of slicers at the top of the page that allow
 - **Resource Group**: Each VRE exists within a _Resource Group_ in Azure. If you have multiple VREs under the same project (eg a Tier 4 and a Tier 3 VRE) they will each exist within a _Resource Group_ with a distinct name. You can find out the names of your VRE _Resource Groups_ from the LASER Storefront under the Description of each VM or by asking a member of the DAT  
 - **Budget Code**: Each _Resource_ is tagged with a budget code, against which the costs of that resource will be charged. Some VREs may have multiple Budget Codes, though a single resource can only be tagged by a single Budget Code  
 
-**Filters** can be applied or removed by clicking on an chart or table within a report and looking to the 'Filters' blade that appears to the right of the report.  
+**Filters** can be applied or removed by clicking on a chart or table within a report and looking to the 'Filters' blade that appears to the right of the report.  
 
 Table **columns can be expanded** by selecting _'Drill on: Columns'_ and then _'Expand all down one level in the hierarchy'_ from the header icons that appear when hovering the mouse over the table.  
 
@@ -48,12 +48,12 @@ All changes made to filters, slicers, drill downs, sorts etc. can be reset to de
 The LASER Dashboard consists of the following suite of reports:  
 
 ### Project Costs  
-This report constists of two elements:
+This report consists of two elements:
 - Chart: Costs accrued over time by project as stacked columns with a budget line on a secondary axis  
 - Table: Breakdown of costs over time by project. Can drill down from yearly to daily costs by _Resource Group_ and then by _Budget Code_  
 
-### Resoure costs  
-This report constists of two elements:
+### Resource costs  
+This report consists of two elements:
 - Chart: Costs accrued over time by _Resource Category_ as stacked columns
 - Table: Breakdown of costs over time by project. You can drill down from yearly to daily costs by:  
     - _Resource Group_
@@ -69,21 +69,21 @@ Here all resources currently active in LASER can be found. By default, just the 
 - Virtual Machines
 - Storage Accounts
 - SQL Servers & Databases
-The Filters blade will allow you to include or exclude additional items.  
+The Filters blade allows you to include or exclude additional items.  
 
 The resources are grouped by _Project_ and _Resource Group_ and some essential information is included in the list such as:  
 - VM size  
-- current budget code  
+- Current budget code  
 - total cost accrued by that specific resource to date  
 
 ### VM Activity  
-Here you can see a list of Virtual Machine start & stop times as well as run durrations.  
+Here you can see a list of Virtual Machine start & stop times as well as run durations.  
 
-By default this page displays activity from teh last 30 days but this can be changed with filters.  
+By default this page displays activity from the last 30 days but this can be changed with filters.  
 
 It is not possible to show who started a Virtual Machine if it was done so via the Citrix Storefront. This activity will display with a _StartedBy_ of 'Citrix User'. Only VMs that were started from the Azure Portal will have a user name associated with that activity.  
 
-VMs that were running at the time of data refresh will not have a _VmStopped_ time and will be higlighted in blue.  
+VMs that were running at the time of data refresh will not have a _VmStopped_ time and will be highlighted in blue.  
 
 VM sessions that had lasted for longer than 24 hours will be highlighted in red.  
 

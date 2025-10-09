@@ -24,10 +24,10 @@ This is the User Guide for Planon, the desk booking system for LIDA. Planon shou
 
 ## How to log in 
 
-- Click [here](https://uolplanon-prod.planoncloud.com/) to access the Planon log in page. If this does not work, please copy the following link and paste on your browser: https://uolplanon-prod.planoncloud.com/
+- Click [here](https://uolplanon-prod.planoncloud.com/) to access the Planon login page. If this does not work, please copy the following link and paste on your browser: https://uolplanon-prod.planoncloud.com/
 	- If you are a temporary member of staff or student, log in on the left side panel with username@leeds.ac.uk. Upon first log in please use the initial password: **secret** (we highly recommend you to change this after your initial log in);
 	- If you are a permanent member of staff, log in via the UoL Single Sign-on on the right side panel with your usual University credentials.
-- When logged in, click on the ⚙ (gear icon on top right corner of your page). 
+- When logged in, click on the ⚙ (gear icon at the top right corner of your page). 
 - Once the ribbon opens, add your parent Faculty. i.e. Medicine & Health, Environment, etc.
 - After selecting your department, make sure to close the ribbon above so the options of UoL Reservations are no longer greyed out.
 

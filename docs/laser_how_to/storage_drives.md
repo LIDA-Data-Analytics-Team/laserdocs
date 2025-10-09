@@ -19,9 +19,9 @@ Permissions to the N: drive will be set up according to your project requirement
 
 Please note that file deletions are permanent. There is no 'Recycle Bin'.
 
-![Screenshot highlighting the different the VRE Shared Storage N drive, and the VM local storage M drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
+![Screenshot highlighting the different VRE Shared Storage N drive, and the VM local storage M drive](../../images/storage_drives/laser_drives_shared_highlight_2.png)
 
-## Restrict access to folder on N: drive
+## Restrict access to a folder on the N: drive
 
 Occasionally projects need to restrict sections of their VRE to specific people. For example to limit access to data according to the terms of a contract. If you need to do this, submit a request to the Data Analytics team at [dat@leeds.ac.uk](mailto:dat@leeds.ac.uk).
 
@@ -38,8 +38,8 @@ The Data Analytics Team will then complete this request.
 ## Other drives 
 The C: drive is the operating system storage and does not benefit from the same backup retention schedule as project storage. Please refrain from saving any files here.
 
-M: drive contains the user directories that contain the default _'Quick access'_ folders. It is similarly existant on the virtual machine only and we recommend that you **avoid using M: (incl. Documents, Downloads, etc.)**.  
-Files saved to user directories on M: (Documents, Downloads etc.) will not be available across the VRE, only on the VM you are currently connected to. They also do not benefit from the same backup retention schedule as project storage on N: drive.
+The M: drive contains the user directories, which include the default _'Quick access'_ folders. It similarly exists only on the virtual machine, and we recommend that you **avoid using M: (including Documents, Downloads, etc.)**.  
+Files saved to user directories on the M: drive (Documents, Downloads, etc.) will not be available across the VRE, only on the VM you are currently connected to. They also do not benefit from the same backup retention schedule as project storage on the N: drive.
 
 R: and P: drives relate to package repositories that you will only have read access to.
 

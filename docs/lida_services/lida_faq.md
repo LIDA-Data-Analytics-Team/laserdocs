@@ -35,13 +35,13 @@ We do support qualitative as well as quantitative/statistical analysis. Our secu
 LIDA has its own Information Governance Manager and we work very closely with  UoL IG/IT Assurance and UoL Data Protection Officer Rebecca Messenger-Clark (dpo@leeds.ac.uk).
 
 ## What support is there for projects that would benefit from data analytics support but don’t need tier 3 or 4 environment? 
-As with project with Tier 3 or 4 data, the DAT can support analysis work within your project and help set up storage space and provide the appropriate secure environment on our Tier 2 platform - SEED. DAT support costs will be dependent on the level of support required. LIDA do provide training courses for common research software such as GIS, R, Python etc. The DAT can provide advice & guidance as to how these are used within your project, regardless of security tier.
+As with projects with Tier 3 or 4 data, the DAT can support analysis work within your project and help set up storage space and provide the appropriate secure environment on our Tier 2 platform, SEED. DAT support costs will be dependent on the level of support required. LIDA does provide training courses for common research software such as GIS, R, Python, etc. The DAT can provide advice & guidance as to how these are used within your project, regardless of security tier.
 
 ## Is Stata available? 
 Yes, it is available in LASER. For a full list of available software please see [here](https://lida-data-analytics-team.github.io/laserdocs/docs/laser_info/software_list.html).
 
 ## Can we use ONS SRS data in LASER? 
-LIDA has AOC (Assured Organisational Connectivity) status with Office of National Statistics (ONS), and our dedicated safe room (where required) and open plan office can be used by ONS approved researchers. Potentially you could import ONS data into your LASER Virtual Research Environment (VRE), subject to user approvals.
+LIDA has AOC (Assured Organisational Connectivity) status with Office of National Statistics (ONS), and our dedicated safe room (where required) and open plan office can be used by ONS approved researchers. Potentially, you could import ONS data into your LASER Virtual Research Environment (VRE), subject to user approvals.
 
 ## If your project is already in progress and has to move to LASER, how are teams going to be supported to understand cost and implications for budgets they have already agreed with their funders? 
 Please contact the DAT as soon as possible ([dat@leeds.ac.uk](mailto:dat@leeds.ac.uk)) who will work with you to determine the requirements and cost to your project of using LASER.

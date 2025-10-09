@@ -30,9 +30,9 @@ Please feel free to reach out to a member of the DAT at [dat@leeds.ac.uk](mailto
 
 ### Ifeanyi Chukwu
 **Role** : Research Software Engineer  
-**Areas of RSE technical research interests** : Machine Learning/Artificial Intelligence, Data modelling, Cloud computing, data linkage, data managment, Secure Research Environment.   
+**Areas of RSE technical research interests** : Machine Learning/Artificial Intelligence, Data modelling, Cloud computing, data linkage, data management, Secure Research Environment.   
 **Summary of experience** : Currently supporting researchers through the Research management process and managing researchers’ resources and project flow on LASER. Supporting the data security standards such as GDPR, NHS DSPT, and ISO27001 for various projects. Before joining the DAT team in April 2022, Ifeanyi was a data scientist within the LIDA Data Scientist Development Programme. During this time he worked on a HDR-UK/DATA-CAN project using LTHT cancer referrals data and the national cancer referrals registry data, and participated in Alan Turing Data Study Groups. During this time he worked on a health & societies-related project – considering urgent cancer referrals, covid19 pandemic, and patient geodemographics.  
-**Areas of Primary expertise** : Data Science skills such as data wrangling and manipulation, data visualization, machine learning (supervised and unsupervised learning), and apache spark for managing very large-scale data. Python (including Jupyter notebook), R-studio and SQL. Data security and data risk disclosure including pseudonymization expertise. Data linkage.  
+**Areas of Primary expertise** : Data Science skills such as data wrangling and manipulation, data visualization, machine learning (supervised and unsupervised learning), and apache spark for managing very large-scale data. Python (including Jupyter notebook), RStudio and SQL. Data security and data risk disclosure including pseudonymization expertise. Data linkage.  
 **Areas of Secondary expertise** : Natural Language Processing, and Cognitive Services.  
 
 ### Fojan Ilderem
