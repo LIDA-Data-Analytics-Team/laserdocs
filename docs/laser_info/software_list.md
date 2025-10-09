@@ -13,49 +13,52 @@ Some software, such as MS Office, will be installed as standard on all virtual m
 
 Here is a full list of software available for installation in LASER VREs. This list does not include additional software that may be provided via conda environments or package repositories.
 
-List last updated: 2025-01-16
+List last updated: 2025-10-09
 
 |List of software available in LASER|
 |---|
-|Adobe Acrobat DC Standard|
-|AFD Postcode Plus|
+|Adobe Acrobat Reader 2025|
 |Alteryx 2021 with R unlicenced|
-|Amazon Java|
-|Anaconda X64|
-|Cran R 4.3.0|
-|CRANProject_R 4.4.0|
-|Enroll in MDE|
-|Github Atom 1.56|
-|HRG4+ 2021-22 National Costs Grouper|
-|HRG4+ 2020-21 National Costs Grouper|
-|HRG4+ 2018-2019 Reference Costs Grouper|
-|HRG4+ 2013-2014 Reference Costs Grouper|
-|IBM Data Access 8|
+|Amazon Java8u232|
+|Cran Project R 4.5.0 x64|
+|CRANProject_R-4.4.0_x64_PKG|
+|Git v 2.51 x64|
+|Google Chrome|
+|HRG4+_202425_National-Costs-Grouper|
+|IBM Data Access 8 X64|
 |IBM SPSS 29 x64|
+|IBM SPSS 31|
 |IBM SPSS Datadriver Standalone|
+|JASP V0.19 x64|
 |Microsoft Data Migration Assistant 5.5.3|
 |Microsoft PowerBI|
-|Microsoft SQLODBC|
-|Microsoft Visual Studio Code|
+|Microsoft PowerBI Desktop 2.131|
+|Microsoft SQLODBC 2018|
+|Microsoft Visual Studio Code 1.103.0|
+|Microsoft Visual Studio Code v1.104 (2025)|
+|Miniconda 3 x86|
 |Mixtex 4.2 x64|
-|Mplus|
+|Mplus_8.5_X64_LASER_PKG|
+|MS_SQL_STUDIO_21_x64_PKG|
 |Netbeans|
-|Nvivo|
+|Notepad ++ 8.8.1|
+|Nvivo 14.23|
 |OLYMPUS DSS PlayerLite|
-|Optimum ProCore|
-|postgresql|
+|Optimum_ProCore_2.0_x64-PKG|
+|postgresql-13.2-2-windows-x64-PKG|
 |PyCharm|
 |QGIS|
 |QSR Nvivo 14|
-|Rstudio|
-|SAS|
-|Splunk UniversalForwarder|
-|SQL Server Management Studio|
-|Stata|
+|Rapid 7|
+|Rstudio 2025 x64|
+|SAS 9.4 TS1 M8|
+|Stata 19|
+|SPSS 30|
 |Tableau|
-|Texmaker|
-|Velociraptor|
-|Visual Studio Professional|
+|SQL Server Management Studio 18|
+|Texmaker 5.1.2|
+|Velociraptor-0.7.1.1_x64_PKG|
+|Visual Studio Professional 2015|
 |VLC|
-|VS BUild Tools|
+|VS Build Tools November 2024|
 |Zotero|
