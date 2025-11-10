@@ -19,6 +19,8 @@ These are the 6 RMP stages and what you, as a researcher, will be involved in:
 ---
 config:
   theme: 'neutral'
+  themeVariables:
+    fontSize: 24px
 ---
 flowchart TD
     subgraph Proposal[**Proposal**]
