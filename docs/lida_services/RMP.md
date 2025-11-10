@@ -16,26 +16,31 @@ These are the 6 RMP stages and what you, as a researcher, will be involved in:
 {:toc}
 
 ```mermaid
+---
+config:
+  theme: 'neutral'
+---
 flowchart TD
-    subgraph Proposal
+    subgraph Proposal[**Proposal**]
     direction LR
+
     1(Contact DAT) 
         --> 2(Consultation)
     end
 
-    subgraph Pre-Grant
+    subgraph Pre-Grant[**Pre-Grant**]
     direction LR
     3(Complete Proposal) 
         --> 4(Estimate costs)
     end
 
-    subgraph Pre-Approval
+    subgraph Pre-Approval[**Pre-Approval**]
     direction LR
     5(Submit grant application)    
         --> 6(Grant decision)
     end
 
-    subgraph Setup
+    subgraph Setup[**Setup**]
     direction LR
         7@{ shape: docs, label: "Provide documentation"}
         7a@{ shape: doc, label: "Data Management Plan"}
@@ -50,13 +55,13 @@ flowchart TD
         7 --> 7c --> 10a --> 10b
     end
 
-    subgraph Active
+    subgraph Active[**Active**]
     direction LR
     11(Conduct research)
         --> 12(Export research outputs)
     end
 
-    subgraph Close
+    subgraph Close[**Close**]
     direction LR
     13(Extend, archive or destroy TRE)
     end
