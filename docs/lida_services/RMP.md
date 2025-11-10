@@ -12,7 +12,7 @@ When a researcher contacts LIDA with a project proposal, this enters a 6-stage R
 
 These are the 6 RMP stages and what you, as a researcher, will be involved in:  
 
-* seed list
+1. TOC
 {:toc}
 
 ```mermaid
@@ -66,10 +66,10 @@ flowchart TD
 
 Here are more details on each of the RMP steps:
 
-## 1. Proposal  
+## Proposal  
 Contact the Data Analytics Team ([dat@leeds.ac.uk](mailto:dat@leeds.ac.uk)), with your idea for a research proposal. The DAT will respond to arrange an introductory meeting, if necessary, to discuss the project concept and if/how LASER might be appropriate.  
 
-## 2. Pre-grant  
+## Pre-grant  
 If appropriate to continue exploring LASER and/or DAT Support the DAT will provide a Project Proposal Form and guidance for its completion. 
 
 This form will capture project requirements including the [risk classification](docs/laser_info/tiering.md) of project data, any necessary regulatory compliance, computational resources, and any intended [collaboration with the DAT](docs/lida_services/dat.md).  
@@ -78,10 +78,10 @@ Using the requirements gathered during this stage the DAT will work with IT Serv
 
 The DAT can help with any queries while completing the grant application or business case. Please provide a copy of the final submission to LIDA.  
 
-## 3. Pre-approval  
+## Pre-approval  
 After submitting the grant application, the project will move to the Pre-approval stage. Contact the DAT with any ongoing queries and upon receiving notification of successful funding, to move the project into the Setup stage.  
 
-## 4. Setup  
+## Setup  
 Once funding has been successfully sourced, we can make a start on setting up your Trusted Research Environment.  
 
 This stage is largely concerned with the collection of required documentation, including
@@ -99,7 +99,7 @@ Access to the TRE will be granted upon submission of the required [User Document
 
 DAT will be on hand at every step to offer guidance and support as necessary.  
 
-## 5. Active  
+## Active  
 During the Active cycle of your project the DAT are on hand to assist with:  
 - first line support including new user induction and training, troubleshooting and use of research tools  
 - raise any technical requests with IT on researcher's behalf  
@@ -109,7 +109,7 @@ During the Active cycle of your project the DAT are on hand to assist with:
 - review of resource allocation and changes to TRE configuration  
 - data destruction and completion of required assurances  
 
-## 6. Close  
+## Close  
 Prior to the project end date the DAT will request a status update regarding the impending project completion.  
 
 For projects using LASER, the options are to: 
