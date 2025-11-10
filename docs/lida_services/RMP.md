@@ -72,7 +72,7 @@ Contact the Data Analytics Team ([dat@leeds.ac.uk](mailto:dat@leeds.ac.uk)), wit
 ## Pre-grant  
 If appropriate to continue exploring LASER and/or DAT Support the DAT will provide a Project Proposal Form and guidance for its completion. 
 
-This form will capture project requirements including the [risk classification](docs/laser_info/tiering.md) of project data, any necessary regulatory compliance, computational resources, and any intended [collaboration with the DAT](docs/lida_services/dat.md).  
+This form will capture project requirements including the [risk classification](../laser_info/tiering.html) of project data, any necessary regulatory compliance, computational resources, and any intended [collaboration with the DAT](../lida_services/dat.html).  
 
 Using the requirements gathered during this stage the DAT will work with IT Services to provide an indicative cost for inclusion within your grant proposal.  
 
@@ -95,7 +95,7 @@ Once we have received a finalised DMP we will undertake a Risk Assessment and on
 
 We can only transfer data to your TRE once it has been built & tested and there are appropriate Data Sharing Agreements (or equivalent) in place to be able to demonstrate our legal right to process the data.  
 
-Access to the TRE will be granted upon submission of the required [User Documentation](docs/laser_info/user_docs.md) and an offer of Induction Training will be made.  
+Access to the TRE will be granted upon submission of the required [User Documentation](../laser_info/user_docs.html) and an offer of Induction Training will be made.  
 
 DAT will be on hand at every step to offer guidance and support as necessary.  
 
@@ -103,8 +103,8 @@ DAT will be on hand at every step to offer guidance and support as necessary.
 During the Active cycle of your project the DAT are on hand to assist with:  
 - first line support including new user induction and training, troubleshooting and use of research tools  
 - raise any technical requests with IT on researcher's behalf  
-- [data imports](docs/laser_how_to/transfer/index.md) including compliance checks (against data sharing agreements and other contractual/legal obligations)  
-- [data exports](docs/laser_how_to/transfer/index.md) including disclosure and compliance checks  
+- [data imports](../laser_how_to/transfer/index.html) including compliance checks (against data sharing agreements and other contractual/legal obligations)  
+- [data exports](../laser_how_to/transfer/index.html) including disclosure and compliance checks  
 - audit of user training and project compliance  
 - review of resource allocation and changes to TRE configuration  
 - data destruction and completion of required assurances  
