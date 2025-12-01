@@ -2,7 +2,7 @@
 layout: default
 title: Directions to LIDA
 parent: LIDA Services
-nav_order: 4
+nav_order: 6
 ---
 
 # Directions to the Leeds Institute for Data Analytics (LIDA) 
