@@ -22,7 +22,9 @@ Where you have undertaken research supported by LIDA services or equipment, for 
 All research active staff and Post-Doctoral Research Assistants and PhD Students (as agreed with supervisors, in advance of conducting research) are expected follow these guidelines:  
 1. Staff wholly or partly based in LIDA should include LIDA as an affiliation (e.g. in addition to their department) in their author information for each publication.  
 2. All publications from LASER research should include an acknowledgement of the support from the DAT, LASER and LIDA, for example;  
+
     > “The authors acknowledge the use of the LASER platform and assistance provided by the Data Analytics Team in Leeds Institute for Data Analytics, University of Leeds.”  
+    
 3. When a member of LIDA staff / DAT does bespoke work on a research project;  
     - Where the publication or report draws on their intellectual contribution, they should be included within the author list of the resultant publication or report and included in discussions during drafting and publication.  
     - Where their contribution to the publication or report is less direct, they should be acknowledged individually.  
