@@ -2,7 +2,7 @@
 layout: default
 title: Desk Reservations
 parent: LIDA Services
-nav_order: 5
+nav_order: 7
 ---
 
 # Reserving a Desk in LIDA
