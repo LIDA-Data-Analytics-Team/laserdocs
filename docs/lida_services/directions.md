@@ -18,18 +18,18 @@ level where you enter the building from level 7.
 
 | | |
 |---|---|
-| <img src="../../images/LIDA_directions/image_1.jpg" style="max-width: 300px; hieght: auto;"> | Enter through the main entrance on Clarendon Way|
-| <img src="../../images/LIDA_directions/image_2.jpg" style="max-width: 300px; hieght: auto;"> | Turn left when you get inside and take one of the double lifts up to level 11.<br>There are stairs opposite the lift if you prefer.|
-| <img src="../../images/LIDA_directions/image_3.jpg" style="max-width: 300px; hieght: auto;"> | Turn left out of the lift and LIDA reception is ahead of you.<br>If you take the stairs, turn right.<br>LIDA is a secure area so please wait in reception.|
+| <img src="../../images/LIDA_directions/image_1.jpg" style="max-width: 250px; hieght: auto;"> | Enter through the main entrance on Clarendon Way|
+| <img src="../../images/LIDA_directions/image_2.jpg" style="max-width: 250px; hieght: auto;"> | Turn left when you get inside and take one of the double lifts up to level 11.<br>There are stairs opposite the lift if you prefer.|
+| <img src="../../images/LIDA_directions/image_3.jpg" style="max-width: 250px; hieght: auto;"> | Turn left out of the lift and LIDA reception is ahead of you.<br>If you take the stairs, turn right.<br>LIDA is a secure area so please wait in reception.|
 
 ## From level 7 campus entrance
 
 | | |
 |---|---|
-| <img src="../../images/LIDA_directions/image_4.jpg" style="max-width: 300px; hieght: auto;"> | Entrance to Worsley from campus level is just past the sustainable garden. You will see this long walkway towards a building.<br>The direction says Astbury Building- but Worsley is also this way so walk along here.|
-| <img src="../../images/LIDA_directions/image_5.jpg" style="max-width: 300px; hieght: auto;"> | You will come to this entrance straight ahead “North-South campus access route, Worsley Building”.<br>Walk through and continue.|
-| <img src="../../images/LIDA_directions/image_6.jpg" style="max-width: 300px; hieght: auto;"> | You will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health.<br>Turn left and walk over to the lifts/stairs.|
-| <img src="../../images/LIDA_directions/image_3.jpg" style="max-width: 300px; hieght: auto;"> |LIDA reception is to the left when you get to level 11.<br>If you take the stairs, turn right.|
+| <img src="../../images/LIDA_directions/image_4.jpg" style="max-width: 250px; hieght: auto;"> | Entrance to Worsley from campus level is just past the sustainable garden. You will see this long walkway towards a building.<br>The direction says Astbury Building- but Worsley is also this way so walk along here.|
+| <img src="../../images/LIDA_directions/image_5.jpg" style="max-width: 250px; hieght: auto;"> | You will come to this entrance straight ahead “North-South campus access route, Worsley Building”.<br>Walk through and continue.|
+| <img src="../../images/LIDA_directions/image_6.jpg" style="max-width: 250px; hieght: auto;"> | You will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health.<br>Turn left and walk over to the lifts/stairs.|
+| <img src="../../images/LIDA_directions/image_3.jpg" style="max-width: 250px; hieght: auto;"> |LIDA reception is to the left when you get to level 11.<br>If you take the stairs, turn right.|
 
    
 
