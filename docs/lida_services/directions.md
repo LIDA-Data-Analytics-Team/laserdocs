@@ -22,8 +22,6 @@ level where you enter the building from level 7.
 
 ## From level 7 campus entrance
 
-| | |
-|---|---|
 | <img src="../../images/LIDA_directions/image_4.jpg" style="max-width: 250px; height: auto;"> | Entrance to Worsley from campus level is just past the sustainable garden. You will see this long walkway towards a building.<br>The direction says Astbury Building- but Worsley is also this way so walk along here.|
 | <img src="../../images/LIDA_directions/image_5.jpg" style="max-width: 250px; height: auto;"> | You will come to this entrance straight ahead “North-South campus access route, Worsley Building”.<br>Walk through and continue.|
 | <img src="../../images/LIDA_directions/image_6.jpg" style="max-width: 250px; height: auto;"> | You will walk into an open plan seating area welcoming you to the Faculty of Medicine and Health.<br>Turn left and walk over to the lifts/stairs.|
