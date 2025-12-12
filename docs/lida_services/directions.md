@@ -16,8 +16,6 @@ level where you enter the building from level 7.
 
 ## From main entrance, Clarendon Way
 
-| | |
-|---|---|
 | <img src="../../images/LIDA_directions/image_1.jpg" style="max-width: 250px; height: auto;"> | Enter through the main entrance on Clarendon Way|
 | <img src="../../images/LIDA_directions/image_2.jpg" style="max-width: 250px; height: auto;"> | Turn left when you get inside and take one of the double lifts up to level 11.<br>There are stairs opposite the lift if you prefer.|
 | <img src="../../images/LIDA_directions/image_3.jpg" style="max-width: 250px; height: auto;"> | Turn left out of the lift and LIDA reception is ahead of you.<br>If you take the stairs, turn right.<br>LIDA is a secure area so please wait in reception.|
