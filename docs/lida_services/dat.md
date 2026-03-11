@@ -30,9 +30,9 @@ Please feel free to reach out to a member of the DAT at [dat@leeds.ac.uk](mailto
 
 ### Ifeanyi Chukwu
 **Role** : Research Software Engineer  
-**Areas of RSE technical research interests** : Machine Learning/Artificial Intelligence, Data modelling, Cloud computing, data linkage, data management, Secure Research Environment.   
+**Areas of RSE technical research interests** : Machine Learning/Artificial Intelligence, Data modelling, Cloud computing, data linkage, data managment, Secure Research Environment.   
 **Summary of experience** : Currently supporting researchers through the Research management process and managing researchers’ resources and project flow on LASER. Supporting the data security standards such as GDPR, NHS DSPT, and ISO27001 for various projects. Before joining the DAT team in April 2022, Ifeanyi was a data scientist within the LIDA Data Scientist Development Programme. During this time he worked on a HDR-UK/DATA-CAN project using LTHT cancer referrals data and the national cancer referrals registry data, and participated in Alan Turing Data Study Groups. During this time he worked on a health & societies-related project – considering urgent cancer referrals, covid19 pandemic, and patient geodemographics.  
-**Areas of Primary expertise** : Data Science skills such as data wrangling and manipulation, data visualization, machine learning (supervised and unsupervised learning), and apache spark for managing very large-scale data. Python (including Jupyter notebook), RStudio and SQL. Data security and data risk disclosure including pseudonymization expertise. Data linkage.  
+**Areas of Primary expertise** : Data Science skills such as data wrangling and manipulation, data visualization, machine learning (supervised and unsupervised learning), and apache spark for managing very large-scale data. Python (including Jupyter notebook), R-studio and SQL. Data security and data risk disclosure including pseudonymization expertise. Data linkage.  
 **Areas of Secondary expertise** : Natural Language Processing, and Cognitive Services.  
 
 ### Fojan Ilderem
@@ -55,3 +55,10 @@ Please feel free to reach out to a member of the DAT at [dat@leeds.ac.uk](mailto
 **Summary of Experience** : Lydia joined the DAT team after working as a Data Scientist at LIDA through the Data Scientist Development Program. In her current role as a Research Software Technician, she supports the day-to-day running of LASER, helping researchers access the data they need from trusted research environments while ensuring compliance with data-sharing agreements and assisting in the research management process. Before joining LIDA, she completed an MSc in Artificial Intelligence and Data Analytics and a BSc in Environmental Science, while working as a research assistant. She is proficient in computing and data analytics, staying up to date with emerging technologies and research, and is motivated by helping others optimise data for the public good.  
 **Areas of Primary Expertise** : Data Science, Python, Software Development, AI/ML, digital ethics and data storytelling.  
 **Areas of Secondary Expertise** : Data Visualisation and sustainable technology.  
+
+### Ameena Farooq
+**Role** : Reserach Software Engineer
+**Areas of RSE technical research interests** : Artificial Intelligence, Machine Learning, Data Visualisation, Agentic AI, Secure Research Environments.
+**Summary of Experience** : Ameena holds a masters degree in Advanced Computer Science from University of Leeds. She has a strong foundation in AI, machine learning and data science. At her present role in LIDA she supports researchers through the research management process and managing their project in LASER, also making sure data compliance is met with GDPR and ISO27001 security standards. Prior to joining LIDA Ameena worked as a highly skilled engineer in the AI team at Defence Research and Developement Organisation (India). During her time there she worked on SONAR image processing and algorithm design for object detection on SONAR images. Ameena is passionate about real world data-driven problem solving and incorporating latest technologies to these solutions.
+**Areas of Primary Expertise** : AI/ML, Python, Data Science, Data management, Deep Learning, Neural Networks
+**Areas of Secondary Expertise** : Natural Language Processing, SQL.
