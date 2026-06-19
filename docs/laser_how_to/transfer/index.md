@@ -20,6 +20,12 @@ LASER's Secure File Transfer platform, [Biscom SFT](https://laser-sft.leeds.ac.u
 
 Only organisational email accounts can be used for transfers to and from LASER, and exports must be to named individuals.  
 
+{: .important }
+> Due to the wide variation in transfer requests, it is challenging to commit to a fixed timeframe for completion. Several factors can influence delivery timelines, including the nature of the request, the volume and complexity of the content, and whether the required transfer mechanism is already in place.  
+> In some cases, the DAT may need to follow up to clarify discrepancies in the requested content or to gather additional context.  
+> We kindly ask that you take these considerations into account when submitting transfer requests and provide as much advance notice as possible. While most requests are completed more quickly, complex transfers can occasionally take up to a couple of weeks.  
+> If your request is time-sensitive, please let us know so we can do our best to prioritise it where feasible.  
+
 * seed list  
 {:toc}
 
