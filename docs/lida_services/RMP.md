@@ -6,39 +6,120 @@ nav_order: 3
 ---
 
 # LIDA Research Management Process
-
+{:.no_toc}
 
 When a researcher contacts LIDA with a project proposal, this enters a 6-stage Research Management Process (RMP). The RMP takes the project through from the proposal and costing stages, through receiving the necessary funding and approval, to undertaking research in a secure environment and safely closing the project with destruction, dissemination and/or archiving of any project datasets. 
 
-These are the 6 RMP stages and what you, as a researcher, will be involved in:
+These are the 6 RMP stages and what you, as a researcher, will be involved in:  
 
-!["Diagram of the RMP steps"](../../images/rmp/RMP_Steps.png)
+1. TOC
+{:toc}
+
+```mermaid
+---
+config:
+  theme: 'neutral'
+  themeVariables:
+    fontSize: 24px
+---
+flowchart TD
+    subgraph Proposal[**Proposal**]
+    direction LR
+
+    1(Contact DAT) 
+        --> 2(Consultation)
+    end
+
+    subgraph Pre-Grant[**Pre-Grant**]
+    direction LR
+    3(Complete Proposal) 
+        --> 4(Estimate costs)
+    end
+
+    subgraph Pre-Approval[**Pre-Approval**]
+    direction LR
+    5(Submit grant application)    
+        --> 6(Grant decision)
+    end
+
+    subgraph Setup[**Setup**]
+    direction LR
+        7@{ shape: docs, label: "Provide documentation"}
+        7a@{ shape: doc, label: "Data Management Plan"}
+        7b@{ shape: doc, label: "Data Sharing Agreement(s)"}
+        7c@{ shape: doc, label: "User Agreement, <br> Training evidence"}
+        8(Build TRE)
+        9(Import data)
+        10a(Grant access)
+        10b(User induction training)
+        7 --> 7a --> 8
+        7 --> 7b --> 9
+        7 --> 7c --> 10a --> 10b
+    end
+
+    subgraph Active[**Active**]
+    direction LR
+    11(Conduct research)
+        --> 12(Export research outputs)
+    end
+
+    subgraph Close[**Close**]
+    direction LR
+    13(Extend, archive or destroy TRE)
+    end
+
+    Proposal --> Pre-Grant --> Pre-Approval --> Setup --> Active --> Close
+```
 
 Here are more details on each of the RMP steps:
 
-**1. Proposal**
-Contact the LIDA Research and Innovation Development Manager, [Jodi Gunning](mailto:j.gunning@leeds.ac.uk), with a research proposal. Where this aligns with the LIDA business portfolio, the [DAT](mailto:dat@leeds.ac.uk) will be in touch to arrange an introductory meeting.
+## Proposal  
+Contact the Data Analytics Team ([dat@leeds.ac.uk](mailto:dat@leeds.ac.uk)), with your idea for a research proposal. The DAT will respond to arrange an introductory meeting, if necessary, to discuss the project concept and if/how LASER might be appropriate.  
 
-**2. Pre-grant**
-The DAT will provide a project proposal form and guidance for its completion. The form will capture the classification of any data, any necessary regulatory compliance and computational resources, and any intended collaboration with the DAT, who offer experience in data management, analysis and modelling and writing research code. 
+## Pre-grant  
+If appropriate to continue exploring LASER and/or DAT Support the DAT will provide a Project Proposal Form and guidance for its completion. 
 
-If the Leeds Analytics Secure Environment for Research (LASER) is the appropriate research location for your project’s data, then the DAT will scope the requirements and provide an indicative cost for inclusion within your grant proposal. Please allow for up to 5 days to receive a full costing as part of your grant development planning. The finalised form will be reviewed within LIDA and can then inform the grant application.
+This form will capture project requirements including the [risk classification](../laser_info/tiering.html) of project data, any necessary regulatory compliance, computational resources, and any intended [collaboration with the DAT](../lida_services/dat.html).  
 
-The DAT can help with any queries while completing the grant application or business case. Any sections of the application relating to LIDA will be reviewed within LIDA, in a timely manner, prior to submission. Please provide a copy of the final submission to LIDA. 
+Using the requirements gathered during this stage the DAT will work with IT Services to provide an indicative cost for inclusion within your grant proposal.  
 
-**3. Pre-approval**
-After submitting the grant application, the project will be in the Pre-approval stage. Contact the DAT with any ongoing queries and upon receiving notification of successful funding, to move the project into the Setup stage.
+The DAT can help with any queries while completing the grant application or business case. Please provide a copy of the final submission to LIDA.  
 
-**4. Setup**
-The DAT will guide you in providing a Data Management Plan, any required ethical approval and Data Sharing Agreements, and in undertaking a Data Protection Impact Assessment for your project data, in compliance with the Data Protection Act 2018. These documents will undergo a risk assessment and review led by IT Assurance. 
-If you will be using LASER, the DAT will request that IT build and test a Virtual Research Environment (VRE). All new users will need to sign a LASER user agreement and complete information security training, whereupon IT will enable VRE access. The DAT will provide an induction to LASER and LIDA, including to the safe room, as applicable. At this point, data can be prepared or requested for loading into the VRE.
-The DAT is currently involved in receiving and importing any data into LASER, though the facility is being developed to enable researchers to undertake data transfer, depending on the security classification of the project data. If the VRE is classified in the top tier (Tier 4) of security, the DAT will apply checks to ensure the received data are complete and in accordance with the data sharing agreement, prior to data transfer.
+## Pre-approval  
+After submitting the grant application, the project will move to the Pre-approval stage. Contact the DAT with any ongoing queries and upon receiving notification of successful funding, to move the project into the Setup stage.  
 
-**5. Active**
-As you undertake the project research, you will be notified of any ongoing training requirements, and can contact the DAT for operational or technical support. The DAT may assist with any further data transfer (ingress or egress), data destruction, and any analytics or training requirements. 
-The DAT can also support the use of scientific computing tools, including Python and R, within the VRE and will raise any technical requests with IT on your behalf, for example regarding software installation, data backup and changes in user or VRE resource allocation.
+## Setup  
+Once funding has been successfully sourced, we can make a start on setting up your Trusted Research Environment.  
 
-**6. Close**
-Prior to the project end date, the DAT will request a status update, regarding the impending project completion. For projects using LASER, the options are to destroy the project VRE or extend it through either a project extension or a new research proposal. If the VRE is to be destroyed, you may first wish to arrange for data extraction for dissemination, storage or archiving. Non-sensitive data may be archived in the Research Data Leeds Repository. 
-Once any data extraction is complete, and you have completed a VRE destruction request form, the DAT will request that IT undertake the destruction and will provide confirmation of destruction to the researcher. 
-If you extend or develop the project through a new proposal, the project will return to step one of the RMP. The extension or new proposal may request that the VRE is continued, or that the project data be securely stored using Azure archive storage.
+This stage is largely concerned with the collection of required documentation, including
+- Data Management Plan / Data Protection Impact Assessment  
+- Data Sharing Agreement(s) or appropriate equivalent  
+- User docs consisting of:  
+    - LASER User Agreement  
+    - Evidence of mandatory training  
+
+Once we have received a finalised DMP we will undertake a Risk Assessment and once satisfied all data risk is appropriately managed we can request IT Services build your Trusted Research Environment (TRE).  
+
+We can only transfer data to your TRE once it has been built & tested and there are appropriate Data Sharing Agreements (or equivalent) in place to be able to demonstrate our legal right to process the data.  
+
+Access to the TRE will be granted upon submission of the required [User Documentation](../laser_info/user_docs.html) and an offer of Induction Training will be made.  
+
+DAT will be on hand at every step to offer guidance and support as necessary.  
+
+## Active  
+During the Active cycle of your project the DAT are on hand to assist with:  
+- first line support including new user induction and training, troubleshooting and use of research tools  
+- raise any technical requests with IT on researcher's behalf  
+- [data imports](../laser_how_to/transfer/index.html) including compliance checks (against data sharing agreements and other contractual/legal obligations)  
+- [data exports](../laser_how_to/transfer/index.html) including disclosure and compliance checks  
+- audit of user training and project compliance  
+- review of resource allocation and changes to TRE configuration  
+- data destruction and completion of required assurances  
+
+## Close  
+Prior to the project end date the DAT will request a status update regarding the impending project completion.  
+
+For projects using LASER, the options are to: 
+- Continue as is with a new end date. 
+- Mothball for a defined period (no access, reduced costs).
+- Destroy TRE (and all data) and end cost accrual. 

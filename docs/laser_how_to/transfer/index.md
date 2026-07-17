@@ -20,6 +20,15 @@ LASER's Secure File Transfer platform, [Biscom SFT](https://laser-sft.leeds.ac.u
 
 Only organisational email accounts can be used for transfers to and from LASER, and exports must be to named individuals.  
 
+{: .important }
+> Due to the wide variation in transfer requests, it is challenging to commit to a fixed timeframe for completion. Several factors can influence delivery timelines, including the nature of the request, the volume and complexity of the content, and whether the required transfer mechanism is already in place.  
+>  
+> In some cases, the DAT may need to follow up to clarify discrepancies in the requested content or to gather additional context.  
+>  
+> We kindly ask that you take these considerations into account when submitting transfer requests and provide as much advance notice as possible. While most requests are completed more quickly, complex transfers can occasionally take up to a couple of weeks.  
+>  
+> If your request is time-sensitive, please let us know so we can do our best to prioritise it where feasible.  
+
 * seed list  
 {:toc}
 
@@ -38,7 +47,7 @@ It will speed your request to include additional information in order to help us
 - What risk classification is this data?  
 - Has this been captured by the data management plan?  
 
-The DAT will then arrange with the data sender to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The sender will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT. Attaching files to a reply to that message will send them directly to us in LASER.  
+The DAT will then arrange with the data sender to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The sender will receive an automated notification inviting them to register to use the platform. Once registered and logged in they will see a message from a member of the DAT. Attaching files to a reply to that message will send them directly to us in LASER.  
 
 
 ## Export
@@ -56,4 +65,4 @@ It will speed your request to include additional information in order to help us
    - How was each file generated?  
    - What measures have been taken to minimise disclosure risk?  
 
-The DAT will then arrange with the data recipient to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The recipient will receive an automated notification inviting them to register use the platform. Once registered and logged in they will see a message from a member of the DAT and their file(s) available for download.  
+The DAT will then arrange with the data recipient to facilitate the transfer, most commonly by inviting them to use the LASER SFT. The recipient will receive an automated notification inviting them to register to use the platform. Once registered and logged in they will see a message from a member of the DAT and their file(s) available for download.  

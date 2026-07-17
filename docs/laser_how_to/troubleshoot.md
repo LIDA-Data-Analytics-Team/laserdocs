@@ -15,7 +15,7 @@ Here are the answers to some common issues. If you have a problem not covered he
 
 ## Citrix Workspace isn't showing in Software Centre
 
-If Citrix Workspace isn't in Software Centre and youre using a university computer on campus, please contact DAT for support. If you're using a university laptop remotely, it's likely that your Software Centre needs to connect to the campus network to update.
+If Citrix Workspace isn't in Software Centre and you're using a university computer on campus, please contact DAT for support. If you're using a university laptop remotely, it's likely that your Software Centre needs to connect to the campus network to update.
 
 If you're working remotely, connect to the university VPN and Software Centre will update. The update may take 30 mins or longer to complete. If it doesn't update quickly you may be able to force the update by following our guide to [syncing Software Centre](#some-apps-are-missing-from-software-centre-in-my-vre).
 
@@ -36,13 +36,13 @@ If you receive the below error when trying to connect to [https://laser.leeds.ac
 
 ![Screenshot illustrating a This site can't be reached error message](../../images/troubleshoot/this_site_cant_be_reached.png){:width="50%" .mx-auto}
 
-If instead you get an error reporting either "Cannot complete your request" or "Connection failed with status (unknown client error 1110)", then try connecting to LASER using an incognito/private browser window. If this succeeds, you'll need to clear your browsing history, cookies and cache to successfully access LASER from a regular browser window.
+If, instead, you get an error reporting either "Cannot complete your request" or "Connection failed with status (unknown client error 1110)", then try connecting to LASER using an incognito/private browser window. If this succeeds, you'll need to clear your browsing history, cookies and cache to successfully access LASER from a regular browser window.
 
 ## My VRE won't start: Cannot start desktop
 
 ![Screenshot illustrating the Cannot start desktop error from Citrix](../../images/troubleshoot/cannot_start_desktop.png)
 
-If you see the error message "Cannot start desktop" then chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no-one else is currently logged in.
+If you see the error message "Cannot start desktop" then chances are good that another member of your team is currently logged in to that specific virtual machine. Try another VM if there is one available within the VRE, or check that no one else is currently logged in.
 
 A VM will remain 'occupied' even if the user has disconnected. 
 
@@ -73,7 +73,7 @@ When you first click on the VM in the storefront and you get the wheel spinning 
 
 The .ica file, this file contains config and connection information for Citrix workspace application to make a connection to the VM. Once a connection has been made, then VM window then logs your in and displays the legal notice which users have to accept.
 
-If your failed session sat on the connecting screen that tells us that the Citrix application on your computer could not make a connection to the VM. This could be any number of reasons. A weak internet connection would cause this, issues with the Citrix workspace application on your computer, or in fact any range of issues on your computer that would result in a connection not being able to be made.
+If your failed session sat on the connecting screen that tells us that the Citrix application on your computer could not make a connection to the VM. This could be due to any number of reasons. A weak internet connection would cause this, issues with the Citrix workspace application on your computer, or in fact any range of issues on your computer that would result in a connection not being able to be made.
 
 After confirming you have a strong internet connection please contact a member of the [DAT](mailto:dat@leeds.ac.uk) who will assist.
 
@@ -86,7 +86,7 @@ The steps below have been tested using Ubuntu OS and Firefox browser:
     - Open the Citrix Workspace for Linux [download page](https://www.citrix.com/en-gb/downloads/workspace-app/linux/) and go to the latest version
     - Scroll to Available Downloads > Debian Packages > Full Packages (Self-Service Support) > Citrix Workspace app for Linux (x86_64)
     - Download and run the .deb file (if you're not running Ubuntu, you may need a different file)
-- Go to https://laser.leeds.ac.uk and login.
+- Go to https://laser.leeds.ac.uk and log in.
 - Select Detect Receiver
 - Check box to always open receiver links:<br>
 ![Screenshot of the popup prompting the user to allow an open receiver, with the tickbox checked](../../images/troubleshoot/linux_login/allow_open_receiver_link.PNG){:width="70%" .mx-auto}
@@ -129,9 +129,9 @@ If only a few or no apps are showing when you [open Software Centre in a VRE](./
 - Click Apply then OK to close Configuration Manager
 - Within the next minute or so all apps should appear in Software Centre. If not contact DAT for support.
 
-## PackagesNotFoundError: The following packages are not available from the currenet channels:
+## PackagesNotFoundError: The following packages are not available from the current channels:
 
-You may encouter this challenge with error message above when trying to install some python packages via the conda command prompt within your VM. 
+You may encounter this challenge with error message above when trying to install some python packages via the conda command prompt within your VM. 
 
 There are two possible ways to solve this:
 
@@ -145,9 +145,9 @@ It is very easy to install any package through anaconda navigator, simply search
 - Select base (root) or any other environment you're using    
 - Select Not installed from the drop down menu as in in red box #2    
 - Search for the packages you want as in in red box #3    
-- Slect the specific package as in in red box #4    
-- click on Apply as in in red box #5 and #6
-![Screenshot highlighting the six steps to follow for package installation in Anaconda Navigator](../../images/troubleshoot/install_package_anaconda_navigator_2.png) Import package in your IDE and use as normal.
+- Select the specific package as in red box #4    
+- click on Apply as in red boxes #5 and #6
+![Screenshot highlighting the six steps to follow for package installation in Anaconda Navigator](../../images/troubleshoot/install_package_anaconda_navigator_2.png) Import the package in your IDE and use as normal.
 
 **2. Select LASER_Conda-Forge_remote during Artifactory setup** - 
 Here's a guide on Artifactory Set up from our website. [Setting up Artifactory](https://github.com/LIDA-Data-Analytics-Team/laserdocs/blob/gh-pages/docs/laser_how_to/software/artifactory.md)
@@ -221,7 +221,7 @@ If you have tried to install these software and got an error message try looking
 
 See our guide to [monitoring VMs using Azure Portal](./az_portal/portal_vms.html).
 
-## Why is my LASER desktop display a different resolution to the desktop I use to access LASER?
+## Why does my LASER desktop display at a different resolution than the desktop I use to access LASER?
 
 Windows often scales the display to make text larger and easier to read, altering the resolution displayed. By default, LASER displays VRE desktops at this scaled resolution rather than your monitor's native resolution.
 

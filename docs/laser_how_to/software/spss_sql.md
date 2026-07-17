@@ -19,7 +19,7 @@ The 'SQL Server Wire Protocol' driver you'll be using only supports _Windows Aut
 {: .important }
 > During installation of IBM Data Access you will be asked to select file paths and settings; just accept all defaults and hit 'Next' until completion.  
 >  
-> There are 3 installations to go through; be aware some windows may open behind others so be prepared for a bit of alt+tab action.  
+> There are 3 installations to go through; be aware some windows may open behind others, so be prepared to use Alt+Tab to bring windows to the front.  
 
 ## Querying an Azure SQL Database from SPSS Statistics  
 1. From SPSS Statistics Data Editor, go to File --> Import Data --> Database --> New Query  

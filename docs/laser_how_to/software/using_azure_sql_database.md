@@ -38,7 +38,7 @@ Azure SQL Database server names take the form `<ServerName>.database.windows.net
 
 LASER uses _'Azure Active Directory - Interactive'_ authentication to enable Contained Users to connect to Azure SQL Databases.
 
-Few ODBC drivers currently support 'Azure Active Directory - Interactive' authentication, including 'SQL Server Native Client 11.0'. A driver that does support it is '**ODBC Driver 17 For SQL Server**', so this must be specified in your connection string.
+Few ODBC drivers currently support 'Azure Active Directory - Interactive' authentication, including 'SQL Server Native Client 11.0'. A driver that does support it is '**ODBC Driver 17 for SQL Server**', so this must be specified in your connection string.
 
 Azure AD Interactive Authentication uses Azure Active Directory Multi-Factor Authentication technology to set up connection. In this mode, by providing the login ID, an Azure Authentication dialog is triggered and allows the user to input the password to complete the connection. The username is passed in the connection string.
 
