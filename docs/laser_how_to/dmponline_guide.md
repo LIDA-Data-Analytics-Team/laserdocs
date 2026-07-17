@@ -9,7 +9,7 @@ nav_order: 8
 
 This guide walks you through creating a new LASER Project Proposal using DMPonline, and sharing it with the LIDA Data Analytics Team.
 
-**1. Sign in to DMPonline**: Go to [dmponline.dcc.ac.uk](https://dmponline.dcc.ac.uk) and click **Sign in with your institutional credentials**.
+**1. Sign in to DMPonline**: Go to [dmponline.leeds.ac.uk](https://dmponline.leeds.ac.uk/) and click **Sign in with your institutional credentials**.
 
 ![DMPonline sign-in page with the "Sign in with your institutional credentials" button highlighted](../../images/DMPonline/login_page.png)
 
