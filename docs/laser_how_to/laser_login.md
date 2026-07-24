@@ -2,7 +2,7 @@
 layout: default
 title: Connect to a TRE
 parent: LASER How To
-nav_order: 1
+nav_order: 2
 ---
 
 # Connect to a Trusted Research Environment
