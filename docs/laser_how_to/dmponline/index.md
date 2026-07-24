@@ -2,7 +2,7 @@
 layout: default
 title: LASER Project Proposal in DMPonline 
 parent: LASER How To
-nav_order: 8
+nav_order: 1
 has_children: true
 ---
 
