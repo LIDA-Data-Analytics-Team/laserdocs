@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sign in to DMPonline 
-parent: LASER Project Proposal in DMPonline
+parent: LASER Project Proposal
 grand_parent: LASER How To
 nav_order: 1
 ---
