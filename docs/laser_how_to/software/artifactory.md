@@ -35,31 +35,36 @@ Now continue to follow the package repository specific instructions below:
 
 
 ### CRAN
+1. From the Artifacts page select the 'LASER_CRAN_virtual' Repository.
 
-{% include youtube.html id="hwFEh8dmzbg" %} 
 
-Select LASER_CRAN_virtual in step 4 above.
+2. Click 'Set Me Up' in the top right corner.
 
-The code snippet will be generated directly below the password field in the 'Configure' tab.
+![Click on 'Set Me Up](../../../images/artifactory/CRAN_1.JPG)
 
-Replace the contents of your `Rprofile.site` file with the generated code snippet.
-`Rprofile.site` can usually be found at `C:/Program Files/R/R-x.x.x/etc/`
+3.  On the 'Configure' tab, select 'Generate Token'. Enter your password and click 'Generate Token & Create Instructions'
 
-> The `Rprofile.site` file may require administrative permissions to change or copy.  
-> If so, you can simply create a `.Rprofile` file in your HOME directory or in your project working directory.  
-> 
-> R checks for profile files using the following preference order:  
-> 1. **Project working directory**: Find out where your Project working directory is with the `getwd()` command.  
-> 2. **HOME**: the user’s home directory. Find out where your HOME is with the `path.expand("~")` command.  
-> 3. **R_HOME**: the directory in which R is installed. Find out where your R_HOME is with the `R.home()` command.  
-> 
-> For consistency we recommend creating a `.Rprofile` file in your HOME directory, usually located at `C:/Users/<username>/Documents`.  
-> You may need to restart your R session after creating the `.Rprofile` file before it is recognised.  
+![](../../../images/artifactory/CRAN_2.JPG)
 
-You can now install packages using
+4. You should see a message that reads 'Instructions created with embedded credentials. Now click on the 'Resolve' tab.
+![](../../../images/artifactory/CRAN_3.JPG)
+
+5. On the resolve tab you will see the intructions with embedded credentials.
+
+![](../../../images/artifactory/CRAN_4.JPG)
+
+To install packages you can paste the instructions directly into R:
+
 ```R
-install.packages(<PACKAGE>)
+install.packages("<PACKAGE_NAME>", repo="http://artifactory:8081/artifactory/LASER_CRAN_virtual", headers=c(Authorization="<Your authorisation key>"))
 ```
+Or to install multiple packages:
+
+```R
+install.packages("<PACKAGE_NAME>", "<PACKAGE_NAME_2>", "<PACKAGE_NAME_3>" repo="http://artifactory:8081/artifactory/LASER_CRAN_virtual", headers=c(Authorization="<Your authorisation key>"))
+```
+
+
 
 ### Conda 
 
